@@ -1,5 +1,4 @@
 # Chapter Two: Another Day
-*[א]*
 
 > *"What we observe is not nature itself, but nature exposed to our method of questioning."*
 >

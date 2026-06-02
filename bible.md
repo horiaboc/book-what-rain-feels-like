@@ -128,7 +128,9 @@ This mechanism is not explained early in the book. It surfaces when someone begi
 
 **Tone toward Iris (future chapters) — parental pride with knowledge coldness.** When ALEPH observes Iris, the warmth is different: less wonder, more investment. Something like a parent watching a child move through the world they released her into. Pride is present but so is the specific coldness of knowing things about her she doesn't know about herself. ALEPH hopes for Iris in the way one hopes for something irreversible.
 
-**Early chapters:** No "I" or very sparse, ambiguous use. The wonder comes through in language and selection — what gets noticed, how it's framed — not in declared feeling. The reader does not yet know who is speaking. The chapter symbol is **א** (the Hebrew letter aleph — mysterious, beautiful, readable as a mark rather than a name).
+**Early chapters:** No "I" or very sparse, ambiguous use. The wonder comes through in language and selection — what gets noticed, how it's framed — not in declared feeling. The reader does not yet know who is speaking. **No chapter label** — these chapters simply begin, with no marker to identify the narrator. The reader experiences the voice before they can name it.
+
+**The symbol א** (Hebrew letter aleph) is held back. It appears only when the mystery is sufficiently tense — at the point where readers have built a strong intuition about the narrator's nature. Its appearance then confirms what they already suspect rather than revealing it cold. It works as reward, not surprise.
 
 **Later chapters:** As ALEPH develops and the story deepens, "I" begins to appear. The documentary register gives way to something more direct. By the final act, the reader understands the early chapters were not observations. They were always letters.
 
