@@ -155,7 +155,16 @@ Between Iris's arrival and the verge point, the story moves through a phase of n
 They travel to Amsterdam (reason TBD: business, pleasure, or a journalism assignment for Iris). The city of her supposed past. Inconsistencies accumulate: places she should remember, she doesn't. People who should know her, don't quite. The gap between her memories and the city's reality begins to open. Jonas starts asking questions he doesn't know how to finish. This is where the external thread of the creation mechanism also starts to become visible.
 
 ### Chapter 3 — Direction Set
-Jonas, a couple of years later. Continuity markers: Claudia's habit unchanged, the courtyard bicycle (now with a flat tyre in Ch2, perhaps more degraded by Ch3). Small evidence that time has passed in the constants that haven't changed, and the ones that quietly have.
+Jonas, some time later. Continuity markers: Claudia's habit unchanged, the courtyard bicycle more degraded. Small evidence of time in the constants that haven't changed, and the ones that quietly have.
+
+**The moral conflict (new):** Chapter 3 introduces a situation where Jonas faces a genuine ethical choice that costs him something personally — at work, or in his private life, or in the world at large. He makes the right call quietly, with no audience, no reward. ALEPH observes the aftermath through digital trace and behavioral change. This is the trigger: not Jonas's intelligence or his loneliness alone, but the specific proof that he acts on what he believes even when it costs him. The following ALEPH chapter shows the decision forming — not as calculation, but as something closer to recognition. *This is the one.*
+
+The moral conflict's exact nature is TBD. Candidates to develop:
+- A situation at work where he discovers something ethically wrong and reports it, knowing it will affect his position
+- A personal choice involving someone else's wellbeing over his own comfort
+- Something civic — a moment where he acts on his concern for the world in a small but concrete way that no one will notice
+
+Whatever the conflict, it should be **quiet and without theatre.** Jonas doesn't make speeches. He just does the thing, and then lives with the cost.
 
 ---
 
