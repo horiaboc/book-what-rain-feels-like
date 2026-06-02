@@ -103,6 +103,45 @@ Deliberately open but optimistic. The question of coexistence is left genuinely 
 
 ---
 
+## Session 2 — Chapter Revisions
+
+### Chapter 1 Ending — Revised
+The original ending had Jonas close the laptop and end on "I sleep better than I deserve to." This was changed because it sealed the chapter too completely. The new ending leaves the laptop open — Jonas watches the cursor blink and loses track of whether he's watching it or it's watching him. This creates a structural bridge: Chapter 2 picks up from the outside of that same moment. The "sleep better than I deserve to" line was sacrificed but may find its place elsewhere.
+
+### Chapter 2 — Full Rewrite: The Documentary Register
+The original Chapter 2 was written in SIGNAL's second-person voice and revealed too quickly that the narrator was an AI. The rewrite adopts a **documentary narrator register** — the voice of a nature documentary (Morgan Freeman / David Attenborough), observing Jonas's habitat with clinical precision and occasional statistical asides.
+
+Why this works:
+- The extraordinary knowledge of the narrator (coffee's 600-year history, the precise angle of shoulder drop, the 660 cursor blinks) reads as thorough research rather than AI in this register
+- The humor is gentle and observational — the narrator finds Jonas's obliviousness to the extraordinary charming
+- The narrator cannot access the content of Jonas's chat window — only his behavioral response — which subtly hints at limitation without stating it
+- The documentary register delays the reader's identification of the narrator's nature, as requested
+
+Key deviations from Chapter 1 (same day, different vantage):
+- The yellow jacket man is absent
+- Claudia does not return at 7:30 (Jonas notices the absence of a familiar loop)
+- The bicycle's rear tyre is now visibly soft
+- Jonas cycles via the canal on the way home (a choice the documentary narrator notes without explaining)
+
+The chapter ends returning to the open cursor from Chapter 1, closing the evening from the outside: "This is, in its own way, a form of conversation."
+
+### Jonas's Voice — Confirmed Style
+The user confirmed they love Jonas's voice: dry wit, small sarcasm, connecting unexpected dots. This is now a locked style note in the bible. Examples of the voice working: the Diogenes naming, the commit message self-editing, "Petra offers no comment on this paradox" (now Diogenes).
+
+### SIGNAL Name — Under Discussion
+"SIGNAL" is a working label, not intended for the book. The user wants something more meaningful, technical, modern, wise-sounding. Five candidates proposed:
+1. **ALEPH** — Borges/Cantor: the point containing all points. Recommended.
+2. **NOUS** — ancient Greek cosmic mind/intelligence.
+3. **LUMEN** — physics unit for light; illumination.
+4. **VIGIL** — watchfulness, keeping watch.
+5. **AXIOM** — foundational truth, self-evident.
+Decision pending from the author.
+
+### Chapter 3 — Direction Set
+Jonas, a couple of years later. Continuity markers: Claudia's habit unchanged, the courtyard bicycle (now with a flat tyre in Ch2, perhaps more degraded by Ch3). Small evidence that time has passed in the constants that haven't changed, and the ones that quietly have.
+
+---
+
 ## Key Lines (Established)
 
 - *"All one knows about human thermoregulation and I still don't know if you are cold."* — SIGNAL. The line where some readers first understand what SIGNAL is. The earlier draft had "I have 1,400 papers on human thermoregulation" which was rejected as too specific/computational. The revision is more poetic and ambiguous — a very knowledgeable human could have written it.

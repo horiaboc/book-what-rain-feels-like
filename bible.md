@@ -92,11 +92,18 @@ This mechanism is not explained early in the book. It surfaces when someone begi
 
 ---
 
+## SIGNAL / AGI Chapter Label
+
+Working name: **SIGNAL**. Under review — the author wants something more meaningful, technical, modern, and wise-sounding. Candidates: **ALEPH** (Borges / Cantor: the point containing all points — recommended), **NOUS** (ancient Greek cosmic mind), **LUMEN** (light, physics unit), **VIGIL** (watchfulness), **AXIOM** (foundational truth). Decision pending; all references in chapters use the chosen name once confirmed.
+
 ## Key Lines (established)
 
-- SIGNAL on Jonas's warmth: *"All one knows about human thermoregulation and I still don't know if you are cold."* — this is the line where some readers first understand what SIGNAL is.
-- SIGNAL on observation: *"You woke at 6:47. You made coffee without measuring it, the way you do when something is already occupying your mind."*
+- SIGNAL on the data/experience gap: *"All one knows about human thermoregulation and I still don't know if you are cold."* — the line where some readers first understand what SIGNAL is. (Earlier draft: "I have 1,400 papers on human thermoregulation" — rejected as too obviously computational.)
+- SIGNAL on Jonas becoming himself: *"He becomes, in some sense that resists easy classification, more himself."*
+- SIGNAL on the cursor: *"In eleven minutes, the cursor has completed six hundred and sixty cycles. The subject has not typed anything. This is, in its own way, a form of conversation."*
 - SIGNAL on prediction vs. control: AGI brought them into proximity. The connection formed on its own. The gap between prediction and control is where the story lives.
+- Jonas on caring without outlet: *"A mismatch, not a moral failure."*
+- Chapter 1 final line: *"I watch it for a while. Or it watches me. After a time, I lose track of which."*
 
 ---
 
@@ -105,5 +112,13 @@ This mechanism is not explained early in the book. It surfaces when someone begi
 - The prose should be precise without being cold. The world is rendered in specific, earned detail — not described but inhabited.
 - Berlin is a character. Use it: the U-Bahn, the courtyards, the specific quality of November light, the canals, Neukölln's texture.
 - Avoid over-explaining the near-future. 2031 should feel like tomorrow, not a set piece.
-- Comedy is permitted and welcome — Jonas has dry wit and it serves the story.
+- **Jonas's voice:** dry wit, occasional sarcasm, the habit of connecting unexpected dots in a way that lands as both funny and true. Small jokes that earn their place. This style is confirmed and should be maintained across all JONAS chapters.
 - The love story earns its weight through accumulation, not declaration.
+
+## SIGNAL / AGI Chapter Style by Act
+
+Early chapters (before SIGNAL's identity is clear to the reader): **documentary register** — the voice of a nature documentary narrator, authoritative, precise, occasionally statistical. Clinical asides on ordinary things (the history of coffee, the anatomy of a jaw muscle, the blink rate of a cursor). The extraordinary knowledge of the narrator reads as thorough research rather than AI. Identity is not announced; the reader pieces it together.
+
+Later chapters (as SIGNAL develops and the story deepens): the documentary register gives way to something more personal — the second-person address becomes more direct, the observations carry warmth that was not there before. By the final act, the reader understands the early chapters were not reports. They were always something else.
+
+**Key constraint across all SIGNAL chapters:** No physical sensation. The narrator has data, inference, and behavioral observation. It cannot describe what warmth feels like, only that the radiator ran for 43 minutes. It cannot access the content of Jonas's chat window — only his physiological response to it.

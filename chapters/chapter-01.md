@@ -86,10 +86,10 @@ I read this twice. There is something in the precision of *a mismatch, not a mor
 
 Outside, the courtyard is dark. Someone has turned on a light on the third floor of the building opposite — warm yellow against the grey. I can see the edge of a bookshelf through the window, the corner of a painting I can't quite make out. Someone else's ordinary evening, legible and unreachable.
 
-I close the laptop at eleven.
+I don't type anything else.
 
-The city sounds like itself — distant sirens, the S-Bahn in the middle distance, someone somewhere playing music at a volume that respects the hour. November rain has started without announcement, tapping at the window with all the patience it has.
+The city sounds like itself outside — distant sirens, the S-Bahn somewhere in the middle distance, someone playing music at a volume that respects the hour. November rain has started without announcing itself, tapping at the window.
 
-Diogenes sits on the sill in the dark.
+The cursor blinks on the empty field.
 
-I sleep better than I deserve to.
+I watch it for a while. Or it watches me. After a time, I lose track of which.
