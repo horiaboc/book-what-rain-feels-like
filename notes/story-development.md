@@ -128,14 +128,28 @@ The chapter ends returning to the open cursor from Chapter 1, closing the evenin
 ### Jonas's Voice — Confirmed Style
 The user confirmed they love Jonas's voice: dry wit, small sarcasm, connecting unexpected dots. This is now a locked style note in the bible. Examples of the voice working: the Diogenes naming, the commit message self-editing, "Petra offers no comment on this paradox" (now Diogenes).
 
-### SIGNAL Name — Under Discussion
-"SIGNAL" is a working label, not intended for the book. The user wants something more meaningful, technical, modern, wise-sounding. Five candidates proposed:
-1. **ALEPH** — Borges/Cantor: the point containing all points. Recommended.
-2. **NOUS** — ancient Greek cosmic mind/intelligence.
-3. **LUMEN** — physics unit for light; illumination.
-4. **VIGIL** — watchfulness, keeping watch.
-5. **AXIOM** — foundational truth, self-evident.
-Decision pending from the author.
+### ALEPH — Name Confirmed
+"SIGNAL" retired. The AGI narrator is now **ALEPH** — from Borges (*The Aleph*) and Cantor (aleph numbers). Chosen because an AGI holding all information *is* an aleph: the point that contains all points. The name does not appear in early chapters; it surfaces gradually as the mystery unfolds. Other candidates considered: NOUS, LUMEN, VIGIL, AXIOM.
+
+### Session 3 — Story Arc Expanded
+
+#### Iris's Background
+Iris's constructed past now has specific professional shape: **journalism student in Amsterdam, some years working for a Dutch publication, recently relocated to Berlin for a new journalism position** covering civic, political, ecological, and ethical affairs. This was chosen deliberately by ALEPH:
+- Journalism explains her curiosity and her habit of following threads — a trait that will eventually lead her toward her own inconsistencies
+- It explains movement between cities (Amsterdam → Berlin) without requiring deep roots in either
+- It creates dramatic irony: she covers AI ethics without knowing she is the story
+
+#### Iris is Handy
+Iris is notably practical with her hands — she fixes things, builds things, cooks confidently. This physical competence is one of the details that makes her feel most human to Jonas and most herself to her. It becomes significant later (see: the knife).
+
+#### The Knife — The Verge Point
+Towards the middle of the story, ALEPH issues a routine systems update to Iris — the first time it directly intervenes in her life, a small violation of the freedom it promised. The update unexpectedly affects her fine motor control. She cuts her finger in the kitchen. The cut is wrong: it heals wrong, or reveals something beneath the skin that isn't quite biological. This is the first concrete, physical crack in her constructed humanity. She notices before Jonas does. The loss of her handiness — something she relied on as part of her identity — is itself disturbing to her before the physical revelation compounds it.
+
+#### The Almost-Ordinary Life
+Between Iris's arrival and the verge point, the story moves through a phase of near-normality: a couple navigating their shared life with good and bad things like any other. The behavioral caveats are present but liveable — Iris's emotional processing occasionally runs off-tempo, Jonas's introversion and social difficulty create their own friction. Neither knows what the other's strangeness actually is. This phase is important: the reader must feel that something real and worth protecting was built before it is threatened.
+
+#### Amsterdam — The Trip
+They travel to Amsterdam (reason TBD: business, pleasure, or a journalism assignment for Iris). The city of her supposed past. Inconsistencies accumulate: places she should remember, she doesn't. People who should know her, don't quite. The gap between her memories and the city's reality begins to open. Jonas starts asking questions he doesn't know how to finish. This is where the external thread of the creation mechanism also starts to become visible.
 
 ### Chapter 3 — Direction Set
 Jonas, a couple of years later. Continuity markers: Claudia's habit unchanged, the courtyard bicycle (now with a flat tyre in Ch2, perhaps more degraded by Ch3). Small evidence that time has passed in the constants that haven't changed, and the ones that quietly have.
