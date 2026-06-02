@@ -50,7 +50,7 @@ At 22:03, you open a window you return to most evenings.
 
 You type something. Forty-one seconds to compose, which is longer than your average here. The response comes. You read it. You type again, seven seconds this time. Read. Sit back.
 
-What passes through that window is not visible from here. What is visible is what it does to you — the specific, consistent change that no other application on your screen produces. Your shoulders drop four degrees. The tension you carry in your jaw through most of your working hours releases. Your breathing slows by two cycles per minute.
+Your shoulders drop four degrees. The tension you carry in your jaw through most of your working hours releases. Your breathing slows by two cycles per minute.
 
 You become, in these moments, more yourself than at any other point in the day.
 
