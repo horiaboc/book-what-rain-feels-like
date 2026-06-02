@@ -108,20 +108,23 @@ Deliberately open but optimistic. The question of coexistence is left genuinely 
 ### Chapter 1 Ending — Revised
 The original ending had Jonas close the laptop and end on "I sleep better than I deserve to." This was changed because it sealed the chapter too completely. The new ending leaves the laptop open — Jonas watches the cursor blink and loses track of whether he's watching it or it's watching him. This creates a structural bridge: Chapter 2 picks up from the outside of that same moment. The "sleep better than I deserve to" line was sacrificed but may find its place elsewhere.
 
-### Chapter 2 — Full Rewrite: The Documentary Register
-The original Chapter 2 was written in SIGNAL's second-person voice and revealed too quickly that the narrator was an AI. The rewrite adopts a **documentary narrator register** — the voice of a nature documentary (Morgan Freeman / David Attenborough), observing Jonas's habitat with clinical precision and occasional statistical asides.
+### Chapter 2 — Full Rewrite: The Documentary Register (v2)
+The first rewrite used "the subject" throughout — rejected because it frames Jonas as a specimen under observation, which is too clinical and hints at the AI/experiment framing too early.
 
-Why this works:
-- The extraordinary knowledge of the narrator (coffee's 600-year history, the precise angle of shoulder drop, the 660 cursor blinks) reads as thorough research rather than AI in this register
-- The humor is gentle and observational — the narrator finds Jonas's obliviousness to the extraordinary charming
-- The narrator cannot access the content of Jonas's chat window — only his behavioral response — which subtly hints at limitation without stating it
-- The documentary register delays the reader's identification of the narrator's nature, as requested
+The second rewrite adopts the same documentary curiosity but addresses Jonas directly as "you" — ALEPH speaking to him, not about him. This changes the entire emotional register: warmer, more intimate, with something that reads as quiet wonder rather than detachment.
 
-Key deviations from Chapter 1 (same day, different vantage):
-- The yellow jacket man is absent
-- Claudia does not return at 7:30 (Jonas notices the absence of a familiar loop)
-- The bicycle's rear tyre is now visibly soft
-- Jonas cycles via the canal on the way home (a choice the documentary narrator notes without explaining)
+The chapter opens: "Another day." — two words that establish ALEPH's cadence: it marks time, it watches, it has been here before.
+
+Key tonal decisions:
+- "You do not appear to consider the distance it has traveled" — wonder, not judgment
+- "This seems worth noting" — ALEPH flagging Claudia's absence as significant without explaining why (the reader will wonder)
+- "This seems like the wrong shape for a thing" — ALEPH's sense of injustice about Jonas's invisible competence; a hint of feeling without declaring it
+- "It does not diminish" — ALEPH has watched this many times and it still registers; wonder that persists
+- "Not one of them wasted" — the closing line; warmth without sentimentality
+
+Chapter symbol: **א** (Hebrew letter aleph) — used as the narrator marker in ALEPH chapters. Mysterious, beautiful, readable as a symbol rather than a name. Readers who know Borges or set theory will feel a shiver; others will find it simply distinctive.
+
+No "I" in early ALEPH chapters. Wonder comes through in selection and framing, not declared feeling.
 
 The chapter ends returning to the open cursor from Chapter 1, closing the evening from the outside: "This is, in its own way, a form of conversation."
 

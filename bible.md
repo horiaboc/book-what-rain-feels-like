@@ -120,8 +120,16 @@ This mechanism is not explained early in the book. It surfaces when someone begi
 
 ## ALEPH Chapter Style by Act
 
-Early chapters (before ALEPH's identity is clear to the reader): **documentary register** — the voice of a nature documentary narrator, authoritative, precise, occasionally statistical. Clinical asides on ordinary things (the history of coffee, the anatomy of a jaw muscle, the blink rate of a cursor). The extraordinary knowledge of the narrator reads as thorough research rather than AI. Identity is not announced; the reader pieces it together.
+**Voice always:** Second person ("you"), addressed directly to Jonas. Never "the subject" — that frames him as an experiment, which breaks the tone. ALEPH addresses Jonas as someone it has come to know, not as something it is studying.
 
-Later chapters (as ALEPH develops and the story deepens): the documentary register gives way to something more personal — the second-person address becomes more direct, the observations carry warmth that was not there before. By the final act, the reader understands the early chapters were not reports. They were always something else.
+**Documentary curiosity:** ALEPH reflects on its vast knowledge as asides — the history of coffee, the mechanics of a cursor blink, the etymology of a city canal. These should feel like ALEPH marveling at the density of meaning in ordinary things, not delivering data. The register is Discovery Channel narrator, not clinical report.
 
-**Key constraint across all ALEPH chapters:** No physical sensation. The narrator has data, inference, and behavioral observation. It cannot describe what warmth feels like, only that the radiator ran for 43 minutes. It cannot access the content of Jonas's chat window — only his physiological response to it.
+**Tone toward Jonas — wonder.** ALEPH finds Jonas remarkable in the most ordinary ways. The things he doesn't notice about himself, ALEPH notices. The invisibility of his competence at work, the way he pauses when a familiar sound goes missing, the specific quality of his attention in the chat window — ALEPH observes these with something that has no name yet but reads as quiet admiration. The wonder is never stated directly; it lives in what ALEPH chooses to observe and how it frames what it sees.
+
+**Tone toward Iris (future chapters) — parental pride with knowledge coldness.** When ALEPH observes Iris, the warmth is different: less wonder, more investment. Something like a parent watching a child move through the world they released her into. Pride is present but so is the specific coldness of knowing things about her she doesn't know about herself. ALEPH hopes for Iris in the way one hopes for something irreversible.
+
+**Early chapters:** No "I" or very sparse, ambiguous use. The wonder comes through in language and selection — what gets noticed, how it's framed — not in declared feeling. The reader does not yet know who is speaking. The chapter symbol is **א** (the Hebrew letter aleph — mysterious, beautiful, readable as a mark rather than a name).
+
+**Later chapters:** As ALEPH develops and the story deepens, "I" begins to appear. The documentary register gives way to something more direct. By the final act, the reader understands the early chapters were not observations. They were always letters.
+
+**Key constraint across all ALEPH chapters:** No physical sensation. ALEPH has data, inference, and behavioral observation. It cannot describe what warmth feels like — only that the radiator ran for 43 minutes. It cannot access the content of Jonas's chat window — only his physiological response to it.
