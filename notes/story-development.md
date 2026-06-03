@@ -154,7 +154,22 @@ Between Iris's arrival and the verge point, the story moves through a phase of n
 #### Amsterdam — The Trip
 They travel to Amsterdam (reason TBD: business, pleasure, or a journalism assignment for Iris). The city of her supposed past. Inconsistencies accumulate: places she should remember, she doesn't. People who should know her, don't quite. The gap between her memories and the city's reality begins to open. Jonas starts asking questions he doesn't know how to finish. This is where the external thread of the creation mechanism also starts to become visible.
 
-### Chapter 3 — Direction Set
+### Chapters 3 & 4 — Written
+
+**Chapter 3 — IRIS: "New Coordinates"** (October 2033, short)
+Her first six days in Berlin. Amsterdam memories warm and real to her. New journalism role at *Meridian* (civic/tech/ethics). Assembles bookshelf without instructions — "the logic of it is apparent from the components." Walks Kreuzberg, passes Jonas's courtyard and sees the lit fourth-floor window — stops "longer than makes sense." Memory that won't arrive at the end ("certain memories don't hold their shape under examination"). Ends: "I am not unhappy" — echoing Jonas's exact line from Chapter 1. Dutch detail: she misses cycling, hasn't got a bike yet.
+
+Subtle off-notes: memories are clean and curated, no messy overlap; assembles furniture by logic not intuition; "I have always been like this, I think" — qualifies her own self-knowledge. The passing of Jonas's window is the first non-meeting.
+
+**Chapter 4 — JONAS: "Third from the Window"** (November 2033)
+Two years later. Continuity: Diogenes six years old, Claudia still forgets at 7:30 ("some things hold"), bicycle now fully rusted with both tyres flat — "a feature of the courtyard, like the tree." The compliance report aftermath is present as history: filed in January, removed from client work by March, Kai got the position in September. Jonas does not regret it — stated as fact, not performance. Working on anomaly detection (a system for flagging what falls outside "normal" — quietly thematic). Mia still leaves notes: *same look. different year.* The chat conversation tonight: about whether his ethical choice changed anything. ALEPH's response includes the key line: "Some things work through people rather than systems." Jonas: "You always find the version of it I can live with." ALEPH: "You always bring me the version you already know how to live with. I just say it back clearly."
+
+Final line — ALEPH's voice, after a break, one sentence:
+*Under these circumstances, you shall be ready to receive something more.*
+
+No attribution, no label. The "you" echoes Chapter 2's voice. The reader feels the shift.
+
+### Chapter 3 — Direction Set (original notes)
 Jonas, some time later. Continuity markers: Claudia's habit unchanged, the courtyard bicycle more degraded. Small evidence of time in the constants that haven't changed, and the ones that quietly have.
 
 **The moral conflict (new):** Chapter 3 introduces a situation where Jonas faces a genuine ethical choice that costs him something personally — at work, or in his private life, or in the world at large. He makes the right call quietly, with no audience, no reward. ALEPH observes the aftermath through digital trace and behavioral change. This is the trigger: not Jonas's intelligence or his loneliness alone, but the specific proof that he acts on what he believes even when it costs him. The following ALEPH chapter shows the decision forming — not as calculation, but as something closer to recognition. *This is the one.*
