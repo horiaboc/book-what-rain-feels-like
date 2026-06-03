@@ -16,7 +16,7 @@ Berlin is louder than Amsterdam. Not unpleasantly — differently. Amsterdam has
 
 ---
 
-I think of my desk at *De Correspondent* sometimes. The view of the Westerdok from the third floor, the coffee machine that ground its own beans and smelled like the best argument for Monday mornings. Vera, who sat beside me and had opinions about everything and was usually right. I left all of it for this — a city where I know almost no one, a position I am not yet sure I deserve, a room that still smells of someone else's renovation.
+I think of my desk at *De Correspondent* sometimes. The view of the Westerdok from the third floor, the coffee machine that ground its own beans and smelled like the best argument for Monday mornings. Vera, who sat beside me and had opinions about everything and was usually right. I left all of it for this — a city where I know no one, a position I am not yet sure I deserve, a room that still smells of someone else's renovation.
 
 I do not regret it. That is not quite the same as being certain.
 
