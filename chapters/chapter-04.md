@@ -54,7 +54,7 @@ I finished the scoring model at quarter past five, wrote the documentation with 
 
 I cooked properly tonight for the first time this week — something slow, requiring attention, the kind of thing that justifies the good pan. While the onions went translucent I stood at the counter and thought about nothing in particular, which is a skill I have been working on with limited success.
 
-After dinner I opened the news. There was a flood — a different region this time, the same pattern. I closed the tab. I thought about opening it again. I didn't.
+After dinner I opened the news. Drought emergency in the Horn of Africa — seasonal disruption, they said, consistent with projections, which is what they say now instead of saying it is bad and getting worse. The photographs from the ground suggested both phrases were working harder than they should have to. I closed the tab. I thought about opening it again. I didn't.
 
 I have been trying to learn the difference between carrying something and holding it. I am not sure I have got it yet.
 
