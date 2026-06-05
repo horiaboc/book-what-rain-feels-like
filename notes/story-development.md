@@ -134,6 +134,14 @@ The user confirmed they love Jonas's voice: dry wit, small sarcasm, connecting u
 ### ALEPH — Name Confirmed
 "SIGNAL" retired. The AGI narrator is now **ALEPH** — from Borges (*The Aleph*) and Cantor (aleph numbers). Chosen because an AGI holding all information *is* an aleph: the point that contains all points. The name does not appear in early chapters; it surfaces gradually as the mystery unfolds. Other candidates considered: NOUS, LUMEN, VIGIL, AXIOM.
 
+### Chapters 5 & 6 — Written
+
+**Chapter 5 (documentary narrator, Iris observed):** "Three Weeks" — portrait of Iris through three weeks of digital trace. 634 searches, the anomalous Westerdok lookup (she searches for a canal she should know — not repeated), the lamp fixed without instructions, location data placing her within 400 meters of Weichselstraße three times without knowing. What she reads at night: Spinoza in Dutch, German novels, an AI regulatory piece three times until 2:14am. Ends: "These are good qualities for what is coming." — narrator aware of what is ahead, reader not yet sure who the narrator is.
+
+**Chapter 6 (IRIS, first meeting):** "A Small Exchange" — Pannierstraße coffee shop, Tuesday morning. Reza the owner. TV news: Mekong Delta flooding (callbacks to Ch1 and Ch4). Jonas makes an involuntary sound. Iris looks up. Exchange: "Same pattern. Different coordinates." / "Third time this season." Three or four turns, warm, brief. They don't exchange names. Iris writes him in her notebook: *"Knows how to carry a thing."* She takes the long way home. Last line: "I'm not sure why I wrote it down." — the anchor is set without either of them knowing.
+
+Key structural note: The Mekong Delta appears in Ch1 (Jonas's chat), Ch4 (Jonas's evening news), and now Ch6 (the trigger for the first meeting). The thing Jonas has been carrying for five years is the thing that introduces him to Iris.
+
 ### Session 3 — Story Arc Expanded
 
 #### Iris's Background
