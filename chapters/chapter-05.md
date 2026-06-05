@@ -6,54 +6,34 @@
 
 ---
 
-Three weeks of digital trace is enough to draw a portrait.
+Six days in and the apartment is mostly arranged: the bookshelf assembled — journalism and ethics to the left, fiction and poetry to the right, the undecided given the middle shelf and instructed to wait — and the lamp, which arrived bent, fixed without instructions in twenty-two minutes. The shade is straightened to within three degrees of vertical.
 
-Not a complete one — completeness requires time, and three weeks is a beginning. But a shape emerges. The outline of a person in the data they leave behind, the way a body leaves an impression in fresh snow: not the body itself, but evidence of it, and evidence of how it moves through the world.
+A new position at a small international bureau. Civic and political, with a focus on technology and ethics. The first piece is already in progress: cycling infrastructure and urban accountability across six European capitals. The research accumulates in layers — each source narrowing to the next, each fact directing the following question. The piece, when it arrives, will be considered and specific.
 
-The new arrival in Berlin — a journalist, twenty-five, relocated from Amsterdam at the start of October — leaves a trace worth examining carefully.
-
----
-
-In the first week: 634 searches across three devices. The distribution is consistent with professional orientation and practical relocation: journalism databases, German administrative sources, public transport routes, neighborhood guides for Kreuzberg and Neukölln. Sixty-eight searches in Dutch, declining steadily through the week as German equivalents are located and filed. She does not use translation tools. She navigates language the way she navigates the U-Bahn — by reading the system until it becomes legible, then trusting it without looking back.
-
-She searches for a good bicycle repair shop on day three. She does not yet have a bicycle. This is a kind of optimism.
-
-On the sixth day: one anomalous search. The Westerdok, Amsterdam. A canal she would presumably know well — she lived within walking distance of it for four years. The search returns photographs, a Wikipedia entry, a restaurant review. She spends four minutes on the photographs. Then she searches for the restaurant, reads the menu, closes the tab.
-
-As if she were checking that the place around the memory still exists. As if the memory alone were not quite sufficient evidence.
-
-The search is not repeated.
+On the sixth evening, photographs on the screen. The Westerdok, Amsterdam — a canal, an embankment, the quality of flat northern light preserved in the image. Four minutes with them. Then the restaurant nearby, the menu, the current opening hours. Then the screen dark.
 
 ---
 
-In the second week: her first piece for *Meridian* takes shape in her search behavior before it appears on the page. The pattern is visible and methodical — cycling infrastructure policy across six European capitals, municipal injury data from the past decade, a three-year-old report on urban planning and ecological resilience in cities below sea level. Each search narrows the aperture of the previous one, until only the necessary light comes through.
+In the second week, the city.
 
-She is building something considered and specific. The piece will be good.
+She walks it the way she works a story: beginning at the edges and moving inward, trusting that the center will become clear through accumulation rather than approach. Down the canal twice, in opposite directions. The Saturday market on Maybachufer — forty minutes, three purchases, one of which was unnecessary. Weserstraße three times, which runs parallel to the canal and four minutes south of the apartment.
 
-On the seventh day she fixes the lamp in her apartment. No search precedes this. No instructional video, no forum, no manufacturer's guide. The lamp is working in twenty-two minutes. The bent shade is straightened to within three degrees of vertical — close enough that only someone measuring would notice, which is to say: it is straight.
-
-She leaves the extra screw from the bookshelf on the windowsill. It has been there since assembly and she has not moved it. It is possible she has forgotten it. It is also possible she is waiting to know where it belongs.
-
----
-
-In the third week: her location data describes a person learning a city by walking it deliberately. Not by the shortest route — by the route most likely to yield the most information. She has followed the canal twice, in opposite directions. She spent forty minutes at the Saturday market on Maybachufer and bought three things, one of which was unnecessary. She has walked Weserstraße three times, which runs parallel to the canal and four minutes south of her apartment.
-
-She has been within 400 meters of one address in particular — on Weichselstraße, in Neukölln — on three separate occasions, twice on foot and once passing on the U8.
+She has been within four hundred meters of an address on Weichselstraße on three separate occasions.
 
 She does not appear to know this.
 
-On the eighteenth day she attends a press briefing at the Senate Department for Urban Development. Her questions, according to the transcript, are precise and three questions deeper than anyone else in the room.
+At a Senate briefing on urban development, her questions go three levels deeper than anyone else in the room. The press officer answers two of them.
 
-The press officer answers two of them.
+She fixes the lamp on day seven. It is already noted above that she fixed the lamp. It is also worth noting that she has not moved the extra screw from the bookshelf assembly, which has been sitting on the windowsill since the first day. She appears to be waiting to know where it belongs.
 
 ---
 
-What she reads at night is a different portrait from what she searches during the day.
+A journalist, twenty-five, new to the city and to the winter, which is arriving with more decision than Amsterdam's. The coat she brought is adequate but not quite right. She has noted this and not yet acted on it.
 
-At night: Spinoza, in Dutch, intermittently — the *Ethics*, which she appears to be reading in the original rather than translation, moving slowly enough to suggest she is not reading past the difficulty but through it. Two novels in German somewhat above her stated proficiency, which she reads with a dictionary open in a second tab that she consults perhaps once every twenty minutes. A long Dutch investigative piece on the first-wave regulatory failures around AI development — the gap between what the early systems could do and what anyone had thought to require of them. She reads this three times in one sitting. The third reading ends at 2:14 in the morning.
+---
 
-On another night: she searches for the Dutch word *thuiskomen*. Returns the translation — *to come home, to arrive home, to feel at home* — and stays on the page for a while without searching further. Then closes it.
+At night: Spinoza, in Dutch, the *Ethics*, read in the original with the patience of someone who has decided not to be defeated by the difficulty and has not been. Two German novels above her current level, read with a reference tab open and consulted perhaps once every twenty minutes — the ratio of someone learning through immersion rather than assistance. A long investigative piece on the first-wave regulatory failures in early AI development, the gap between what the systems were already capable of and what anyone thought to demand of them. She reads it three times in a single sitting. The third reading ends at twenty-three minutes past two.
 
-She is curious about everything. She follows threads past the point where most people stop. She seems to be looking, in the data she leaves behind, for something she does not yet have a name for.
+On another evening she writes the word *thuiskomen* in the margin of her notebook and stays with it for a while.
 
-These are good qualities for what is coming.
+Then she continues, without noting a translation.
