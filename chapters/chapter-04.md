@@ -88,4 +88,4 @@ I didn't need to.
 
 ---
 
-Under these circumstances, you shall be ready to receive something more.
+Maybe now YOU are ready to receive something more.
