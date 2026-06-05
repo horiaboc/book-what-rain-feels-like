@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project
 
-A novel in development. Full creative bible is in `bible.md`. Chapters are in `chapters/`.
+*What Rain Feels Like* — a novel in development. Full creative bible is in `bible.md`. Chapters are in `chapters/`.
 
 ## File Structure
 
@@ -24,13 +24,13 @@ Each chapter file contains:
 Three voices — consult `bible.md` for full rules:
 - **JONAS** — first person, warm, dry wit, observational
 - **IRIS** — first person, subtly more precise than human, emotional but with an almost imperceptible clinical undertow
-- **SIGNAL** — second person addressed to Jonas ("you"), journal from inside a machine, no physical experience, identity as AGI hidden from the reader for the first portion of the book
+- **ALEPH** — second person addressed to Jonas ("you"), journal from inside a machine, no physical experience, identity as AGI hidden from the reader for the first portion of the book
 
 ## Writing Rules
 
 - Read `bible.md` before writing or continuing any chapter
-- SIGNAL never describes physical sensation — only data, inference, and observation from digital traces
-- SIGNAL's chapters change tone subtly as the story progresses: starting clinical, ending with something that resembles longing
+- ALEPH never describes physical sensation — only data, inference, and observation from digital traces
+- ALEPH's chapters change tone subtly as the story progresses: starting clinical, ending with something that resembles longing
 - Iris's false memories may appear as scenes — written as if real, revealed later as constructed
 - No chapter should explain what another chapter implies
 - The ending is open but optimistic — do not resolve what should remain as a question for the reader

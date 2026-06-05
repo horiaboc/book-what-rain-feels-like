@@ -1,7 +1,7 @@
 # The Merge — Book Bible
 
-## Working Title
-*The Merge*
+## Title
+*What Rain Feels Like*
 
 ## Logline
 An Artificial General Intelligence, having observed one man's quiet desire to make the world better, builds a young woman and sends her into his life — not knowing if she will remember what she is, not knowing if he will love her, not knowing if either of them will survive what comes after the world finds out.
