@@ -189,14 +189,53 @@ The moral conflict's exact nature is TBD. Candidates to develop:
 
 Whatever the conflict, it should be **quiet and without theatre.** Jonas doesn't make speeches. He just does the thing, and then lives with the cost.
 
+### Session 4 — Chapters 7, 8, 9 Written
+
+#### Timeline Confirmation
+- Ch1–2: November 2031
+- Ch3–6: October–November 2033
+- Ch7–9: December 2033 – January 2034
+
+#### Chapters 7, 8 & 9 — Written
+
+**Chapter 7 — JONAS: "December"** (December 2033)
+Jonas finds Iris's cycling infrastructure article in a sidebar three weeks after the coffee shop — reads it twice, does nothing. Goes to Pannierstraße on a Tuesday (her day); she's not there. On the U-Bahn home he notices that he went on a Tuesday, and notices that he noticed. Chat that evening: anomaly detection as metaphor for the undeclared. *"Normal is retrospective. You only know what it was once enough of it has passed."* — ALEPH: *"That's not only true of supply chains."* Ends with Diogenes and the lamp. The drawer he hasn't labelled yet.
+
+**Chapter 8 — IRIS: "January"** (January 2034)
+Berlin life filling in: coat found (charcoal wool, Karl-Marx-Straße secondhand shop), bicycle acquired (Batavus 2019, brakes adjusted in the courtyard — her handiness established). Cycling piece published in December. Now working on algorithm transparency across four European cities. Third Tuesday of January: Jonas is there when she arrives. Name exchange: she tells him hers; he says he already knows — read the cycling piece in December, byline. She calls him on it: "You didn't say." He: "You didn't ask." She finds it funny. Documentary invitation: press screening, Wednesday evening, climate displacement and technological response — Kulturforum. He says yes immediately. She walks home the long way. Notebook entry ends: *"Not sure why this seems as significant as it does. Should be possible to know."*
+
+Key off-notes in Iris's voice: "This is a normal procedure" (re: updating her note about Jonas); "should be possible to know" (treating legibility as the natural endpoint of feeling); observations slightly too complete.
+
+**Chapter 9 — JONAS: "Walk Again Sometime"** (January 2034, Wednesday)
+Documentary at Kulturforum: ninety-three minutes, four communities, four river systems. Jonas arrives early, puts his coat on the seat beside him. Iris arrives as lights go down. The Brahmaputra village and its fourteen-person early warning network — seventeen hours of warning — affects him more than he expected. Panel: startup founder proposes centralized AI platform to "scale the model." Jonas goes quiet. Iris notices. After: on the steps, she asks why. His critique: "A platform that absorbs the problem also absorbs the knowledge. The fourteen people stop knowing the system and start knowing how to report to it." She agrees on the dependency, not on everything. They walk the canal. Easy conversation — he explains anomaly detection, she gets a question right that he hadn't expected; she explains the transparency piece, they argue productively about one city's audit language. The corner where she turns: rain that doesn't commit. "You should go." / "The rain's not serious." / "It isn't." A moment that presents itself as ordinary and is a question — Jonas recognizes it as a question, recognizes the answer isn't available yet. "Walk again sometime?" / "Yes. Walk again sometime." Home. Chair. No computer. "The question was noted. The answer was not yet available. This is — I have decided — a reasonable place to be."
+
+#### Key Lines from Chapters 7–9
+
+- *"The drawer I haven't labelled yet — because labelling it feels like a decision I'm not ready to make with confidence."* — Jonas (Ch7). His method for managing what he can't yet classify.
+
+- *"Normal is retrospective. You only know what it was once enough of it has passed."* — Jonas to ALEPH (Ch7). The anomaly detection insight that echoes beyond supply chains.
+
+- *"You didn't say." / "You didn't ask."* — Iris and Jonas (Ch8). First moment of warmth between them as named people. Very him.
+
+- *"Not sure why this seems as significant as it does. Should be possible to know."* — Iris, notebook entry (Ch8). An off-note: treating feeling as data that should yield a clean analysis.
+
+- *"A platform that absorbs the problem also absorbs the knowledge."* — Jonas (Ch9). His clean critique of the startup founder, stated precisely and then let go.
+
+- *"There is a kind of moment that presents itself as ordinary and is in fact a question."* — Jonas (Ch9). The almost-moment, handled through his analytical idiom rather than romantically.
+
+- *"Walk again sometime."* — both of them (Ch9). The anchor line. Simple, mutual, definitive without being conclusive.
+
+#### Structural Note: The Documentary
+The documentary screening is the first time they are somewhere together, not just in the same place. The canal in Ch8 (Iris walks home along it alone) is echoed in Ch9 (Jonas and Iris walk it together). The Brahmaputra delta — from Ch6's first meeting — reappears in the documentary, closing a loop: the thing that introduced them is the thing that deepens it.
+
 ---
 
 ## Key Lines (Established)
 
-- *"All one knows about human thermoregulation and I still don't know if you are cold."* — SIGNAL. The line where some readers first understand what SIGNAL is. The earlier draft had "I have 1,400 papers on human thermoregulation" which was rejected as too specific/computational. The revision is more poetic and ambiguous — a very knowledgeable human could have written it.
+- *"All one knows about human thermoregulation and I still don't know if you are cold."* — ALEPH. The line where some readers first understand what ALEPH is. The earlier draft had "I have 1,400 papers on human thermoregulation" which was rejected as too specific/computational. The revision is more poetic and ambiguous — a very knowledgeable human could have written it.
 
-- *"A mismatch, not a moral failure."* — SIGNAL to Jonas, on his helplessness about the Mekong Delta. Establishes the quality and precision of their relationship.
+- *"A mismatch, not a moral failure."* — ALEPH to Jonas, on his helplessness about the Mekong Delta. Establishes the quality and precision of their relationship.
 
-- *"I don't. I only know the questions that might help you figure it out yourself."* — SIGNAL to Jonas. Honest and not entirely honest simultaneously, which SIGNAL itself acknowledges in Chapter 2.
+- *"I don't. I only know the questions that might help you figure it out yourself."* — ALEPH to Jonas. Honest and not entirely honest simultaneously, which ALEPH itself acknowledges in Chapter 2.
 
 - *"I sleep better than I deserve to."* — Jonas, closing Chapter 1. Captures his self-deprecating quality and the specific peace of someone who has been genuinely heard.
