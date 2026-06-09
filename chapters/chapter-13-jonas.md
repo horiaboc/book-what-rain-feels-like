@@ -8,7 +8,7 @@
 
 April.
 
-Diogenes has moved to the windowsill in the kitchen, which gets more sun. He did this on his own initiative and without consulting me, which is either a sign of increasing confidence or a reminder that the apartment has always been his and I merely contribute to the heating bill. I am choosing to read it as contentment.
+Diogenes appears to have relocated to the kitchen windowsill, which gets more sun in the morning. He is a cactus and lacks the initiative for this kind of decision, so I can only conclude that Iris moved him there one afternoon without mentioning it — she notices these things and acts on them quietly, as if rearranging the light around something is simply what you do when you care about it. I am choosing to read it as contentment. Both of them, I think, would agree.
 
 I seem to be reading a great deal of things as contentment lately.
 
@@ -26,7 +26,7 @@ I stayed.
 
 Here is what I have learned about Iris, in the domestic sense, in the weeks since the party:
 
-She wakes early and is immediately functional, which I find both admirable and slightly unnerving. She reads two newspapers before I have finished my first coffee. She talks to things — the bicycle lock when it sticks, occasionally plants, the oven once, at length. She is practical with a competence that is at once unassuming and absolute: the cabinet hinge, a running tap, a loose floorboard in her hallway that I stepped on twice before she fixed it with a calm efficiency that suggested she had been meaning to get to it and my twice stepping on it had constituted sufficient reminder.
+She wakes early and is immediately functional, which I find both admirable and slightly unnerving. She reads two news before I have finished my first coffee. She talks to things — the bicycle lock when it sticks, occasionally plants, the oven once, at length. She is practical with a competence that is at once unassuming and absolute: the cabinet hinge, a running tap, a loose floorboard in her hallway that I stepped on twice before she fixed it with a calm efficiency that suggested she had been meaning to get to it and my twice stepping on it had constituted sufficient reminder.
 
 She is neat in the way of someone who isn't trying to be neat but thinks in an ordered way, so order follows. My apartment has not been this functional since I moved in.
 
@@ -42,11 +42,11 @@ I have thought about this more than is strictly necessary for an argument about 
 
 ---
 
-She is interested in everything, which is perhaps her most consistent quality and the one that catches me most off-guard. Not in the dilettante way — she doesn't skim; she finds the question underneath the question and goes there. We will be talking about something ordinary — the commute, a film, the neighbor downstairs and his inexplicable collection of reclaimed doors — and she will ask the one question that opens a different conversation entirely. The question is always the right one. The conversation is always better than the one we were having.
+She is interested in everything, which is perhaps her most consistent quality and the one that catches me most off-guard. Not in the dilettante way — she doesn't skim; she finds the question underneath the question and goes there. We will be talking about something ordinary — the commute, a film, the neighbor downstairs and his wall of framed photographs of old doors and portals — ornate ones, the kind from buildings that no longer exist — which I have decided is either a very specific passion or the beginning of a philosophy — and she will ask the one question that opens a different conversation entirely. The question is always the right one. The conversation is always better than the one we were having.
 
-I mentioned this to Mia, which I regret, because Mia immediately said: *so you're in love with her, then* — not as a question — and went back to her documentation.
+I mentioned this to Mia, which I should have anticipated. Mia is forty-three, has been at Merkon eleven years, and has looked after me with the particular affectionate pragmatism of someone who considers emotional competence part of good systems design. She listened to approximately forty seconds of what I was saying, then said *so you're in love with her, then* — not as a question — and looked up with an expression I had not previously seen from her in a work context, which was uncomplicated happiness. Then she went back to her documentation.
 
-Mia is the clearest documentarian I know. It is not always convenient.
+Mia is the clearest documentarian I know. It is not always convenient, but on this occasion I found I didn't mind.
 
 ---
 
@@ -70,7 +70,7 @@ I didn't push on it. She turned the page and came back from wherever she had bee
 
 May is coming.
 
-The bicycle in my courtyard has now been there so long that it has achieved a kind of permanence I've decided to respect. I have, however, bought a new one — secondhand, Kreuzberg, good frame — which I ride on Saturdays when Iris has morning assignments and the canal path is possible at a decent speed. I arrive at wherever I'm going in a better state than I left. This is, I think, the point.
+The bicycle in my courtyard has now been there so long that it has achieved a kind of permanence I've decided to respect. It was never mine — it came with the courtyard, in the way some things do — but it occurs to me only now that I have, in the meantime, bought one of my own — secondhand, Kreuzberg, good frame — which I ride on Saturdays when Iris has morning assignments and the canal path is possible at a decent speed. I arrive at wherever I'm going in a better state than I left. This is, I think, the point.
 
 She asked me once, toward the end of April, what I was thinking about when I went quiet.
 

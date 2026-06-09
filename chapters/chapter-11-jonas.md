@@ -8,7 +8,7 @@
 
 The party was in Prenzlauer Berg, which already told you something about who was throwing it.
 
-Lukas, a photographer Iris knew from Amsterdam — he'd moved to Berlin two years ago, had a large studio apartment near Kollwitzplatz that could hold forty people if you removed the furniture and everyone agreed to stand close together. People did both. There was a playlist that went from acceptable to strange around midnight, wine in the kind of bottles that don't have labels, and the particular density of conversation that happens when a room full of people in their late twenties has collectively decided the evening matters.
+Lukas, a photographer at her paper who had been there since before she arrived — he had a large studio apartment near Kollwitzplatz that could hold forty people if you removed the furniture and everyone agreed to stand close together. People did both. There was a playlist that went from acceptable to strange around midnight, wine in the kind of bottles that don't have labels, and the particular density of conversation that happens when a room full of people in their late twenties has collectively decided the evening matters.
 
 Iris had asked me three days before. "A friend's thing. You don't have to." The way she said *you don't have to* was the way people say things they'd prefer you to say yes to. I said yes.
 

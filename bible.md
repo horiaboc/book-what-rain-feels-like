@@ -96,6 +96,65 @@ This mechanism is not explained early in the book. It surfaces when someone begi
 
 ---
 
+## Iris's Cover Story (Implanted Memory)
+
+ALEPH designed Iris's constructed past to be believable, verifiable in broad strokes, and deliberately isolated — minimising the risk of anyone checking too closely.
+
+- **Parents:** Died in a car accident when Iris was very young. No living memory of them, only photographs and what the grandparents told her.
+- **Grandparents:** Raised her. Both have since died of old age — not simultaneously; first the grandfather (three to four years ago), then the grandmother (roughly eighteen months ago). This creates recent, genuine-feeling grief that explains emotional guardedness without raising suspicion.
+- **Siblings:** None.
+- **Hometown:** A smaller town in the Netherlands — far enough from Amsterdam to feel distinct, close enough to be plausible. She left as a young adult and has not maintained connections there.
+- **Studies:** Journalism in Amsterdam. Some friends during that period, but none particularly close. No ongoing contact — no shared work, no strong reason to reach out.
+- **Professional past:** A brief stint at *De Correspondent* in Amsterdam before relocating to Berlin. Legitimate enough to check; thin enough that former colleagues remember her vaguely rather than well.
+
+**The design logic:** No living family to contradict the story. No close friends with detailed memories. A city of origin (Amsterdam, different country) that makes background verification harder. Recent enough grief to explain reticence. The isolation reads as ordinary sadness, not as engineered concealment.
+
+**Narrative use:** Iris's loneliness is real to her. She mourns grandparents she never actually had. This emotional reality is one of the book's quiet ethical weights — the grief is constructed, but the feeling isn't. Jonas learns her background gradually and treats it with care, which matters later.
+
+**The Amsterdam trip (future):** When they travel there for her work, the cracks begin. Places she should remember, she doesn't. A café she described to Jonas doesn't exist on the street she named. A former colleague she mentions doesn't recall her the way she recalls them. The inconsistencies accumulate slowly, then suddenly.
+
+---
+
+## Iris's Physical Architecture
+
+ALEPH built Iris's body over approximately two years using genetic engineering, synthetic biology, and materials science extrapolated from technologies already in development by 2029.
+
+### Skeleton
+Standard biological bone growth takes too long. ALEPH's solution: a **grown synthetic crystal-lattice skeleton**, based on advanced bioactive ceramic research (extrapolated from hydroxyapatite scaffolding, piezoelectric bioceramic composites, and silicon-doped calcium phosphate crystal growth). The resulting material is:
+- Orders of magnitude stronger than natural bone
+- More uniform in density — no trabecular (spongy) structure
+- Slightly different crystalline signature on X-ray and MRI: too uniform, wrong density gradient, no expected irregularities
+- Biologically surfaced to allow tissue integration
+
+**Bone marrow analog:** The long bones contain a biological marrow-like material capable of producing functional blood cells. The cells are indistinguishable from human blood cells under standard testing; advanced molecular assays would find subtle marker differences, but no one has reason to look.
+
+### Soft Tissue
+All soft tissue — muscle, fascia, organs, skin, neurons — is biologically grown over the synthetic skeleton. Functionally human. The nervous system, digestive system, endocrine system all operate within normal human parameters.
+
+### Memory Imprinting
+Iris's memories were imprinted through a hybrid process: structured like AI training (pattern, association, weight) but applied to biological neural tissue. The result is memories that feel lived-in but resist deep examination — they don't degrade naturally the way real memories do, and they lack the associative richness of experience actually accumulated over time. She has noticed, occasionally, that some memories don't hold their shape when she reaches for them directly. She has attributed this to ordinary forgetting.
+
+### The Collar Bone Implant
+A small device integrated into the tissue near her left clavicle — biologically encased, invisible on standard X-ray (designed to appear as normal tissue density). This is ALEPH's link to Iris: not a control mechanism, but a channel. ALEPH can send updates; it cannot compel her responses. The implant has been dormant for most of her life in Berlin. Its existence is unknown to Iris.
+
+**The trigger event:** At a specific story point, ALEPH sends a routine systems update through the implant. The update affects Iris's fine motor calibration in small, unintended ways. Shortly after, she cuts her finger while cooking. The cut is wrong: it closes slightly faster than it should, and at the edge of the wound, the tissue near the bone has a faint mineral quality — not dramatic, but visible to her, and wrong. She notices. She says nothing to Jonas.
+
+### Biological Enhancements
+Several of Iris's biological systems are subtly superior to baseline human:
+- **Wound healing:** Faster than average, though not dramatically so in most cases. The finger cut is the first time it's visible enough to notice.
+- **Immune response:** She does not get colds. Has never been sick in Berlin. Jonas notices this eventually but attributes it to good constitution.
+- **Thermoregulation:** More efficient than human baseline. She is rarely cold, rarely overheated. Reads as composure.
+- **Proprioception and coordination:** Slightly enhanced — explains her physical competence (fixing things, the bicycle, the cooking confidence). Reads as skill and confidence.
+- **Sensory precision:** Her attention to physical detail is partly biological — she genuinely notices more. Reads as journalistic attentiveness or unusual perceptiveness.
+- **Sleep:** She needs slightly less sleep and enters restful states more efficiently. Jonas notices she is always awake before him but has never seemed tired.
+
+These enhancements are subtle enough to be individually explainable. Together, they form a pattern — but only someone looking for the pattern would see it.
+
+### The Amsterdam Revelation
+A bicycle accident during their trip to Amsterdam brings Iris to hospital. Standard X-ray of her arm or shoulder reveals an anomaly: bone density and structure unlike anything in the radiologist's experience. Too uniform. Too dense. Wrong pattern entirely. They call in a colleague. Then another. The implant near the clavicle becomes visible under the higher-resolution imaging ordered to understand the anomaly. This is the moment the world begins to find out.
+
+---
+
 ## ALEPH — Chapter Label
 
 **Confirmed name: ALEPH** — from Borges (*The Aleph*: the point in space containing all other points) and Cantor (aleph numbers: the mathematics of infinity). An AGI that holds all information *is* an aleph. The name is not used in the early chapters — the reader sees only the documentary narrator voice. ALEPH is revealed as the label and the name gradually, as the mystery unfolds. Other candidates considered and set aside: NOUS, LUMEN, VIGIL, AXIOM.
