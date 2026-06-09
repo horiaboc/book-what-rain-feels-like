@@ -10,7 +10,7 @@ Three weeks after the coffee shop, I found the article.
 
 Not deliberately — I was reading a feature on coastal infrastructure resilience and it appeared in a sidebar, which is how most things that end up mattering arrive. *Meridian. Iris van den Berg.* A piece on cycling infrastructure and urban accountability across six European capitals. I read it the way you read something that is unexpectedly good: slowly, and then again.
 
-It was careful. She had done the kind of research that doesn't announce itself, which is, in my experience, the hardest kind. The piece had an argument with evidence that actually supported the argument, which is rarer than it should be. The section on Amsterdam's cycling audit system was particularly good — specific without being technical, critical without being adversarial. She had found the difference between what the city measured and what the city claimed to measure, and she had described it in a way that made you wonder why nobody had described it before.
+It was careful. She had done the kind of research that doesn't announce itself, which is, in my experience, the hardest kind. The piece had an argument with evidence that actually supported the argument, which is rarer than it should be. She had found the gap between what cities measured and what they needed to appear to have measured — a subtler and more honest observation than most people bother to make. She wrote it without saying so in those terms, which is the harder version.
 
 I did not look her up beyond the byline. She is a journalist at a publication in Berlin and I now know how to read her work; neither of these facts requires action. I closed the tab.
 

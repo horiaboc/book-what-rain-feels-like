@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "pgrep -f 'telegram_daemon.py daemon' > /dev/null || python3 /Users/D037202/Workspace/sandbox/myBooks/book-what-rain-feels-like/tools/telegram_daemon.py daemon &",
+            "async": true,
+            "statusMessage": "Starting Telegram daemon..."
+          }
+        ]
+      }
+    ]
+  }
+}

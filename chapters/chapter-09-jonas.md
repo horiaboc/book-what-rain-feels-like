@@ -18,21 +18,23 @@ She arrived as the lights went down.
 
 The film was ninety-three minutes. I did not check my phone once.
 
-Four communities, four river systems, four different ways of watching the water rise. One of them — a fishing village in the Brahmaputra delta, the same system from the coffee shop news segment in November — had built their own early warning network using soil sensors, a shared mobile protocol, and fourteen people who rotated the monitoring shifts. The system had four alert levels. No external funding. No centralized infrastructure. It had given them seventeen hours of warning the last time. Seventeen hours is, according to the film, the difference between everything and nothing.
+Four communities. Four different ways of watching the systems built to protect people either hold or not hold. One of them had built their own early warning network — no external funding, no centralized infrastructure — sustained by fourteen people who rotated the monitoring shifts, who trained each other, who passed the knowledge on like a thing of value, which is what it was.
 
-I was not surprised by any of it — this is the kind of problem I think about, the invisible infrastructure that keeps things in motion when the visible kind fails. But there is a difference between knowing something is happening and watching it happen on a screen in the dark in front of you. The fourteen people putting on their waterproof coats in the pre-dawn light. The specific kind of preparation that is also love, whether it calls itself that or not.
+There is a difference between knowing something is true and watching it. The fourteen people putting on their waterproof coats in the pre-dawn light. The specific kind of preparation that is also love, whether it calls itself that or not.
 
 At some point Iris turned to say something and stopped. I don't know what I looked like. She turned back to the screen.
 
 ---
 
-The panel was four people: two from an international climate logistics consortium, one from a climate-tech startup, one journalist who had spent three years covering three of the four communities in the film. They were asked what the documentary made them want to do.
+The panel was four people: two from an international consortium, one from a climate-tech startup, one journalist who had spent years on the ground with three of the four communities in the film. They were asked what the documentary made them want to do.
 
-The startup founder spoke second. A platform, he said — centralized, AI-driven, capable of synthesizing sensor data across hundreds of communities simultaneously. One system, global scale. The model in the film was admirable, but it didn't scale. What you needed was infrastructure that could carry the warning for everyone, not fourteen people who happened to know the protocol.
+The startup founder spoke second. A platform — centralized, AI-driven, capable of synthesizing sensor data across hundreds of communities simultaneously. One system, global scale. The model in the film was admirable, he said, but it didn't scale. What you needed was infrastructure that could carry the warning for everyone.
 
 I sat with this.
 
-Iris was writing in her notebook. At some point she noticed I had stopped writing in mine. She glanced at me; I kept my eyes on the panel.
+Iris was writing in her notebook. Then she wasn't. I glanced at her: she was watching him with the careful attention of someone who has spent a long time learning to read the gap between what a person believes and what they've learned to say convincingly.
+
+---
 
 Afterward, on the steps outside — cold enough to see your breath — she said: "You went quiet."
 
@@ -46,15 +48,35 @@ She looked at me. "You think distributed is always better than centralized."
 
 "I think dependency is a specific kind of risk that tends to get underweighted until it isn't." A beat. "I may be wrong."
 
-"You may be," she said. "But you're not wrong about the dependency."
+"You may be," she said. "But you're not wrong about the dependency." A moment. "And the platform absorbs the funding. The village stops being the story. It becomes a use case."
 
-We stood in the cold for a moment. Then she put her notebook in her bag and I put mine in my pocket, and we walked down the steps.
+"Something like that."
+
+She said it without heat, which is the only way to say it if you've thought about it long enough. I had the impression she had thought about it longer than tonight.
+
+We put our things away and walked down the steps.
 
 ---
 
 We walked along the canal.
 
 No plan to do this — it was simply the direction we were both going, and then it was the direction we had agreed to continue in for a while. January canal: black water, streetlamps making columns of orange light that reached down into it and stopped somewhere below the surface. The city on both sides in that particular Berlin quiet that falls after nine — not empty, just finished with announcing itself.
+
+She stopped on the footbridge at Urbanhafen and looked at the water.
+
+"Every canal at night," she said. "The reflections always look more like the city than the city does. More honest, somehow."
+
+I looked. She was right — in the specific way that accurate observations about ordinary things tend to be right, once someone says them.
+
+"Amsterdam?" I said.
+
+"Among others." She glanced at me. "Do you do this? Stop and notice things?"
+
+"Generally about data."
+
+She considered this. "That might be the same thing."
+
+We walked on.
 
 She asked about Merkon. I described the anomaly detection work — which requires explaining three upstream things before the thing itself makes sense — and she listened to the three upstream things and then had a question about the fourth that I hadn't expected. I gave her an answer I hadn't previously had to articulate. The answer was better for being articulated.
 

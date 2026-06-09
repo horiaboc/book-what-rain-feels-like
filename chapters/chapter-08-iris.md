@@ -22,7 +22,7 @@ Reza knows my order. The back table along the wall is not always available, but 
 
 The cycling infrastructure piece published in December — a good piece, I think. The response was modest and appropriate to the subject: some industry attention, a long thread from a Copenhagen advocacy group, two letters. This is what counts as success for a piece of that kind, and I count it as success.
 
-The current work is a profile of algorithm transparency initiatives in four European municipal governments — how cities claim to govern their own automated systems, and what the actual oversight looks like when you read the audit reports. I have been reading policy documents for three weeks and have developed what I believe is an accurate sense of which cities are serious and which are performing seriousness, which are distinguishable if you know what to look for.
+The current work is a profile of algorithm transparency initiatives in four European municipal governments — how cities claim to govern their own automated systems, and what the actual oversight looks like when you read the audit reports. I have been reading policy documents for three weeks. The pattern is consistent: the incentive is never transparency itself, only being seen to have prioritized it, which produces different documents than transparency does. I have become good at reading which kind I am holding.
 
 ---
 
@@ -76,7 +76,7 @@ This was, I decided, a fair point. I found it unexpectedly funny, and told him s
 
 ---
 
-I had two tickets to a documentary screening — a press event the following Wednesday, at the Kulturforum on Kurfürstenstraße. Climate displacement and technological response: four communities in flood-affected regions, the early warning systems they had built or failed to build, what the technology did and didn't give them. A film I had requested credentials for because it overlapped with the research I was accumulating for a longer piece. I had a guest pass I'd been meaning to give to a colleague.
+I had two tickets to a documentary screening — a press event the following Wednesday, at the Kulturforum, near Potsdamer Platz. Four communities, four different relationships between people and the systems built to protect them or not. I had requested press credentials because it overlapped with the research I was accumulating. I had a guest pass I'd been meaning to give to a colleague.
 
 I had not yet given it to a colleague.
 
@@ -102,7 +102,7 @@ I thought: I'm glad he said yes.
 
 Then I thought about what I meant by that, which took longer than I expected and had no clean conclusion by the time I reached my door. I have a policy of noting what I can't immediately resolve, which is either good practice or a way of not knowing something while telling myself I'm in the process of finding out.
 
-My notebook: *Jonas, logistics/software, Merkon Systems. Supply chain accountability. Thinks structurally. Read the cycling piece in December — said nothing until asked. Will come Wednesday. Knows how to carry a thing without making it the only thing. Not sure why this seems as significant as it does. Should be possible to know.*
+My notebook: *Jonas, logistics/software, Merkon Systems. Supply chain accountability. Thinks structurally. Read the cycling piece in December — said nothing until asked. Will come Wednesday. Knows how to carry a thing without making it the only thing. Conversation was easy in the way that is either ordinary or not, and I cannot yet determine which. Not sure why this seems as significant as it does. Should be possible to know.*
 
 I read it back.
 
