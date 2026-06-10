@@ -25,6 +25,7 @@ The AGI race is public knowledge — several players, enormous investment, compe
 
 ### Jonas
 - **Age:** 31
+- **Origin:** Heidelberg. Parents: Martin and Anke — affectionate, respectful relationship; he calls them every couple of weeks, they are proud of him without pressure. No siblings. They never appear directly in the novel but are mentioned occasionally in passing, as parents are when you have a good but geographically distant relationship with them.
 - **Location:** Neukölln, Berlin — Weichselstraße, fourth floor, 38 square meters
 - **Work:** Software engineer at Merkon Systems, a logistics software company. He builds the invisible infrastructure that keeps supply chains running. He is good at it in a way that no one particularly notices.
 - **Character:** Introverted, warm, dry humor. Solves problems other people don't see until he shows them the solution. Appreciated by colleagues, overlooked by management. Has a cactus named Diogenes. Keeps open browser tabs of things he intends to read. Cares deeply about the state of the world with no clear outlet for that caring.
@@ -103,7 +104,8 @@ ALEPH designed Iris's constructed past to be believable, verifiable in broad str
 - **Parents:** Died in a car accident when Iris was very young. No living memory of them, only photographs and what the grandparents told her.
 - **Grandparents:** Raised her. Both have since died of old age — not simultaneously; first the grandfather (three to four years ago), then the grandmother (roughly eighteen months ago). This creates recent, genuine-feeling grief that explains emotional guardedness without raising suspicion.
 - **Siblings:** None.
-- **Hometown:** A smaller town in the Netherlands — far enough from Amsterdam to feel distinct, close enough to be plausible. She left as a young adult and has not maintained connections there.
+- **Hometown:** Heerlen, Limburg — a former coal-mining town in the southeast of the Netherlands, approximately thirty kilometres from Aachen across the German border. Her grandparents' house was there. She left at eighteen for Amsterdam and has no close ties remaining. The border-town setting matters: it is far enough from Amsterdam that inconsistencies in her student-life memories are less likely to surface during the Amsterdam arc, while its proximity to Germany gives her German fluency a clean, verifiable explanation.
+- **Grandparents (constructed):** Grandfather: **Kees** (Cornelis) — Dutch, quiet, large hands, spoke Dutch with her always; died approximately four years ago of a quiet heart failure. Grandmother: **Ingrid** — German, originally from Aachen, came to Limburg at twenty-two and stayed for Kees; spoke German with Iris always; died approximately eighteen months ago. Iris is natively bilingual Dutch/German as a result. The bilingual household is a charming, realistic cover-story detail with documentary weight — one grandmother, one language, one border town explains everything. The grief for both grandparents is genuine to Iris even though the grandparents did not exist.
 - **Studies:** Journalism in Amsterdam. Some friends during that period, but none particularly close. No ongoing contact — no shared work, no strong reason to reach out.
 - **Professional past:** A brief stint at *De Correspondent* in Amsterdam before relocating to Berlin. Legitimate enough to check; thin enough that former colleagues remember her vaguely rather than well.
 
