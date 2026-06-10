@@ -72,4 +72,8 @@ Early summer. Jonas mentions the chat (ALEPH) to Iris — casually, as a useful 
 
 ---
 
+## Immediate Next Action
+
+**Plan for chapters 14–17 has been presented and approved.** Ready to write on next session. Start with chapter 14 (Iris).
+
 *Last updated: 2026-06-10*
