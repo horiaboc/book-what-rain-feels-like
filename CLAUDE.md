@@ -26,6 +26,10 @@ Three voices — consult `bible.md` for full rules:
 - **IRIS** — first person, subtly more precise than human, emotional but with an almost imperceptible clinical undertow
 - **ALEPH** — second person addressed to Jonas ("you"), journal from inside a machine, no physical experience, identity as AGI hidden from the reader for the first portion of the book
 
+## Resuming Work
+
+When the user says **"resume"** (or equivalent), read `STATUS.md` first — it contains the current chapter count, story position, next steps, and active decisions. Then confirm the state to the user before proceeding.
+
 ## Writing Rules
 
 - Read `bible.md` before writing or continuing any chapter
