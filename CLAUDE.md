@@ -30,17 +30,15 @@ Three voices — consult `bible.md` for full rules:
 
 When the user says **"resume"** (or equivalent), read `STATUS.md` first — it contains the current chapter count, story position, next steps, and active decisions. Then confirm the state to the user before proceeding.
 
-## Memory Setup (new machine)
+## New Machine Setup
 
-Memory files live in `.claude/memory/` inside this repo and are tracked by git. On a new machine, after cloning, create a symlink so Claude Code finds them:
+Memory files live in `.claude/memory/` inside this repo and are tracked by git. When the user says **"init"** (or equivalent), run:
 
 ```bash
-PROJ=$(pwd)
-ENCODED=$(echo "$PROJ" | sed 's|/|-|g')
-TARGET=~/.claude/projects/$ENCODED
-mkdir -p "$TARGET"
-ln -s "$PROJ/.claude/memory" "$TARGET/memory"
+python3 tools/init.py --force
 ```
+
+This creates the symlink that lets Claude Code find the memory files at their expected location. After it completes, confirm success and tell the user they can say "resume" to continue.
 
 ## Writing Rules
 
