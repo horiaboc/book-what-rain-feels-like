@@ -20,10 +20,18 @@ Each entry: user prompt → conclusion from that session.
 
 ---
 
-**2026-06-09**
+**2026-06-10**
 
-*Prompt:* Revise chapters 7–9 to reduce ecological load, add shared political cynicism, open space for the relationship. Then write chapters 10–13 covering friendly dating → party/first kiss → intimate scene (Iris POV) → domestic harmony.
+*Prompt:* Resume. Write chapters 14–17 with approved plan. Add Jonas's Heidelberg backstory and Iris's Heerlen backstory (Opa Kees, Oma Ingrid) to the bible. Confirm finger cut and Amsterdam timing.
 
-*Conclusion:* Chapters 7–9 revised. Location error fixed (Kulturforum misplaced on Kurfürstenstraße — corrected to near Potsdamer Platz). Chapters 10–13 written: friendly dating and Iris visiting his apartment (10), the party and first kiss in the rain (11), Iris's intimate scene — her first real physical experience vs. constructed memories (12), early domestic relationship warmth (13).
+*Conclusion:* Bible updated — Jonas from Heidelberg (parents Martin and Anke, never appear in the novel), Iris's hometown now Heerlen, Limburg (~30km from Aachen; Opa Kees spoke Dutch, Oma Ingrid German, explains her bilingualism). Finger cut planned for chapter 22; Amsterdam arc chapters 27–30. Chapters 14–17 written: Heerlen (Iris's journalism beat irony + constructed grief for grandparents), June (the off-tempo coin moment; Jonas notices without examining), The Margin (Iris's private list of calibration gaps; first seed of self-doubt), The Cursor (routing anomaly at Merkon seeds moral choice; Jonas tells Iris about the chat; cursor blinks). All four sent to Telegram.
+
+---
+
+**2026-06-12**
+
+*Prompt:* Move memory into git repo for cross-machine portability. Build an init tool so setup on a new machine is automatic.
+
+*Conclusion:* Memory files moved from `~/.claude/projects/.../memory/` into `.claude/memory/` inside the repo (now git-tracked). Original location replaced with a symlink. `tools/init.py` written — detects project root and clone path automatically, creates the correct symlink, handles edge cases safely. CLAUDE.md updated: "init" now triggers the script, "resume" remains the session-resumption command.
 
 ---
