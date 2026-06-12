@@ -10,6 +10,8 @@ I had been looking at the same section of code for two days with the specific fo
 
 The something else was a routing anomaly I had found in March — not a bug, technically, which was part of the problem. The system was doing exactly what it had been trained to do. What it had been trained to do, it turned out, produced delivery windows in certain postal districts that were on average eleven to fourteen minutes longer than equivalent routes elsewhere — not randomly, but consistently, across a data sample I had checked four times because I had wanted to be wrong. I was not wrong.
 
+Eleven to fourteen minutes sounds like nothing until you look at what is inside those windows. Three of the affected postal codes had above-average elderly populations; several hundred addresses in Merkon's own data were flagged as regular medical recipients — pharmaceutical deliveries on fixed schedules, the kind that matter when the person receiving them cannot get to a pharmacy and cannot easily absorb a quiet delay. There was also an incident in the log: a complaint filed eleven months ago, marked resolved, from a recipient in Neukölln-Nord whose insulin delivery had arrived two days late. It had been closed with an apology and a voucher. Nobody had checked whether it was part of a pattern. I checked.
+
 I had raised it with Steffen in April. Steffen had nodded with the nod of someone who understands what they are being told and has no intention of acting on it before Q3. He said: log it, we'll revisit. I logged it. Q3 was September.
 
 The code was not the problem. The code was simply where I had been putting the problem while I worked out what else to do with it. This is a less productive use of code than it sounds.

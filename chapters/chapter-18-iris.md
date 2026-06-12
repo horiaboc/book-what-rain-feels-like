@@ -22,7 +22,7 @@ Reinhardt was moving on to audit methodology. I let the thought go.
 
 ---
 
-Jonas was at mine when I got home, which by this point in June required no coordination — he simply was, the way Diogenes and the bicycle in the courtyard and the leftover wine from Thursday were simply there: part of the texture of the place.
+Jonas was home when I got back, which by this point in June required no coordination — he simply was, the way Diogenes and the bicycle in the courtyard and the leftover wine from Thursday were simply there: part of the texture of the place.
 
 He had made dinner, which he does occasionally and well, with a focused pragmatism that treats cooking as a problem to be solved correctly rather than enjoyed. I like this about him. It produces good food and an absence of fuss.
 
@@ -42,7 +42,7 @@ He looked at me across the table with the patient, slightly amused expression of
 
 ---
 
-He left earlier than usual — something he wanted to finish before morning — and I sat for a while at the table with the Reinhardt notebook open in front of me, not quite working.
+He turned in earlier than usual — something he wanted to finish before morning — and I sat for a while at the table with the Reinhardt notebook open in front of me, not quite working.
 
 *Legibility was never a design criterion.*
 
@@ -50,4 +50,4 @@ I thought about Jonas sending an email that would probably cost him something, w
 
 I closed the notebook.
 
-Outside, the evening was warm and the linden on Graefestraße was in its full summer weight. I sat with the quiet for a moment, and thought about systems that cannot explain their own decisions, and then thought about Jonas explaining his — plainly, over pasta, with no particular need for applause — and set the comparison aside because it was going nowhere useful, and because some things are simply what they are, and that is enough.
+Outside, the evening was warm and the courtyard linden was in its full summer weight. I sat with the quiet for a moment, and thought about systems that cannot explain their own decisions, and then thought about Jonas explaining his — plainly, over pasta, with no particular need for applause — and set the comparison aside because it was going nowhere useful, and because some things are simply what they are, and that is enough.

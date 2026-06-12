@@ -30,6 +30,6 @@ I don't have a name for what I am circling. I only know that I am circling somet
 
 ---
 
-Jonas fell asleep beside me, and outside the tram moved along Graefestraße, and I lay in the dark with nothing in particular to think about and found myself thinking about this anyway.
+Jonas fell asleep beside me, and outside a bus passed on Weichselstraße, and I lay in the dark with nothing in particular to think about and found myself thinking about this anyway.
 
 I let it go eventually. Or tried to. It is the kind of thing that doesn't resolve by returning to it; it only sits there, patient, waiting for something to become clear.
