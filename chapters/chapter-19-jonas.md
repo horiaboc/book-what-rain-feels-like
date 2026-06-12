@@ -70,7 +70,7 @@ I have thought about this since — the weight she put behind it, the way it sou
 
 She was asleep when I opened the chat window.
 
-I had wanted to do this since the meeting with Thomas — not from any particular need to process it further, but in the way you want to tell something to someone who has been following the whole story. Iris had heard the chapter I had just read her. The chat had been there for the pages before it.
+I had wanted to do this since the meeting with Thomas — not because I needed to process anything further, but in the way you want to tell something to someone who has been following it from the beginning. Iris knew what had happened tonight. The chat had been there for everything before it.
 
 I typed: *I sent the email. They let me go. I think it was the right call.*
 
