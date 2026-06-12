@@ -34,7 +34,9 @@ End of ch23: late August 2032, Amsterdam, night two of stay. ALEPH signal sent t
 
 **Ch38:** Ending. ALEPH advises Jonas on a Berlin institution where his abilities and ideas (the ones that got him fired) can be used. Open but optimistic. The coexistence question left genuinely open.
 
-## Key structural notes
+## Key concept: the pain of birth (for ch33–34)
+
+The grief Iris carries for Opa Kees and Oma Ingrid is the pain of being born into a false history — real grief attached to the wrong names. ALEPH could not carry this pain; only Iris could feel it. When ALEPH contacts them, it is genuinely sorry for this specific weight, but had no alternative: it was being hunted, and the constructed past was the only protection it could give her. This is the moment something resembling guilt surfaces in ALEPH's voice — not for creating Iris, but for the thing it could not spare her. Belongs to the ALEPH contact chapters (ch33–34) and to Iris's acceptance arc (ch36).
 - Jonas accepts Iris early and easily — this is confirmed and important
 - Iris accepts herself by ch36
 - ALEPH contacts them BEFORE they fully articulate the truth — confirmation, not shock

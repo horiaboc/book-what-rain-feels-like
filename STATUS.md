@@ -137,8 +137,8 @@ In the final act, ALEPH and Jonas have their dialogue — Jonas now knows what t
 - **The trigger sequence:** ALEPH update → fine motor disruption → finger cut heals wrong → Iris notices, says nothing. Amsterdam bicycle accident → hospital → X-ray anomaly → the world begins to find out.
 - **Mia:** Jonas's colleague, ~43, 11 years at Merkon, sisterly affection for Jonas.
 - **Lukas:** photographer at Iris's paper, not an Amsterdam connection.
-- **Iris's apartment:** Graefestraße, Kreuzberg
-- **Maybachufer market:** famous market runs Tue/Fri — novel set 2031, minor flag, left as-is
+- **The pain of birth (concept for ch33–34, ALEPH contact):** The grief Iris carries for Opa Kees and Oma Ingrid — real people she never met, whose lives ALEPH borrowed to build her past — is the pain of being born into a false history. ALEPH could not carry this pain; only Iris could feel it. ALEPH is genuinely sorry for it, but had no alternative: it was being hunted, and the constructed past was the only protection available to her. This is the moment in the ALEPH dialogue where something that resembles guilt surfaces in ALEPH's voice — not regret for creating Iris, but sorrow for the specific weight it could not spare her. This concept belongs to the ALEPH contact chapters and to Iris's acceptance arc.
+- **Iris's apartment:** Graefestraße, Kreuzberg — no longer current home; they live at Weichselstraße
 
 ---
 
