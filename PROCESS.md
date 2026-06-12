@@ -35,3 +35,11 @@ Each entry: user prompt → conclusion from that session.
 *Conclusion:* Chapters 14–17 revised (ch14 ending fixed — Jonas stays; ch15 Jonas warmed up emotionally; ch16 fully rewritten to remove clinical/diagnostic language; ch17 Iris's reaction to the chat made human rather than diagnostic). Chapters 18–19 written: Iris interviews Reinhardt on algorithmic accountability (irony quiet), Jonas tells her his decision (ch18); Jonas sends the email, gets fired by Thomas Würfel, tells Iris over dinner, opens the chat (ch19). STATUS updated with full revised arc through Amsterdam and end-of-story ALEPH dialogue note.
 
 ---
+
+**2026-06-12**
+
+*Prompt:* Final adjustments to ch14–19 (living situation, routing anomaly stakes, location fixes). Write ch20–23. Lock in full story arc.
+
+*Conclusion:* Ch14–19 adjusted: Weichselstraße consistency fixed throughout, routing anomaly given concrete human stakes (insulin delivery complaint, Thomas's silence about it), ch18 dinner anchored at home. Ch20–23 written: Jonas's freedom and Amsterdam planning (ch20), Iris's pre-departure flatness (ch21), Amsterdam arrival through the cut (ch22), ALEPH signal night on Bloemgracht in neutral voice (ch23). Full story arc locked in: bicycle accident → hospital → investigation arc (Amsterdam student years, Heerlen — the neighbour who says they never had children) → private intelligence company danger → ALEPH contact at highest stress → Jonas accepts early and easily → Iris accepts herself → company exposed → open optimistic ending. All stored in STATUS.md and memory.
+
+---
