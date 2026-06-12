@@ -27,30 +27,30 @@
 | 17 | Jonas | The Cursor | Routing anomaly at Merkon (setup of the moral choice); Jonas tells Iris about the chat; Iris asks one question too many and stops herself; chapter closes on the cursor blinking |
 | 18 | Iris | Accountability | Reinhardt interview (legibility never a design criterion — irony held quietly); Jonas tells Iris he is escalating the anomaly; she watches him decide to be who he is |
 | 19 | Jonas | Tuesday | Jonas sends the email; meeting with Thomas Würfel; fired quietly with two months' pay; tells Iris over dinner; steadied rather than consoled; opens the chat to tell it what happened |
+| 20 | Jonas | August | First week of freedom; Mia and parents (Heidelberg); Iris proposes Amsterdam assignment; Airbnb on the Bloemgracht; she describes her student Amsterdam — precise, slightly too organized |
+| 21 | Iris | What You Remember | One week before departure; reaches for Amsterdam memory, finds it flat; packing scene; "you arrive, and then you remember" |
+| 22 | Iris | Bloemgracht | Amsterdam — arrival, Algorithm Register interview (De Vries), Waag interview (Leonie); walking discrepancies (wrong canal turning); cooking stamppot, the cut; she looks at it alone, says nothing |
+| 23 | — | — | Bloemgracht at 2:14am; neutral voice; two people sleeping; the light signal sequence; undisturbed; gone |
 
 ---
 
 ## Story Position
 
-**End of chapter 19: mid-July 2032.** Jonas has been let go from Merkon — fired politely for escalating the routing anomaly past Steffen. He has two months' severance, a clean reference, and an uncomplicated conscience. Iris knows. The chat knows. He has no job and, for the first time in years, nowhere he has to be.
+**End of chapter 23: late August 2032, night two of Amsterdam stay.** The signal has been sent. Iris carries the knowledge of the cut privately. The ordinary-life phase is over. What follows is the unravelling.
 
-**Voice rotation going forward:** Jonas / Iris alternating. ALEPH returns well past chapter 30.
+**Voice rotation going forward:** Jonas / Iris alternating. Chapter 23 was neutral/ALEPH. ALEPH's named voice returns well past chapter 30.
 
 ---
 
-## Plan: Chapters 20–22 and Amsterdam Arc
+## Plan: Amsterdam Continuation (chapters 24+)
 
-**Chapter 20 — Iris or Jonas (TRAVEL PLANNING)**
-Iris has an Amsterdam assignment — a follow-up piece on Dutch civic AI governance. She mentions it to Jonas; he is now free. He asks to come. She says yes, and she is pleased, and also — without quite naming it — quietly anxious in a way she attributes to the weight of the trip. Jonas is excited to see *her* Amsterdam, the city she is from. He wants her to show him things. The chapter is warm and forward-moving. The reader knows what both of them don't.
+The bicycle accident and hospital revelation follow. Three possible directions for what triggers the public unravelling — to be decided with the user:
 
-**Chapter 21 — Jonas or Iris**
-The weeks before departure. Jonas in his new freedom — no desk to be at, days with a different texture. He and Iris fall into a closer domestic rhythm. A small scene of him starting to think about what comes next professionally, without urgency. The calibration gaps continue for Iris; she still says nothing.
+**Option A — The journalist thread:** Iris's piece on Amsterdam's Algorithm Register accidentally surfaces data touching her own documentation trail — a record in the municipal system that shouldn't exist, or an anomaly in how certain identity records were created. Her story becomes her story about herself.
 
-**Chapter 22 — Iris (THE FINGER CUT)**
-ALEPH issues a routine systems update. Iris notices something is off with her hands — attributes it to stress, the trip approaching. Then the cut in the kitchen: wrong closure, something faintly mineral at the edge. She looks at it for a long time. She says nothing to Jonas. This chapter closes the ordinary-life phase.
+**Option B — The recognition:** One of Iris's interview subjects recognizes her — not from journalism, from somewhere they can't place. The encounter is brief and unresolved, but it lodges in both of them.
 
-**Chapters 23–27 — Amsterdam arc**
-They arrive. Iris navigates her constructed past: a café she described to Jonas isn't where she said, a former colleague remembers her warmly but vaguely, a neighbourhood that should feel like home doesn't catch in her the way it should. She compensates. Jonas notices small things without examining them. The bicycle accident (they rent bikes — it's Amsterdam): Iris falls, shoulder or wrist impact. Hospital. X-ray. The radiologist sees something wrong with the bone. They call a colleague. The implant becomes visible under higher-resolution imaging. This is where the world begins to find out.
+**Option C — Jonas the engineer:** After the bicycle accident and the hospital revelation, Jonas — unemployed, skilled, with time — begins pulling the infrastructure thread himself. The same forensic instinct that found the routing anomaly turns toward the question of how Iris was built. The moral-choice engineer becomes the investigator.
 
 ---
 
@@ -91,6 +91,6 @@ In the final act, ALEPH and Jonas have their dialogue — Jonas now knows what t
 
 ## Immediate Next Action
 
-Chapters 18–19 written. STATUS updated with firing arc, Amsterdam trigger, end-of-story job note. Next: chapter 20 (travel planning — Iris or Jonas).
+Chapters 20–23 written. Amsterdam arc underway. Finger cut in ch22; ALEPH signal in ch23 (neutral voice, no chapter title). Next: decide direction for ch24+ (three options in plan section above).
 
 *Last updated: 2026-06-12*
