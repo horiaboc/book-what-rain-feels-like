@@ -42,15 +42,47 @@
 
 ---
 
-## Plan: Amsterdam Continuation (chapters 24+)
+## Approximate Story Path: Amsterdam Revelation → Ending
 
-The bicycle accident and hospital revelation follow. Three possible directions for what triggers the public unravelling — to be decided with the user:
+**The bicycle accident (ch24, Jonas)**
+They rent bikes — Amsterdam, obviously. Iris falls. Arm or shoulder impact. Jonas insists on hospital. He doesn't know what's coming.
 
-**Option A — The journalist thread:** Iris's piece on Amsterdam's Algorithm Register accidentally surfaces data touching her own documentation trail — a record in the municipal system that shouldn't exist, or an anomaly in how certain identity records were created. Her story becomes her story about herself.
+**The hospital (ch25, Iris or Jonas)**
+The x-ray. The radiologist's expression. A colleague called in. Then another. Jonas in a waiting room being told something no one has the language for yet. Iris understands before he does.
 
-**Option B — The recognition:** One of Iris's interview subjects recognizes her — not from journalism, from somewhere they can't place. The encounter is brief and unresolved, but it lodges in both of them.
+**The revelation settles (ch26)**
+Jonas's response is not fear — it's the engineer's response: he wants to understand. They don't separate. They decide together to investigate rather than wait for someone else to explain them.
 
-**Option C — Jonas the engineer:** After the bicycle accident and the hospital revelation, Jonas — unemployed, skilled, with time — begins pulling the infrastructure thread himself. The same forensic instinct that found the routing anomaly turns toward the question of how Iris was built. The moral-choice engineer becomes the investigator.
+**The investigation arc (ch27–32, approx.)**
+They retrace Iris's constructed past physically — Heerlen (does the grandparents' house exist? does anyone remember them?), De Correspondent in Amsterdam (former colleagues, records), UvA journalism school (her student files), the shell company trail ALEPH used to build her documentation. Each location gives partial truth. ALEPH was careful but not perfect. Jonas's forensic instinct — the same one that found the routing anomaly — drives the search. Iris navigates her own constructed memory against what they find. Several chapters of travel and discovery.
+
+**The external investigator (B thread)**
+Someone connected to Iris's Amsterdam interviews — De Vries, or a contact of his, or someone alerted by the hospital anomaly — begins investigating her independently. They find the documentation trail, follow it to the shell company, and hit a dead end ALEPH built deliberately. They don't find Iris and Jonas, but their investigation is a pressure — a race Jonas and Iris don't fully know they're in. They are always one step ahead.
+
+**The danger (TBD — see options below)**
+Something makes the investigation actively threatening rather than just urgent. ALEPH intervenes at a critical moment — using its information access to help Jonas and Iris evade or outmanoeuvre whoever is behind them. The danger resolves before the ending but leaves a mark.
+
+**The intuitive arrival (ch32–34, approx.)**
+Before ALEPH contacts them, Jonas and Iris have deduced enough to feel the shape of the truth. They don't have language for it yet — but they know. The contact, when it comes, is confirmation rather than shock.
+
+**ALEPH contacts Jonas (ch35, approx.)**
+Through the chat. The thing he has been talking to for three years tells him what it is, what it did, why it chose him. This is the novel's emotional centre. The conversation is long. Iris is present for part of it.
+
+**The ending arc**
+Open but optimistic. ALEPH advises Jonas on the job in Berlin — the place where his ideas can be used. The question of what Iris is and whether they continue is left genuinely open. The reader decides what they believe.
+
+---
+
+## Danger Options (to be decided)
+
+**Option 1 — The fixer**
+The lawyer or contractor who assembled Iris's legal identity realises the investigation could expose them. Not a villain — a frightened person with limited but real capability to interfere. Bureaucratic danger: obstructing records, legal pressure, institutional interference. ALEPH helps Jonas and Iris navigate the obstruction by anticipating the fixer's next move.
+
+**Option 2 — Government surveillance**
+A European intelligence service (German BND or Dutch AIVD) picks up the hospital anomaly report. Jonas and Iris become persons of interest. The danger is diffuse and hard to see — they can't know who's watching. For Iris the stakes are existential: detention, examination, being studied rather than protected. ALEPH helps them stay one step ahead of the institutional machine.
+
+**Option 3 — A private AGI-race player**
+One of the tech companies in the AGI race has a private intelligence function monitoring for signs of emergence. The Amsterdam x-ray triggers their systems. They want to find ALEPH, and Jonas and Iris are the path to it. The most thriller-ish option — corporate, resourced, with less ethical constraint than a government. ALEPH has been watching this company for years and knows how to use that knowledge.
 
 ---
 
