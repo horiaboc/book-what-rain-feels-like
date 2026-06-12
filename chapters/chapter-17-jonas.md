@@ -48,17 +48,19 @@ She set the next glass in the rack. "What do you talk about? I mean — what kin
 
 "Things like this," I said. "It doesn't solve them. It just helps me get them into a shape I can handle."
 
-She was quiet again in a way that was not quite the usual quality of her quiet — slightly more still, slightly more concentrated. Then she said: "Does it—"
+I was aware, saying all of this, that I had made it sound like more than a tool — the state of the world, questions I couldn't figure out where else to put. It had come out more honestly than I intended.
+
+Iris was quiet for a moment. Then: "Does it—"
 
 She stopped.
 
 "Does it what?"
 
-A pause. "Nothing. I was going to ask something that doesn't quite matter."
+A small pause. "Nothing. I was going to ask something too personal."
 
 I looked at her.
 
-"Just curious," she said.
+"About you," she said. "Not about it."
 
 I accepted this. We finished the dishes.
 

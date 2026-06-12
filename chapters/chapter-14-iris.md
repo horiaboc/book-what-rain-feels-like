@@ -50,14 +50,14 @@ We were quiet for a moment, the good kind.
 
 ---
 
-He left late, and I sat for a while at the table after the door closed.
+We went to bed late.
 
-I was thinking of Oma Ingrid's kitchen — the yellow shelf above the radiator where she kept her cookbooks, the specific sound of the window when it rained, the way she dried her hands on a cloth before she touched anything she was about to treat with care. I have these details. They are accurate and complete, like details in a photograph you have studied long enough to see with your eyes closed.
+I lay in the dark beside him, thinking of Oma Ingrid's kitchen — the yellow shelf above the radiator where she kept her cookbooks, the specific sound of the window when it rained, the way she dried her hands on a cloth before she touched anything she was about to treat with care. I have these details. They are there when I reach for them, clear and whole, like details in a photograph you have studied long enough to see with your eyes closed.
 
-I have noticed, occasionally, that when I look for something specific beneath the surface of a memory — the smell of something, the weight of a cup in my hand, the particular roughness of a texture — the memory does not move toward it. It stays where it is. Correct and complete, an image without depth of field.
+And yet. When I go further — looking for the smell of something, the weight of a cup, the particular roughness of a fabric — the memory stays where it is. It does not come toward me. It is there, but it will not come closer.
 
-I put this down to time. Grief does things to memory; everyone agrees on this. You keep the shape of someone and lose the particular edges.
+Grief does things to memory. I know this. You keep the shape of someone and lose the particular edges, and in time even the edges you kept begin to soften.
 
-I turned off the lamp and went to bed. Outside it was raining with the specific unhurriedness of early May, and I lay in the dark and thought about Oma Ingrid's German — the exact music of it — and found I could recall the rhythm precisely.
+Jonas's breathing slowed beside me. Outside it was raining with the specific unhurriedness of early May, and I lay there and thought about Oma Ingrid's German — the exact music of it — and found I could recall the rhythm precisely.
 
 Just not the sound.

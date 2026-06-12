@@ -14,6 +14,8 @@ She moves through markets differently than she moves through other crowds — mo
 
 This is what June looked like: her in a linen shirt, listening very carefully to a man explain the oleic acid content of cold-pressed oil, and me eating a plum I had not planned to buy.
 
+At some point during the oil conversation I had stopped looking at anything except her. I noticed this and found I didn't mind.
+
 ---
 
 We were leaving — or trying to leave, in the way you try to leave markets, which is to say we were not quite leaving — when a man ahead of us caught his bag on the corner of a stall and sent a small spray of coins across the pavement. He made the noise you make; people glanced; several coins continued rolling until they didn't. He gathered them without the eye contact that would require acknowledgment from others, which is the social contract in these situations.
@@ -24,7 +26,7 @@ Then she said, quietly and without particular expression, as we moved on: "He wo
 
 I said: "Probably."
 
-I thought, briefly, about this. The observation. Its neutrality. Then we turned into the next row and I bought a leek I did not specifically need, and I stopped thinking about it.
+I thought, briefly, about this. The thing she said. Her particular way of being precise about things most people let go. Then we turned into the next row and I bought a leek I did not specifically need, and I stopped thinking about it.
 
 This is how it is, and I mean that as the kindest possible thing I can say about someone.
 
@@ -39,6 +41,8 @@ She thought it was honest. I thought it was convenient. She said: "Convenient in
 We ate pasta from the pot because neither of us had been organized enough to arrange plates, which is the kind of event that seems logistically shameful at the time and in retrospect is simply what Sundays are.
 
 I am finding that arguing with her is pleasurable in a way that has very little to do with winning. It is more like: two people pushing on the same wall from different sides to see what the wall is made of. Most of the time we find the same thing.
+
+She has a way of receiving a concession that makes you feel you have given something rather than lost it. I don't know how she does this. I have been trying to work out how she does this for several weeks now, and I am not close.
 
 ---
 
@@ -62,14 +66,10 @@ I have considered this — whether it's true — and concluded it is the kind of
 
 She was still reading when I went to bed.
 
-This is not unusual. She seems to need less sleep than I do, or what she needs she gets more efficiently — she is always awake before me and rarely appears tired, which I have attributed, variously, to good constitution, to discipline, to some particular Dutch quality of self-management I am in no position to evaluate. I have stopped treating it as remarkable.
-
 She looked up when I said goodnight.
 
-"Go to sleep," she said, which is not really what she said but is what I heard in it: the specific warmth of being looked after by someone who considers looking after you to be simply what you do when you care about a thing.
+"Go to sleep," she said, which is not really what she said but is what I heard in it: the particular warmth of someone who considers looking after you to be simply what you do when you care about a thing.
 
-I went to sleep.
+I went to sleep thinking about the film, and then about her still downstairs with her book, and then about nothing much at all, which is one of the better ways to fall asleep.
 
-Outside, June continued with its considered benevolence, and somewhere across the city, probably, a coin was still sitting on a pavement where someone had decided it had stopped rolling.
-
-I did not think about this. I was already asleep.
+In the morning she would be awake before me, as she always is, and the coffee would already be on. I had decided some time ago that this was an excellent arrangement.

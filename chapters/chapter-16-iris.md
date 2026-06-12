@@ -6,44 +6,30 @@
 
 ---
 
-I knew, as I said it, that it was not quite the right thing to say.
+I knew, even as I said it, that something was off.
 
-Not wrong in content. The coin had stopped rolling; it was visible from where he stood; he would have found it in a few more seconds. What I said was accurate, offered at approximately the right moment, in a tone calibrated to fit the register of the situation.
+Not wrong exactly. The coin had stopped rolling; it was true. But I said it, and in the same moment understood that it was the kind of thing most people don't say — accurate, unnecessary, arriving just slightly past the moment when saying it would have been natural. Jonas said *probably* and we moved on, and nobody noticed anything, and I was left with the small private awareness that I had done it again.
 
-And still.
-
-I have begun to notice the gap — the small margin between what I do and what I understand I am doing when I do it. The gap is usually undetectable. There are moments when it widens just enough to become visible from the inside, and the market was one of those moments. I said the thing and felt, simultaneously, the slight delay that preceded it — a delay in which something was evaluated: *what does one say here?* — and understood that this evaluation was not what was happening in the people around me. They were not evaluating. They were simply proceeding. The social response arrived in them the way a reflex does. In me, it arrived like a conclusion.
-
-I filed this. I have been filing these.
+This happens. Not often. But I have started to notice it the way you notice a loose step — not every time, but you know it's there, and once you know, you find it with your foot.
 
 ---
 
-In no particular order, the list as I know it:
+There are moments when laughter takes me a beat longer than it should. I follow the joke — I am not slow — but something between understanding and response takes a moment that feels, from the inside, like the joke passing through me rather than simply landing. By the time I laugh, the room has already moved on, and I laugh into a gap that is barely there but is there. Jonas has never mentioned it. I have noticed it perhaps four or five times now, always the same way.
 
-The laughter gap — three or four instances now, possibly five — where I have laughed after an interval that no one would notice but that I can feel as the distance between understanding the joke and producing the response. The interval is not ignorance. I understand the joke immediately. There is something between understanding and laughter that in others seems to require no interval at all. In me it is a step; they seem to have no step.
+The cold is something I keep returning to. Jonas reaches for his jacket at temperatures I find comfortable; he asks whether I'm not chilly and I say no and he nods as if this confirms a quality he has always suspected in me — constitution, Limburg winters, something Dutch — and I let it be that explanation, because it is a reasonable one and I have no better. But there is something in the way cold is supposed to arrive — as a small intrusion, something the body registers with mild surprise — that I don't quite experience that way. I notice it the way I notice weather: from the outside rather than the inside. I am not certain the difference matters. I am also not certain it doesn't.
 
-The food question. Once in April, Jonas asked whether I wanted coffee and I considered the question with a thoroughness that was not warranted. It is a simple question. The fact that I had to access whether I wanted coffee — rather than simply knowing, the way hunger and thirst are supposed to be known — was something I noticed and did not mention. I attributed it at the time to distraction. I have noticed it since. It is not distraction.
-
-The temperature thing. I am rarely cold and rarely warm in the way people speak of being cold and warm — as states that arrive and insist on themselves. When I am in the cold, I register it. I can describe it. But it does not catch me by surprise the way it seems to catch other people; it does not have the quality of intrusion. I have no standard of comparison, strictly speaking. This could be constitution. I have put it on the list because I am not sure that it is.
-
-The sleep. I wake before Jonas reliably, and I wake already rested, as if the night were simply a task that completed. I have been waiting, at some level, to feel tired in the specific way people describe tiredness — as accumulation, as weight, as something that eventually demands. I have not felt it quite that way. I feel something at the end of a long day that I have been calling tiredness, and it may be tiredness, but it behaves differently than I expect.
+And then there is the waking. I wake before Jonas every morning, already rested, as if sleep were something I stepped through rather than returned from. I have been waiting to understand that feeling people describe — tiredness that accumulates, that insists — and what I have instead is something milder, something I recognize more by description than by feel.
 
 ---
 
-I do not have a name for what I am noticing.
+None of this is large. Each of these things has an explanation: bilingualism, constitution, good habits, a particular way of being in my own body that I have simply never compared closely enough to anyone else's to know whether it is unusual. People are different from each other in small ways. I know this.
 
-This matters. The items on the list are individually explainable. The laughter gap could be something learned in translation — a childhood spent moving between two languages before things became automatic, a beat lost in the crossing. The temperature thing could be good thermoregulation. The sleep could be discipline, or something my body has always done that I have never compared closely enough to anyone else's to notice the difference. The coin observation was a momentary over-precision; I have over-precise days.
+I don't know why I keep returning to them.
 
-The list, taken as a list, is something else. But I do not know what it is, and until I know I am not certain how to approach it. I am aware that there are two kinds of not knowing: the kind that resolves with patience, and the kind that is actually avoiding. I am not sure yet which kind this is.
-
-I note it the way I note things I cannot immediately resolve: without alarm, carefully, the way you mark a passage you mean to return to.
+I don't have a name for what I am circling. I only know that I am circling something, the way you circle a word you can't quite call up — not worried, not yet, but aware that there is a space where something should be and isn't quite there.
 
 ---
 
-After Jonas fell asleep I lay in the dark beside him and went through the list again — not to resolve it, but to confirm I had remembered it correctly.
+Jonas fell asleep beside me, and outside the tram moved along Graefestraße, and I lay in the dark with nothing in particular to think about and found myself thinking about this anyway.
 
-I had.
-
-This was not exactly a comfort. It was precise, which is something. I find that precision, when nothing else is available, is at least something to hold.
-
-Outside, the city made its late sounds. Tram on Graefestraße. A conversation two floors below, the shape of it without the words. I listened until the hour became late enough to be quiet, and then the city was quiet, and I was still awake, and the list was exactly as I had left it, waiting for the frame I did not yet have.
+I let it go eventually. Or tried to. It is the kind of thing that doesn't resolve by returning to it; it only sits there, patient, waiting for something to become clear.
