@@ -5,7 +5,7 @@ Telegram daemon for *What Rain Feels Like*.
 Subcommands:
   get-chat-id   Print your Telegram chat ID (run once, then paste into .env)
   daemon        Poll for incoming messages and append them to reader_notes.md
-  send          Send text or a chapter file to your Telegram chat
+  send          Send text or a chapter file as a message (text) or document (file)
 """
 
 import json
@@ -14,6 +14,8 @@ import sys
 import time
 import datetime
 import argparse
+import string
+import random
 import urllib.request
 import urllib.error
 from pathlib import Path
@@ -100,6 +102,46 @@ def send_text(token: str, chat_id: str, text: str, markdown: bool = False) -> No
         api_call(token, "sendMessage", {**payload_base, "text": chunk})
 
 
+def send_document(token: str, chat_id: str, file_path: str) -> None:
+    path = Path(file_path)
+    url = f"https://api.telegram.org/bot{token}/sendDocument"
+    boundary = "".join(random.choices(string.ascii_letters + string.digits, k=28))
+    file_data = path.read_bytes()
+
+    def field(name: str, value: str) -> bytes:
+        return (
+            f"--{boundary}\r\n"
+            f'Content-Disposition: form-data; name="{name}"\r\n\r\n'
+            f"{value}\r\n"
+        ).encode()
+
+    body = (
+        field("chat_id", chat_id)
+        + (
+            f"--{boundary}\r\n"
+            f'Content-Disposition: form-data; name="document"; filename="{path.name}"\r\n'
+            f"Content-Type: text/markdown\r\n\r\n"
+        ).encode()
+        + file_data
+        + f"\r\n--{boundary}--\r\n".encode()
+    )
+
+    req = urllib.request.Request(
+        url,
+        data=body,
+        headers={"Content-Type": f"multipart/form-data; boundary={boundary}"},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=40) as resp:
+            result = json.loads(resp.read())
+            if not result.get("ok"):
+                raise RuntimeError(f"Telegram API error: {result}")
+    except urllib.error.HTTPError as e:
+        body_err = e.read().decode()
+        raise RuntimeError(f"Telegram API error {e.code}: {body_err}") from e
+
+
 # ---------------------------------------------------------------------------
 # Subcommand: get-chat-id
 # ---------------------------------------------------------------------------
@@ -174,13 +216,17 @@ def cmd_daemon(token: str, chat_id: str) -> None:
 # Subcommand: send
 # ---------------------------------------------------------------------------
 
-def cmd_send(token: str, chat_id: str, text: str | None, file_path: str | None) -> None:
+def cmd_send(token: str, chat_id: str, text: str | None, file_path: str | None, as_document: bool = False) -> None:
     if file_path:
-        content = Path(file_path).read_text(encoding="utf-8")
-        filename = Path(file_path).name
-        header = f"— {filename} —\n\n"
-        send_text(token, chat_id, header + content)
-        print(f"Sent file: {file_path} ({len(content)} chars)")
+        if as_document:
+            send_document(token, chat_id, file_path)
+            print(f"Sent as document: {file_path}")
+        else:
+            content = Path(file_path).read_text(encoding="utf-8")
+            filename = Path(file_path).name
+            header = f"— {filename} —\n\n"
+            send_text(token, chat_id, header + content)
+            print(f"Sent file: {file_path} ({len(content)} chars)")
     elif text:
         send_text(token, chat_id, text)
         print(f"Sent ({len(text)} chars)")
@@ -207,7 +253,8 @@ def main() -> None:
     send_p = sub.add_parser("send", help="Send a message or chapter file")
     grp = send_p.add_mutually_exclusive_group()
     grp.add_argument("text", nargs="?", help="Text to send")
-    grp.add_argument("--file", metavar="PATH", help="Path to a chapter file to send")
+    grp.add_argument("--file", metavar="PATH", help="Path to a chapter file to send as text")
+    send_p.add_argument("--document", action="store_true", help="Send --file as a downloadable document instead of text")
 
     args = parser.parse_args()
 
@@ -232,7 +279,7 @@ def main() -> None:
         if not chat_id:
             print("Error: TELEGRAM_CHAT_ID not set. Run: python3 tools/telegram_daemon.py get-chat-id")
             sys.exit(1)
-        cmd_send(token, chat_id, args.text, args.file)
+        cmd_send(token, chat_id, args.text, args.file, as_document=args.document)
 
 
 if __name__ == "__main__":
