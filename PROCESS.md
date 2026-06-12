@@ -30,8 +30,8 @@ Each entry: user prompt → conclusion from that session.
 
 **2026-06-12**
 
-*Prompt:* Move memory into git repo for cross-machine portability. Build an init tool so setup on a new machine is automatic.
+*Prompt:* Reader notes on chapters 14–17. Revise accordingly, plan chapters 18–19, confirm Amsterdam arc and timing. New decisions: Jonas gets fired (not just sidelined); travel plans in chapter 20 because he is now free; end of story — ALEPH advises Jonas on a new job in Berlin where his ideas can be realized.
 
-*Conclusion:* Memory files moved from `~/.claude/projects/.../memory/` into `.claude/memory/` inside the repo (now git-tracked). Original location replaced with a symlink. `tools/init.py` written — detects project root and clone path automatically, creates the correct symlink, handles edge cases safely. CLAUDE.md updated: "init" now triggers the script, "resume" remains the session-resumption command.
+*Conclusion:* Chapters 14–17 revised (ch14 ending fixed — Jonas stays; ch15 Jonas warmed up emotionally; ch16 fully rewritten to remove clinical/diagnostic language; ch17 Iris's reaction to the chat made human rather than diagnostic). Chapters 18–19 written: Iris interviews Reinhardt on algorithmic accountability (irony quiet), Jonas tells her his decision (ch18); Jonas sends the email, gets fired by Thomas Würfel, tells Iris over dinner, opens the chat (ch19). STATUS updated with full revised arc through Amsterdam and end-of-story ALEPH dialogue note.
 
 ---

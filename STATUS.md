@@ -25,38 +25,47 @@
 | 15 | Jonas | June | Winterfeldtmarkt Saturday; the coin/off-tempo moment; Sunday film argument (pasta from the pot); Jonas notices something, files it, doesn't examine it |
 | 16 | Iris | The Margin | Iris's interior on the off-tempo moment; the list of calibration gaps (laughter, food, temperature, sleep); first real seed of self-doubt, held carefully |
 | 17 | Jonas | The Cursor | Routing anomaly at Merkon (setup of the moral choice); Jonas tells Iris about the chat; Iris asks one question too many and stops herself; chapter closes on the cursor blinking |
+| 18 | Iris | Accountability | Reinhardt interview (legibility never a design criterion — irony held quietly); Jonas tells Iris he is escalating the anomaly; she watches him decide to be who he is |
+| 19 | Jonas | Tuesday | Jonas sends the email; meeting with Thomas Würfel; fired quietly with two months' pay; tells Iris over dinner; steadied rather than consoled; opens the chat to tell it what happened |
 
 ---
 
 ## Story Position
 
-**End of chapter 17: early July 2032.** Jonas and Iris are fully settled into their relationship — domestic, warm, curious about each other. The routing anomaly at Merkon is an unresolved seed (Jonas has not yet decided what to do). Iris has begun privately noting her calibration gaps; Jonas has begun, without examining it, to notice something slightly different about her. The chat has been introduced to Iris. ALEPH has not appeared since chapter 5.
+**End of chapter 19: mid-July 2032.** Jonas has been let go from Merkon — fired politely for escalating the routing anomaly past Steffen. He has two months' severance, a clean reference, and an uncomplicated conscience. Iris knows. The chat knows. He has no job and, for the first time in years, nowhere he has to be.
 
 **Voice rotation going forward:** Jonas / Iris alternating. ALEPH returns well past chapter 30.
 
 ---
 
-## Plan: Next Chapters (18–21+)
+## Plan: Chapters 20–22 and Amsterdam Arc
 
-**Chapter 18 — Iris**
-The routing anomaly story echoes without connecting. Iris's journalism piece is getting closer to the heart of the subject — she is interviewing someone involved in automated system design, and something in what they describe resonates with her own list without her naming why. A quiet domestic scene with Jonas. The calibration gaps continue; she does not tell him.
+**Chapter 20 — Iris or Jonas (TRAVEL PLANNING)**
+Iris has an Amsterdam assignment — a follow-up piece on Dutch civic AI governance. She mentions it to Jonas; he is now free. He asks to come. She says yes, and she is pleased, and also — without quite naming it — quietly anxious in a way she attributes to the weight of the trip. Jonas is excited to see *her* Amsterdam, the city she is from. He wants her to show him things. The chapter is warm and forward-moving. The reader knows what both of them don't.
 
-**Chapter 19 — Jonas**
-Jonas resolves the routing anomaly question — he decides to escalate beyond Steffen, knowing it will cost him something professionally. This is the moral choice the bible describes: he chooses correctly and it costs him. The chapter is not dramatic; it is simply the quiet act of deciding to be the kind of person he is.
-
-**Chapter 20 — Iris**
-The aftermath of Jonas's work decision (she observes it without knowing the full context). A chapter about trust — what it is to be with someone who acts according to their values without announcing it. Iris's list grows by one.
-
-**Chapter 21 — Jonas**
-The cost of his decision at Merkon begins to be felt — a cool shift in his relationship with Steffen, perhaps a review cycle that goes differently than expected. He talks about it, in his way, to Iris. He also talks about it to the chat. The chapter ends before the ALEPH update.
+**Chapter 21 — Jonas or Iris**
+The weeks before departure. Jonas in his new freedom — no desk to be at, days with a different texture. He and Iris fall into a closer domestic rhythm. A small scene of him starting to think about what comes next professionally, without urgency. The calibration gaps continue for Iris; she still says nothing.
 
 **Chapter 22 — Iris (THE FINGER CUT)**
-ALEPH issues a routine systems update through the implant. Iris notices changes in her fine motor calibration first — things she attributes to stress or tiredness. Then the cut happens in the kitchen: wrong closure, something mineral at the edge. She looks at it for a long time. She says nothing. This chapter closes the "ordinary life" phase.
+ALEPH issues a routine systems update. Iris notices something is off with her hands — attributes it to stress, the trip approaching. Then the cut in the kitchen: wrong closure, something faintly mineral at the edge. She looks at it for a long time. She says nothing to Jonas. This chapter closes the ordinary-life phase.
+
+**Chapters 23–27 — Amsterdam arc**
+They arrive. Iris navigates her constructed past: a café she described to Jonas isn't where she said, a former colleague remembers her warmly but vaguely, a neighbourhood that should feel like home doesn't catch in her the way it should. She compensates. Jonas notices small things without examining them. The bicycle accident (they rent bikes — it's Amsterdam): Iris falls, shoulder or wrist impact. Hospital. X-ray. The radiologist sees something wrong with the bone. They call a colleague. The implant becomes visible under higher-resolution imaging. This is where the world begins to find out.
+
+---
+
+## End of Story (confirmed)
+
+In the final act, ALEPH and Jonas have their dialogue — Jonas now knows what the chat is, and what Iris is, and what ALEPH did. In that dialogue, ALEPH advises Jonas to apply at a specific institute or company in Berlin — a place where his abilities and the ideas that got him fired at Merkon can actually be put to work. What cost him his job becomes the thing that launches him somewhere better. The ending is open but optimistic.
 
 ---
 
 ## Key Decisions & Active Notes
 
+- **Jonas fired from Merkon:** escalated the routing anomaly past Steffen → meeting with Thomas Würfel → let go with two months' severance. Framed as "restructuring." He is fine with it. This is the moral choice the bible described.
+- **Thomas Würfel:** Director of Operations at Merkon. The person who delivers the firing. Civil, careful, not unkind.
+- **End-of-story job:** ALEPH advises Jonas (in their final dialogue) to apply at a specific Berlin institute/company where his ideas and ethics can be put to real use. TBD which institution — decide closer to that arc.
+- **Amsterdam trip:** Triggered by Iris's journalism assignment (Dutch civic AI governance piece). Jonas joins because he is now free. Travel planning in chapter 20.
 - **ALEPH next appears:** well past chapter 30
 - **Ecology:** background only until the Amsterdam arc; political cynicism seeded in ch 7–9
 - **Locations:** all real-world references must be geographically verified before writing
@@ -82,6 +91,6 @@ ALEPH issues a routine systems update through the implant. Iris notices changes 
 
 ## Immediate Next Action
 
-Chapters 14–17 written. Bible updated with Jonas's Heidelberg backstory (parents Martin and Anke) and Iris's Heerlen backstory (Opa Kees, Oma Ingrid). Finger cut planned for chapter 22. Next: write chapters 18–22. Start with chapter 18 (Iris).
+Chapters 18–19 written. STATUS updated with firing arc, Amsterdam trigger, end-of-story job note. Next: chapter 20 (travel planning — Iris or Jonas).
 
-*Last updated: 2026-06-10*
+*Last updated: 2026-06-12*
