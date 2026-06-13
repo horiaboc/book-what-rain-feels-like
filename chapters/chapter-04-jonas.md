@@ -1,9 +1,5 @@
 # Chapter Four: Third from the Window
 
-> *"Integrity has no need of rules."*
->
-> — Albert Camus, *The Myth of Sisyphus*
-
 ---
 
 Two autumns.

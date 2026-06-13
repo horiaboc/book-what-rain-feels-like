@@ -1,9 +1,5 @@
 # Chapter Seven: December
 
-> *"Attention is the beginning of devotion."*
->
-> — Mary Oliver, *Upstream*
-
 ---
 
 Three weeks after the coffee shop, I found the article.

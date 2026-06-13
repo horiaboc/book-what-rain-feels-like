@@ -1,9 +1,5 @@
 # Chapter Nineteen: Tuesday
 
-> *"Hope is not the conviction that something will turn out well, but the certainty that something makes sense regardless of how it turns out."*
->
-> — Václav Havel, *Disturbing the Peace*
-
 ---
 
 I sent the email on a Wednesday morning.

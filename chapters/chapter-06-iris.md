@@ -1,9 +1,5 @@
 # Chapter Six: A Small Exchange
 
-> *"It is only with the heart that one can see rightly; what is essential is invisible to the eye."*
->
-> — Antoine de Saint-Exupéry, *The Little Prince*
-
 ---
 
 The coffee shop on Pannierstraße has a television mounted in the corner that nobody asked for and nobody turns off.

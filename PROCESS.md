@@ -43,3 +43,11 @@ Each entry: user prompt → conclusion from that session.
 *Conclusion:* Ch14–19 adjusted: Weichselstraße consistency fixed throughout, routing anomaly given concrete human stakes (insulin delivery complaint, Thomas's silence about it), ch18 dinner anchored at home. Ch20–23 written: Jonas's freedom and Amsterdam planning (ch20), Iris's pre-departure flatness (ch21), Amsterdam arrival through the cut (ch22), ALEPH signal night on Bloemgracht in neutral voice (ch23). Full story arc locked in: bicycle accident → hospital → investigation arc (Amsterdam student years, Heerlen — the neighbour who says they never had children) → private intelligence company danger → ALEPH contact at highest stress → Jonas accepts early and easily → Iris accepts herself → company exposed → open optimistic ending. All stored in STATUS.md and memory.
 
 ---
+
+**2026-06-13**
+
+*Prompt:* Revise ch20 (swap parent roles), rewrite ch23 (user's version, cleaner/quieter), revise ch22 (wound discovery moved to private night scene, "too efficient"). Plan Part II arc (~20 chapters, ch24–43). Add Vantage Strategic / Conrad Vael / Mara Seyn. Expand MRI findings. Add Iris's combat ability to bible.
+
+*Conclusion:* Ch20 revised — mother now practical + worried about Iris/relationship, father gives emotional validation. Ch22 revised — flat confirmed overlooking Bloemgracht; wound bandaged at time of cut, dinner proceeds normally; Iris wakes alone and discovers healed finger; chapter ends on "Too perfect. Too… efficient." Ch23 fully rewritten with user's text; title changed to `_` (cursor). Part II arc planned (ch24–43): accident/hospital (24–26), Vantage Strategic introduced (27), Amsterdam investigation (28–30), memory accumulation + pursuit encounters (31–34), Heerlen arc — cemetery/house/neighbour (35–37), aftermath and Part II close (38–43). Conrad Vael and Mara Seyn added to bible. MRI findings expanded with realistic clinical detail (crystalline/carbon-matrix bone, cortex-only DTI anomaly, wound healing, implant visible under high-res imaging). Iris's combat background added (wing chun, judo, krav maga — execution exceeds the training). "Too efficient" logged in memory as reserved for Part III ALEPH/Iris dialogue only. STATUS and MEMORY updated. No Berlin return confirmed — they extend Bloemgracht flat and search outward. Ch24–34 written in same session.
+
+---

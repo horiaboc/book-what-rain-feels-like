@@ -1,9 +1,5 @@
 # Chapter Eleven: The Party
 
-> *"The most important things are the hardest to say, because words diminish them."*
->
-> — Stephen King, *The Body*
-
 ---
 
 The party was in Prenzlauer Berg, which already told you something about who was throwing it.

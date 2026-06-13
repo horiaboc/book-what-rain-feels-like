@@ -1,9 +1,5 @@
 # Chapter Nine: Walk Again Sometime
 
-> *"There are years that ask questions and years that answer."*
->
-> — Zora Neale Hurston, *Their Eyes Were Watching God*
-
 ---
 
 The Kulturforum at seven in January: the kind of cold that makes the lobby feel like a correction.

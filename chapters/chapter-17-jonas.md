@@ -1,9 +1,5 @@
 # Chapter Seventeen: The Cursor
 
-> *"Time forks perpetually toward innumerable futures."*
->
-> — Jorge Luis Borges, *The Garden of Forking Paths*
-
 ---
 
 I had been looking at the same section of code for two days with the specific focus of someone pretending to look at code while thinking about something else.

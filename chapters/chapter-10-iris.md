@@ -1,9 +1,5 @@
 # Chapter Ten: February
 
-> *"I wanted only to live in accord with the promptings of my true self. Why was that so very difficult?"*
->
-> — Hermann Hesse, *Demian*
-
 ---
 
 The second walk happened on a Friday.

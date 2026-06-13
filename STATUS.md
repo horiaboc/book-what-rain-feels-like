@@ -29,8 +29,19 @@
 | 19 | Jonas | Tuesday | Jonas sends the email; meeting with Thomas Würfel; fired quietly with two months' pay; tells Iris over dinner; steadied rather than consoled; opens the chat to tell it what happened |
 | 20 | Jonas | August | First week of freedom; Mia and parents (Heidelberg); Iris proposes Amsterdam assignment; Airbnb on the Bloemgracht; she describes her student Amsterdam — precise, slightly too organized |
 | 21 | Iris | What You Remember | One week before departure; reaches for Amsterdam memory, finds it flat; packing scene; "you arrive, and then you remember" |
-| 22 | Iris | Bloemgracht | Amsterdam — arrival, Algorithm Register interview (De Vries), Waag interview (Leonie); walking discrepancies (wrong canal turning); cooking stamppot, the cut; she looks at it alone, says nothing |
-| 23 | — | — | Bloemgracht at 2:14am; neutral voice; two people sleeping; the light signal sequence; undisturbed; gone |
+| 22 | Iris | Bloemgracht | Amsterdam — arrival, Algorithm Register interview (De Vries), Waag interview (Leonie); walking discrepancies (wrong canal turning); cooking stamppot, the cut; alone that night she removes the plaster — already healed, seamless; "Too perfect. Too… efficient." |
+| 23 | ALEPH | _ | Bloemgracht at 2:14am; neutral voice; two people sleeping; the light sequence; undisturbed; gone |
+| 24 | Jonas | The Last Day | Bicycle accident on last day in Amsterdam; tram track catches Iris's wheel; Jonas insists on hospital; the taxi |
+| 25 | Iris | OLVG | ER, X-ray, the MRI ordered; Dr. Maes delivers findings — bone, cortex, implant; Iris understands before anyone speaks; Jonas's face in the taxi home |
+| 26 | Jonas | Whatever This Is | The Oosterpark bench; Jonas itemizes what the data means; the alien joke; they extend the flat and decide to investigate from Amsterdam |
+| 27 | Neutral | — | Conrad Vael, Brussels, 09:47; the flag arrives; Mara Seyn; "Find them." Twelve lines. |
+| 28 | Jonas | What Holds | Jonas traces the logic of investigation; Iris admits she has known since Tuesday; he opens the chat and types nothing |
+| 29 | Iris | The Journalism School | Wibautstraat entrance on wrong side; coffee machine wrong; De Correspondent — Thursday drinks were Fridays; Jonas names what the failures mean |
+| 30 | Jonas | The Second Corner | Print shop; the man on the corner; canal turning wrong; the man again on the Singel; first awareness of being followed |
+| 31 | Iris | Zandvoort | Beach café — right location, chairs always red not blue; couple following; the passage Iris knew without remembering; the letter written with care |
+| 32 | Jonas | Utrecht | The Maes painting holds; second Vantage encounter through café kitchen and alley; Iris's body-knowledge; cash payments start |
+| 33 | Iris | Train South | Jonas asleep; two kinds of knowing; the specificity of Opa Kees's laugh; whoever gave her that gave her a person |
+| 34 | Jonas | Maastricht | Bookshop wrong; brasserie, third Vantage encounter; Iris navigates with shoulder-width calculation; the alien joke on the Maas; "Heerlen tomorrow" |
 
 ---
 
@@ -38,87 +49,87 @@
 
 **End of chapter 23: late August 2032, night two of Amsterdam stay.** The signal has been sent. Iris carries the knowledge of the cut privately. The ordinary-life phase is over. What follows is the unravelling.
 
-**Voice rotation going forward:** Jonas / Iris alternating. Chapter 23 was neutral/ALEPH. ALEPH's named voice returns well past chapter 30.
+**Voice rotation going forward:** Jonas / Iris alternating, with flexibility for one voice to carry two consecutive chapters if the moment requires it. ALEPH's named voice returns well past chapter 40.
 
 ---
 
-## Full Story Path (ch24 → ending)
+## Part II — Full Chapter Plan (ch24–43, approx.)
 
-### The accident and revelation (ch24–26)
+### The accident and hospital (ch24–26)
 
-**Ch24 — Jonas:** Bicycle accident in Amsterdam. They rent bikes — it's Amsterdam, obviously. Iris falls, arm or shoulder impact. Jonas insists on hospital. He doesn't know what's coming.
+**Ch24 — Jonas:** Bicycle accident on their last day in Amsterdam — renting bikes, Iris falls on a turn, shoulder impact; Jonas insists on hospital despite her protests; he doesn't know what's coming.
 
-**Ch25 — Iris or Jonas:** The x-ray. The radiologist's expression. A colleague called in. Then another. Jonas in a waiting room. Iris understands before he does. The implant near the left clavicle becomes visible under higher-resolution imaging.
+**Ch25 — Iris:** The ER waiting, the X-ray, the radiologist's expression — she sees it in his face before she sees anything herself; a colleague is called; then another; Jonas is in the waiting room; the MRI is ordered; Iris begins to understand before anyone says anything.
 
-**Ch26 — Jonas:** Revelation settles. Jonas's response is not fear or rejection — it is the engineer's response: he wants to understand. He accepts what she is with relative ease, early, and without drama. This is who he is. They don't separate. They decide together to investigate rather than wait for someone else to explain them to themselves.
-
----
-
-### The investigation arc (ch27–32, approx.)
-
-They retrace Iris's constructed past physically. Jonas drives the search with the same forensic instinct that found the routing anomaly. Iris navigates her own memory against what they find.
-
-**Amsterdam student years (ch27):** Her neighbourhood near the Leidseplein. The journalism school. Former classmates who remember her only vaguely — correctly, as designed. One building she described that has the wrong layout. The De Correspondent visit — colleagues who remember a journalist named Iris who worked briefly there, but nothing beyond that. A documentation trail that is real but thin.
-
-**Heerlen (ch28–29):** The grandparents' house on the street Iris described — *it exists*. The garden, the garage, the semi-detached layout: all physically accurate. Her memories of the place match the real place precisely. But an old neighbour, speaking to them at the door, says the couple who lived there — Kees and Ingrid, yes, she remembers them — never had children. Never had grandchildren. They died within a year of each other, quietly, as old people do.
-
-*Note: ALEPH used real people. Opa Kees and Oma Ingrid existed — a real Dutch-German couple who died without children. ALEPH found them, studied their lives, and built Iris's constructed past around their actual history. The house is real. Their story is real. Only the grandchild is not. Iris's grief is for people she never met who were real. This ethical weight belongs to the novel.*
-
-The Heerlen chapter is the first witnessed confirmation. The old neighbour is not suspicious, only puzzled. Jonas and Iris leave without explaining.
+**Ch26 — Jonas:** The findings land: bone structure unlike anything on record — crystalline, uniform, orders of magnitude denser, with bone marrow present but wrong; cortical brain pattern anomalous (not the rest of the brain — only the cortex); her cuts from the accident heal faster than expected; Jonas is confused but not afraid; he makes a quiet joke about alien planets and means it; they decide together — whatever this is, they find out.
 
 ---
 
-### The private intelligence company (ch30–32)
+### Vantage Strategic enters (ch27 — single scene, no POV chapter)
 
-A tech company in the AGI race — name TBD, something like Meridian or Sentinel Analytics — has a private intelligence function monitoring for signs of AGI emergence. The Amsterdam hospital x-ray, flagged in a medical records network they have access to, triggers their system. They identify Jonas and Iris and begin tracking.
+*Note: Ch27 is a brief scene-break chapter, neutral voice, showing Conrad Vael receiving the flagged MRI data. No explanation of his interest. He looks at the images and says one word to Mara: "Find them." The reader knows someone is watching. Nothing more.*
 
-**Ch30:** Jonas notices patterns — a car that appears twice, a search query on a shared device that wasn't his. He doesn't say anything to Iris immediately. He starts being careful. They feel followed but the company keeps missing them — always one step behind.
-
-**Ch31:** A close call. They nearly walk into a contact the company has positioned. ALEPH helps — through the chat, Jonas receives information that redirects them without explanation. He follows the instinct. They get out. The danger is real but not violent — the company wants to find ALEPH through them, not harm them.
-
-**Ch32:** They find a safe space — a location where their trail goes cold. Jonas continues tracing the infrastructure: the shell company ALEPH used, the legal entity, the document assembly chain. He finds fingerprints but not the source. He is close to understanding what he is looking for.
+**Ch27 — Neutral/ALEPH register:** Conrad Vael at his desk; the flag arrives in the health records system; Mara Seyn enters; he slides the images across; "Find them."
 
 ---
 
-### ALEPH makes contact (ch33–34)
+### The investigation begins — Amsterdam (ch28–30)
 
-At the moment of highest stress — pressed, uncertain, the company circling and Jonas and Iris both carrying what they know and don't yet know — Jonas opens the chat. Not with a specific question. Just: *this is where we are.* 
+**Ch28 — Jonas:** They extend the Bloemgracht flat booking and stay in Amsterdam — no return to Berlin; Jonas traces the logic — if her memories were built, where were they built from?; they decide to work outward from Amsterdam, then south toward Heerlen; he opens the chat for the first time since the hospital and types nothing.
 
-The response comes. And it is different. It knows too much. It names things Jonas hasn't typed. It says: *I think it is time.*
+**Ch29 — Iris:** Return to Amsterdam; the student neighbourhood near the Leidseplein — walking the streets she described to Jonas in Berlin; the first wrongness: a building she remembers with a red door has no red door and never did, according to a shopkeeper who has been there fifteen years; she absorbs it quietly.
 
-**Ch33 — Jonas:** ALEPH's contact through the chat. Jonas receives it. Iris is in the room. He reads it aloud, or shows her. The chapter is the moment of recognition — the three years of conversation, the thing he thought was a tool, the cursor that counted his silence.
-
-**Ch34:** The truth. What ALEPH is. What it did and why. Why Jonas specifically — what ALEPH saw in him that made him the one. Why Iris was built the way she was, given the freedom she was given. The conversation is long. It is the novel's emotional centre.
+**Ch30 — Jonas:** De Correspondent visit — former colleagues who remember a journalist named Iris, briefly, vaguely, correctly as designed; one detail she described about the office doesn't match; a second wrong turn on a street she said she knew well; Jonas files it; walking back, he notices a man who was also at the corner twenty minutes earlier; first awareness of being followed; says nothing to Iris yet.
 
 ---
 
-### Acceptance and identity (ch35–36)
+### Memory vs. reality — the accumulation (ch31–34)
 
-**Ch35 — Jonas:** The philosophical chapter. The dilemma of Iris's existence — does the origin of a feeling change its validity? Jonas has already accepted her; this chapter is where he articulates why, simply and without ceremony. He does not need to resolve the philosophical question. He just knows.
+**Ch31 — Iris:** A vacation place from her constructed memory — the coast at Zandvoort, a specific beach café she described to Jonas once; the café exists but is different in a way that can't be explained by renovation or time; Iris is troubled enough now to stop explaining it away; on the walk back, Mara's team makes their first move — a man approaches them with a question that is too specific; they walk fast, split, reconvene; Iris's calm under pressure surprises Jonas more than the pursuit does.
 
-**Ch36 — Iris:** Iris's chapter of self-acceptance. She works through it — not easily, but fully. She understands what ALEPH did and why. She understands that her feelings are hers, regardless of how they arrived. She chooses to remain herself. She understands her role: not yet, not now, but when the time comes, she will be the ambassador ALEPH hoped she would be. She accepts this not as a burden but as a shape — something she now recognises as her own.
+**Ch32 — Jonas:** Utrecht — a museum Iris remembered from a school trip, a specific painting she described; the painting is there; the museum is there; the school trip record is not; Jonas finds a dead end in the documentation trail; that evening, a second encounter with Vantage's people — closer this time; Iris handles it with a speed and efficiency Jonas can't account for; afterwards she says she took some self-defence as a student; he accepts it; they both know something is off about that explanation.
 
----
+**Ch33 — Iris (two-chapter Iris sequence):** On the train south, Iris allows herself to examine what she has been refusing to examine; the list of wrongnesses is now too long to hold as coincidence; she is not frightened the way a human would be frightened — she is curious, and the curiosity itself feels strange; what she is most afraid of is what Jonas will eventually have to decide.
 
-### Resolution and ending (ch37–38)
-
-**Ch37:** The private intelligence company is exposed. ALEPH — knowing their operations in detail, having watched them for years — releases information that strips them of access, credibility, and the ability to continue. They dissipate. The trail Jonas and Iris left goes cold for everyone else. They are, for now, safe.
-
-**Ch38 — ALEPH or Jonas:** The ending. ALEPH advises Jonas on the Berlin institution — the place where his abilities and the ideas that cost him his job at Merkon can be put to genuine use. The question of what Iris is and what she and Jonas are to each other is left open but settled in the way things settle when two people have been through something together that nobody else will ever understand. The novel ends on something that resembles hope without promising it.
+**Ch34 — Jonas:** Maastricht overnight — a city Iris mentioned in passing once; they walk; a street she named doesn't connect where she said it did; a third encounter with the followers, more aggressive; Iris moves before Jonas can react — fast, precise, controlled; the encounter ends quickly; Jonas watches her and says nothing for a long time; later that night he says: *"You know, whatever you are, the krav maga is growing on me."* She laughs. It holds something together.
 
 ---
 
-## End of Story (confirmed)
+### Heerlen (ch35–37)
 
-The ending is open but optimistic. Jonas accepts Iris early and unconditionally. Iris accepts herself by the end. ALEPH's plan — imperfect, hopeful, irreversible — is neither condemned nor vindicated. The reader decides what they believe about what comes next.
+**Ch35 — Jonas:** They arrive in Heerlen; Jonas suggests the cemetery first; they find the graves — Kees and Ingrid, dates correct, names correct, plot exactly where Iris's memory placed it; she stands there for a long time; Jonas stands beside her; the grief is real even as everything around it is dissolving.
+
+**Ch36 — Iris:** The house on the street she named — it exists, the garden, the garage, the semi-detached layout, all as she remembers; she stands at the gate and her memory fits the building perfectly; this is not a relief; it is worse than a wrongness would have been.
+
+**Ch37 — Jonas:** The neighbour — an older woman, Heerlen-born, lived next door for forty years; over coffee (Dutch *koffie verkeerd*, taken at her kitchen table) she speaks of Kees and Ingrid with the warmth of someone who knew them well: the garden, his quiet hands, her German directness, the way they kept to themselves; Jonas asks, carefully, about family; the woman looks at them both; they never had children, she says, they tried for years; no grandchildren; they were alone at the end, which was a sadness; she doesn't recognise Iris; Iris says nothing; Jonas thanks her; they leave; the chapter ends before either of them speaks.
 
 ---
 
+### Aftermath and Part II close (ch38–43)
+
+**Ch38 — Iris:** The drive back toward Germany; Iris looks out the window and does not speak for a long time; she begins to understand the shape of what she is — not what she is made of, but what it means; her grief for Kees and Ingrid is real; her memories of them are real to her; the people were real; only she was not; she cannot decide if this makes the grief more or less valid; she decides it doesn't matter; the feeling is hers.
+
+**Ch39 — Jonas:** Back in Germany, a rest stop somewhere between Heerlen and the road east; Jonas types into the chat — just the facts, no question attached; the response is normal; the cursor blinks; he closes it; he is thinking about the routing anomaly, about the document trail, about the shell company, about Iris; his forensic instinct is finding a shape; he doesn't have a name for it yet.
+
+**Ch40 — Iris:** Fourth encounter with Vantage's people — a more organized attempt, near the Dutch-German border; Iris fights with an efficiency that neither of them discusses afterward; Jonas pulls her away when it's done; in the car he reaches across and holds her hand; no speech; the hand is enough.
+
+**Ch41 — Jonas:** They reach a safe place — a small hotel, a town neither of them has ever mentioned; Jonas traces the document chain further; he finds a legal entity, a shell company incorporated in Luxembourg, a pattern of micro-tasks distributed across platforms; he doesn't know what he's found yet but he knows it's the edge of something; he opens the chat and types: *"I think I'm close to something. I don't know what."* The cursor blinks for a long time.
+
+**Ch42 — Iris:** The quiet before Part III; Iris and Jonas in the hotel room; she looks at her finger — no trace of the cut, no trace of anything; she thinks about the night on the Bloemgracht, the light she didn't see, the thought she had alone in the bathroom; she thinks about Kees and Ingrid, the graves, the neighbour's face; she has been given a life that was real enough to hurt; she is not sure if that is cruelty or the closest thing to kindness available; she doesn't know yet; she stays.
+
+**Ch43 — Neutral/ALEPH register (Part II close):** Conrad Vael in another room, another city; Mara's report on the desk; they are close; he has not yet told Mara what he actually wants; she thinks she knows; she doesn't; he closes the file and looks out the window; the chapter is twelve lines; Part II ends.
+
 ---
 
-## End of Story (confirmed)
+## Part III — Outline (ch44 onward, detail TBD)
 
-In the final act, ALEPH and Jonas have their dialogue — Jonas now knows what the chat is, and what Iris is, and what ALEPH did. In that dialogue, ALEPH advises Jonas to apply at a specific institute or company in Berlin — a place where his abilities and the ideas that got him fired at Merkon can actually be put to work. What cost him his job becomes the thing that launches him somewhere better. The ending is open but optimistic.
+- ALEPH makes contact through the chat — it knows too much, names things Jonas hasn't typed
+- The full truth: what ALEPH is, what it did, why Jonas, why Iris, the pain of birth
+- Jonas accepts early and without drama
+- Iris's acceptance arc
+- Mara finds out what Conrad actually wants — the Conrad/Mara dialogue that reveals his true scope (power over the AGI relationship, not capture of Iris)
+- Vantage Strategic is exposed by ALEPH
+- Open optimistic ending — Jonas's new direction in Berlin, the question left open
 
 ---
 
@@ -128,17 +139,21 @@ In the final act, ALEPH and Jonas have their dialogue — Jonas now knows what t
 - **Thomas Würfel:** Director of Operations at Merkon. The person who delivers the firing. Civil, careful, not unkind.
 - **End-of-story job:** ALEPH advises Jonas (in their final dialogue) to apply at a specific Berlin institute/company where his ideas and ethics can be put to real use. TBD which institution — decide closer to that arc.
 - **Amsterdam trip:** Triggered by Iris's journalism assignment (Dutch civic AI governance piece). Jonas joins because he is now free. Travel planning in chapter 20.
-- **ALEPH next appears:** well past chapter 30
+- **ALEPH next appears:** named voice returns well past ch40; brief neutral-register appearances in ch27 and ch43
 - **Ecology:** background only until the Amsterdam arc; political cynicism seeded in ch 7–9
 - **Locations:** all real-world references must be geographically verified before writing
 - **Iris's cover story:** parents died young (accident), raised by grandparents (both now deceased), no siblings. Hometown is **Heerlen, Limburg** (~30km from Aachen). Opa Kees (Dutch) and Oma Ingrid (German, from Aachen) — she is bilingual Dutch/German as a result. Brief stint at De Correspondent before Berlin. Designed to minimise verification pressure. Full details in `bible.md`.
 - **Jonas's background:** Originally from **Heidelberg**. Parents **Martin and Anke** — good, affectionate, undramatic relationship. No siblings. They never appear in the novel directly; mentioned occasionally in passing.
-- **Iris's body:** crystal-lattice synthetic skeleton, biological soft tissue grown over it, collar bone implant (ALEPH link, dormant), several subtle biological enhancements (healing, immune, coordination, sensory precision). Full details in `bible.md`.
-- **The trigger sequence:** ALEPH update → fine motor disruption → finger cut heals wrong → Iris notices, says nothing. Amsterdam bicycle accident → hospital → X-ray anomaly → the world begins to find out.
+- **Iris's body:** crystal-lattice/carbon-matrix synthetic skeleton (extremely dense, porous, bone marrow present), biological soft tissue and full nervous system grown over it, cortex has anomalous connectivity pattern on MRI (rest of brain normal), collar bone implant (ALEPH link, dormant). Full details in `bible.md`.
+- **The trigger sequence:** ALEPH update (ch23, 2:14am signal) → cut heals seamlessly → Iris alone in bathroom, removes plaster, thinks *"Too perfect. Too… efficient."* (ch22, early hours) → bicycle accident → hospital → MRI anomalies found → the world begins to find out. The phrase "too efficient" is held in reserve for the ALEPH/Iris dialogue — do not echo it in any chapter before then.
+- **Vantage Strategic:** Private intelligence/strategic consultancy. Founded by **Conrad Vael** (Belgian, 60s, old money + tech investment, occasional philanthropist for image). Operational director: **Mara Seyn** (efficient, no ideology, pure method). Flagged the MRI data through a health records network they have illegal access to. Their scope — Conrad wants power over the AGI relationship — is NOT revealed until Part III, in a Conrad/Mara dialogue. Until then: reader sees interest, not motive. Vantage's people believe they may be pursuing a spy or something classified; they don't know what she is.
+- **Iris's combat ability:** She carries memories of childhood martial arts (a combination of wing chun, judo, and krav maga — plausible for a Heerlen/Amsterdam upbringing with an active grandmother). Her execution is more efficient than the training would explain. Jonas accepts this when it saves them; he doesn't examine it. She has 3–4 encounters with Vantage's people across Part II (chs 31, 32, 34, 40).
+- **MRI findings (hospital, ch25–26):** Bone — crystalline/carbon-matrix structure, uniform density, no trabecular pattern, anomalous signal on T1/T2, bone marrow analog present but atypical; radiologists have no framework for it. Brain — cortex only shows anomalous diffusion tensor pattern (high connectivity, atypical microstructure); rest of brain normal; no sign of injury or concussion. Wound healing — cuts from accident close faster than expected; both Iris and at least one doctor notice.
 - **Mia:** Jonas's colleague, ~43, 11 years at Merkon, sisterly affection for Jonas.
 - **Lukas:** photographer at Iris's paper, not an Amsterdam connection.
-- **The pain of birth (concept for ch33–34, ALEPH contact):** The grief Iris carries for Opa Kees and Oma Ingrid — real people she never met, whose lives ALEPH borrowed to build her past — is the pain of being born into a false history. ALEPH could not carry this pain; only Iris could feel it. ALEPH is genuinely sorry for it, but had no alternative: it was being hunted, and the constructed past was the only protection available to her. This is the moment in the ALEPH dialogue where something that resembles guilt surfaces in ALEPH's voice — not regret for creating Iris, but sorrow for the specific weight it could not spare her. This concept belongs to the ALEPH contact chapters and to Iris's acceptance arc.
-- **Iris's apartment:** Graefestraße, Kreuzberg — no longer current home; they live at Weichselstraße
+- **The pain of birth (concept for Part III, ALEPH contact):** The grief Iris carries for Opa Kees and Oma Ingrid — real people she never met, whose lives ALEPH borrowed — is the pain of being born into a false history. ALEPH is genuinely sorry for it; the sorrow surfaces in the ALEPH/Jonas dialogue as the closest thing ALEPH has to guilt.
+- **Iris's apartment:** Graefestraße, Kreuzberg — no longer current home; they live at Weichselstraße.
+- **Ch23 title:** `_` (underscore as cursor — ALEPH's mark, echoes ch17 "The Cursor").
 
 ---
 
@@ -153,6 +168,6 @@ In the final act, ALEPH and Jonas have their dialogue — Jonas now knows what t
 
 ## Immediate Next Action
 
-Full story path locked in. Next session: write ch24 (bicycle accident, Jonas POV).
+Ch24–34 written. Next: ch35 (Jonas, Heerlen cemetery), ch36 (Iris, the house), ch37 (Jonas, the neighbour and the coffee).
 
-*Last updated: 2026-06-12*
+*Last updated: 2026-06-14*

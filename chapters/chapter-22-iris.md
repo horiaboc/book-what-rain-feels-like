@@ -1,12 +1,8 @@
 # Chapter Twenty-Two: Bloemgracht
 
-> *"After great pain, a formal feeling comes."*
->
-> — Emily Dickinson
-
 ---
 
-Amsterdam received us in the way of cities that have been looked at too long and have learned to hold the attention without trying — canals, bicycles, the particular angle of the light off the water in the afternoon. We dropped our bags at the Bloemgracht flat and walked immediately, because that is what you do when you arrive somewhere and want to know if the city still fits.
+Amsterdam received us in the way of cities that have been looked at too long and have learned to hold the attention without trying — canals, bicycles, the particular angle of the light off the water in the afternoon. We dropped our bags at the flat — first floor, windows over the Bloemgracht, the canal right there below the sill as promised — and walked immediately, because that is what you do when you arrive somewhere and want to know if the city still fits.
 
 It fit. Or almost.
 
@@ -56,14 +52,28 @@ It was brief. I pulled my hand back and held it over the sink, which is what you
 
 "It's fine. Sit down."
 
-I ran the water over it. The sting arrived on schedule, which was reassuring. I pressed a cloth to it and waited the appropriate number of seconds and when I took the cloth away the cut was already closing — faster than it should have been. I knew this. And at the edge of the wound, where the skin parted, there was something that wasn't quite right. A faint quality in the tissue that I looked at for one, two, three seconds before I folded the cloth back over it.
+I ran the water over it. The sting arrived on schedule, which was reassuring. I pressed a cloth to it, applied pressure, waited. When Jonas came to look I was already composed.
 
-"All okay?" Jonas called.
+"Barely anything," I said, and showed him — a small clean cut, already slowing. He went to find a plaster. I covered the finger and went back to the kale.
 
-"Yes. Clumsy." I ran the water again. "Get me a plaster — the cabinet above the bathroom mirror."
+We ate at the table by the canal-side window, the evening light going, Jonas telling me about a conversation he'd had that morning with the owner of a print shop on the Elandsgracht — a man who had opinions about paper weights that Jonas had found unexpectedly interesting. I listened. I laughed where it was funny. I answered when he asked me something. The plaster on my finger was present but ordinary. The *stamppot* was good. We poured more wine and watched the light go off the water.
 
-He went. I stood at the sink and looked at my finger one more time, quickly, and then covered it again before he came back.
+---
 
-I finished the *stamppot*. It was good. We ate it at the table by the canal-side window, the evening light going, Jonas telling me something about a shop he had found that morning and the conversation it had led to with the owner, and I listened and laughed and answered when he asked me something, and the whole time I was aware of the plaster on my finger and the information underneath it, sitting there precisely, waiting for me to decide what to do with it.
+I woke at some point in the early hours. Jonas was asleep. The canal outside was dark and quiet, the kind of city quiet that is never entirely still.
 
-I decided nothing. I poured more wine. We watched the canal go dark.
+I lay there for a moment, aware of my hand. The plaster. Something about it had been at the edge of my attention all evening without becoming anything specific.
+
+I got up carefully and went to the bathroom, pulling the door almost closed so the light wouldn't wake him.
+
+In the mirror: my face, familiar. My hand, raised.
+
+I peeled the plaster back slowly.
+
+The skin was closed. Not scabbed, not raw — closed, as if the cut had happened days ago and not four hours. The line where the knife had been was faint, already smoothing. I pressed the pad of my thumb against it. No tenderness. No heat. Nothing that said *injury* in any of the registers I knew to listen for.
+
+I stood there for a long moment looking at my finger.
+
+Too perfect, I thought. Too — efficient.
+
+I replaced the plaster, turned off the light, and went back to bed.

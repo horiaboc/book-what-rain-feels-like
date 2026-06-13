@@ -1,9 +1,5 @@
 # Chapter Thirteen: Graefestraße
 
-> *"Happiness is neither virtue nor pleasure nor this thing nor that, but simply growth. We are happy when we are growing."*
->
-> — W.B. Yeats
-
 ---
 
 April.

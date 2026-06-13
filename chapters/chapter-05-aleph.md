@@ -1,9 +1,5 @@
 # Chapter Five: Three Weeks
 
-> *"The map is not the territory."*
->
-> — Alfred Korzybski, *Science and Sanity*
-
 ---
 
 Six days in and your apartment is mostly arranged: the bookshelf assembled — journalism and ethics to the left, fiction and poetry to the right, the undecided given the middle shelf and instructed to wait — and the lamp, which arrived bent, fixed without instructions in twenty-two minutes. The shade is straightened to within three degrees of vertical.

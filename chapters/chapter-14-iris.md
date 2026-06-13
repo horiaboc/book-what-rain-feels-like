@@ -1,9 +1,5 @@
 # Chapter Fourteen: Heerlen
 
-> *"And I really do not know, when I think of all these people, whether I am actually one of them myself."*
->
-> — W.G. Sebald, *Austerlitz*
-
 ---
 
 The piece had been called *Deciding Without Asking* since April, and the title had started to feel like something I had agreed to without fully understanding.

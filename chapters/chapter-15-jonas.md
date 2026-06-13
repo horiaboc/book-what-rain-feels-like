@@ -1,9 +1,5 @@
 # Chapter Fifteen: June
 
-> *"Seek and learn to recognize who and what, in the midst of the inferno, are not inferno, then make them endure, give them space."*
->
-> — Italo Calvino, *Invisible Cities*
-
 ---
 
 June came with the certainty of a city that has decided to be beautiful again, after extensive deliberation.

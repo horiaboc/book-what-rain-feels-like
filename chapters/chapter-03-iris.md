@@ -1,9 +1,5 @@
 # Chapter Three: New Coordinates
 
-> *"I am learning to see. I don't know why it is, but everything enters me more deeply and doesn't stop where it once used to."*
->
-> — Rainer Maria Rilke, *The Notebooks of Malte Laurids Brigge*
-
 ---
 
 The apartment still smells of paint.

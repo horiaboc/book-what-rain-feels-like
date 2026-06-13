@@ -1,9 +1,5 @@
 # Chapter Eighteen: Accountability
 
-> *"If we had a keen vision and feeling of all ordinary human life, it would be like hearing the grass grow and the squirrel's heart beat, and we should die of that roar which lies on the other side of silence."*
->
-> — George Eliot, *Middlemarch*
-
 ---
 
 The interview with Reinhardt took two and a half hours and used up an entire notebook.

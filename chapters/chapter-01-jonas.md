@@ -1,11 +1,5 @@
 # Chapter One: Weichselstraße
 
-> *"I would like to beg you to have patience with everything unresolved in your heart  
-> and to try to love the questions themselves as if they were locked rooms  
-> or books written in a very foreign language."*
->
-> — Rainer Maria Rilke, *Letters to a Young Poet*
-
 ---
 
 The coffee machine makes a sound like it's solving something.

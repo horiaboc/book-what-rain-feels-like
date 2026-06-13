@@ -1,9 +1,5 @@
 # Chapter Twenty: August
 
-> *"It is the chiefest point of happiness that a man is willing to be what he is."*
->
-> — Erasmus of Rotterdam
-
 ---
 
 The first Thursday without a job, I woke at seven because my body still expected to, and then lay in bed for twenty minutes doing nothing, which I recommend.
@@ -18,7 +14,7 @@ Mia sent a message on the Wednesday: *I heard. I hope you're not being an idiot 
 
 I sent back something brief and reassuring. She replied with a single full stop, which from Mia constitutes complete satisfaction.
 
-On the Friday I called my parents in Heidelberg. My father asked practical questions in the methodical way he always does: what are my options, what is the timeline, have I spoken to anyone. My mother said she was glad I hadn't stayed somewhere that didn't deserve me, which is the kind of thing she says and which I have learned to receive as the specific form of love that it is. I told them both I was fine, which was true, and that I was not in a hurry about what came next, which they accepted with varying degrees of equanimity.
+On the Friday I called my parents in Heidelberg. My mother asked practical questions in the methodical way she always does: what are my options, what is the timeline, have I spoken to anyone. She asked about Iris too — carefully, as she does — whether this would make things harder between us, whether Iris was all right about it. I told her Iris had been steadying, not worried, and I watched my mother not quite believe me and then decide to. My father said he was glad I hadn't stayed somewhere that didn't deserve me, which is the kind of thing he says and which I have learned to receive as the specific form of love that it is. I told them both I was fine, which was true, and that I was not in a hurry about what came next, which they accepted with varying degrees of equanimity.
 
 After I hung up I sat for a moment with the particular quality of that call — the ease of it, the fact that nothing needed to be explained. I have been lucky in this way and I know it.
 

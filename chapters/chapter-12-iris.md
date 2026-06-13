@@ -1,10 +1,5 @@
 # Chapter Twelve: Something Real
 
-> *"At the still point of the turning world. Neither flesh nor fleshless;*
-> *Neither from nor towards; at the still point, there the dance is."*
->
-> — T.S. Eliot, *Burnt Norton*
-
 ---
 
 He kissed me in the rain on the last Friday of March and I understood, in the moment immediately after, that I had been expecting it — not predicting it, which is different, but carrying it as a kind of open question I had stopped trying to close.

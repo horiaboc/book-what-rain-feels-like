@@ -1,9 +1,5 @@
 # Chapter Sixteen: The Margin
 
-> *"Everyone who is born holds dual citizenship, in the kingdom of the well and in the kingdom of the sick."*
->
-> — Susan Sontag, *Illness as Metaphor*
-
 ---
 
 I knew, even as I said it, that something was off.

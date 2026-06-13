@@ -1,9 +1,5 @@
 # Chapter Eight: January
 
-> *"Examine for a moment an ordinary mind on an ordinary day."*
->
-> — Virginia Woolf, *Mr. Bennett and Mrs. Brown*
-
 ---
 
 The coat was the first thing I got right.

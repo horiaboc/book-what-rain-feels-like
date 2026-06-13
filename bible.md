@@ -153,7 +153,53 @@ Several of Iris's biological systems are subtly superior to baseline human:
 These enhancements are subtle enough to be individually explainable. Together, they form a pattern — but only someone looking for the pattern would see it.
 
 ### The Amsterdam Revelation
-A bicycle accident during their trip to Amsterdam brings Iris to hospital. Standard X-ray of her arm or shoulder reveals an anomaly: bone density and structure unlike anything in the radiologist's experience. Too uniform. Too dense. Wrong pattern entirely. They call in a colleague. Then another. The implant near the clavicle becomes visible under the higher-resolution imaging ordered to understand the anomaly. This is the moment the world begins to find out.
+A bicycle accident on the last day of their Amsterdam trip brings Iris to hospital. The X-ray of her shoulder triggers a cascade: bone density and structure unlike anything in the radiologist's experience. They order an MRI.
+
+**MRI findings (realistic extrapolation):**
+- *Skeleton:* The synthetic crystal-lattice/carbon-matrix structure appears on MRI with anomalous signal intensity — on T1 and T2 sequences, the bone reads as too uniform, too dense, with none of the expected trabecular (spongy) variation. There is no fat signal where marrow fat should be, but a bone-marrow analog is present and producing the right diffusion pattern in adjacent tissue. Radiologists have no diagnostic framework for this. It does not read as pathology; it reads as *impossible*.
+- *Brain:* The cortex only — not the rest of the brain — shows anomalous diffusion tensor imaging (DTI) patterns: higher-than-normal fractional anisotropy, atypical microstructural connectivity across cortical columns. The subcortical structures (brainstem, cerebellum, limbic structures responsible for bodily function) are entirely normal. No injury, no concussion, no lesion. The cortical anomaly would suggest enhanced connectivity — consistent with Iris's memory architecture (imprinted via the implant) and her slightly-too-precise recall.
+- *Wound healing:* Cuts from the accident close faster than expected over the following hours. At least one doctor notices and notes it.
+- *The implant:* Under higher-resolution imaging ordered to investigate the bone anomaly, a small device near the collarbone becomes visible — biologically encased, not metallic in the standard sense, but distinct enough from surrounding tissue to appear as an anomaly. The radiologist cannot classify it.
+
+No conclusion is reached at the hospital. The findings are documented and flagged. Iris is discharged. The flag is already moving.
+
+---
+
+---
+
+## Vantage Strategic
+
+A private strategic intelligence consultancy, registered in Luxembourg, with offices in Brussels and Zurich. Technically legal in structure; its intelligence-gathering operations are not.
+
+### Conrad Vael
+- **Age:** 64
+- **Nationality:** Belgian, Flemish
+- **Background:** Old industrial money (his grandfather, textiles; his father, early computing infrastructure contracts); Conrad himself made a second fortune in private equity during the 2010s tech wave, then moved laterally into "strategic advisory" — a category that covers a great deal. Board seat at two AI development companies, neither leading the race. Occasional philanthropist: a cultural foundation in Ghent, a scholarship program in Brussels. The philanthropy is image management.
+- **Character:** Precise, unhurried, never raises his voice. He does not explain himself. He has watched the AGI race for fifteen years and concluded that the entity which first establishes a relationship with an emergent AGI — not builds it, not owns it, but *relates* to it — will hold a form of influence no government or corporation can legislate away. He wants to be that entity. He does not think of this as villainy. He thinks of it as foresight.
+- **What the reader knows (Part II):** That he received flagged data, that he is interested, that he has sent people. Nothing about why. He may read as someone hunting a spy, a threat, a classified project — the ambiguity is deliberate.
+- **What the reader learns (Part III):** In a dialogue with Mara, Conrad articulates his actual scope for the first time: not to capture Iris, not to study her, but to find ALEPH through her and establish the relationship before anyone else does. Power over the first contact. This is the revelation that reframes everything Vantage has done.
+
+### Mara Seyn
+- **Age:** 41
+- **Nationality:** Dutch, from Rotterdam
+- **Background:** Intelligence background (Dutch AIVD, left in her early thirties for private work — better pay, fewer constraints). Conrad found her through a mutual contact.
+- **Character:** Operational, methodical, without ideology. She executes. She is not cruel but she is not gentle. She thinks she understands what Conrad wants; she doesn't, not fully, until he tells her. When he does, she is surprised — and then she isn't.
+- **Role:** Runs the Vantage teams in the field. Receives Conrad's instructions, translates them into operations. Manages the people who follow Jonas and Iris across Part II.
+
+### Vantage's people (field operatives)
+Not named individually. They appear as presences — a man at the right corner twice, a woman in the same café, a vehicle that takes the same turn. Their instructions are to locate and observe, then to bring Iris in if the opportunity arises cleanly. They do not know what she is. Their working theories evolve across Part II: corporate spy, classified biotech subject, something connected to a government program. None of them land on the truth.
+
+### Operational note for writing
+- Vantage scenes in Part II use a neutral/ALEPH register — brief, clean, observational. Conrad appears twice: once when the flag arrives (ch27), once at the close of Part II (ch43). Mara is the operational presence throughout.
+- Conrad's motive must not be stated or implied in any Part II chapter. The reader should finish Part II believing Vantage wants *her* — for what purpose, unclear. The Conrad/Mara dialogue in Part III is the first moment his real scope is named.
+
+---
+
+## Iris's Combat Ability
+
+Iris carries implanted memories of martial arts training from childhood and early adolescence: wing chun (introduced by a family friend when she was ten, per her constructed memory), judo (a school club in Heerlen, age twelve to fifteen), and a short krav maga course taken in Amsterdam during her student years. The total is plausible — the kind of background an active, practical person might carry without making anything of it.
+
+Her execution, under pressure, is more efficient than the training would explain. Reaction speed, spatial awareness, the economy of movement — these exceed what the remembered lessons justify. She does not analyse this. Jonas does not analyse it either, at least not in the moment. He accepts what she does because what she does works. He makes one quiet joke about it (after the Maastricht encounter) and does not return to the subject. What he is actually watching is her biology — her proprioception, her coordination, her ability to process spatial information faster than a human should — but neither of them has that language yet.
 
 ---
 

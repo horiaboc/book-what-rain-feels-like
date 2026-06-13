@@ -1,9 +1,5 @@
 # Chapter Twenty-One: What You Remember
 
-> *"The places we have known do not belong only to the world of space on which we map them for our own convenience."*
->
-> — Marcel Proust, *In Search of Lost Time*
-
 ---
 
 One week before Amsterdam, I found myself thinking about it more than seemed necessary.
