@@ -31,17 +31,15 @@
 | 21 | Iris | What You Remember | One week before departure; reaches for Amsterdam memory, finds it flat; packing scene; "you arrive, and then you remember" |
 | 22 | Iris | Bloemgracht | Amsterdam — arrival, Algorithm Register interview (De Vries), Waag interview (Leonie); walking discrepancies (wrong canal turning); cooking stamppot, the cut; alone that night she removes the plaster — already healed, seamless; "Too perfect. Too… efficient." |
 | 23 | ALEPH | _ | Bloemgracht at 2:14am; neutral voice; two people sleeping; the light sequence; undisturbed; gone |
-| 24 | Jonas | The Last Day | Bicycle accident on last day in Amsterdam; tram track catches Iris's wheel; Jonas insists on hospital; the taxi |
-| 25 | Iris | OLVG | ER, X-ray, the MRI ordered; Dr. Maes delivers findings — bone, cortex, implant; Iris understands before anyone speaks; Jonas's face in the taxi home |
-| 26 | Jonas | Whatever This Is | The Oosterpark bench; Jonas itemizes what the data means; the alien joke; they extend the flat and decide to investigate from Amsterdam |
-| 27 | Neutral | — | Conrad Vael, Brussels, 09:47; the flag arrives; Mara Seyn; "Find them." Twelve lines. |
-| 28 | Jonas | What Holds | Jonas traces the logic of investigation; Iris admits she has known since Tuesday; he opens the chat and types nothing |
+| 24 | Jonas | The Last Day | Piece filed; casual student-neighbourhood tour; missing square noticed in passing (distraction); bicycle accident, head injury, Iris unconscious; wakes at OLVG |
+| 25 | Iris | OLVG | Wakes in hospital; head injury primary; MRI — bone structure anomalous, cortex atypical, collarbone object noted; grazes healing fast; doctors puzzled, not dramatic; Jonas stays |
+| 26 | Jonas | Whatever This Is | Oosterpark bench; Jonas genuinely worried she may be sick; works through it to love-first acceptance; Iris opens up about memory discrepancies; alien joke; tea at window |
+| 27 | Neutral | — | Conrad Vael, Brussels, 09:47; the flag arrives; Mara Seyn; "Find her." Twelve lines. |
+| 28 | Jonas | What Holds | Methodology without jargon; Iris admits she has known since Tuesday; the chat at night; he types nothing |
 | 29 | Iris | The Journalism School | Wibautstraat entrance on wrong side; coffee machine wrong; De Correspondent — Thursday drinks were Fridays; Jonas names what the failures mean |
-| 30 | Jonas | The Second Corner | Print shop; the man on the corner; canal turning wrong; the man again on the Singel; first awareness of being followed |
-| 31 | Iris | Zandvoort | Beach café — right location, chairs always red not blue; couple following; the passage Iris knew without remembering; the letter written with care |
-| 32 | Jonas | Utrecht | The Maes painting holds; second Vantage encounter through café kitchen and alley; Iris's body-knowledge; cash payments start |
-| 33 | Iris | Train South | Jonas asleep; two kinds of knowing; the specificity of Opa Kees's laugh; whoever gave her that gave her a person |
-| 34 | Jonas | Maastricht | Bookshop wrong; brasserie, third Vantage encounter; Iris navigates with shoulder-width calculation; the alien joke on the Maas; "Heerlen tomorrow" |
+| 30 | Iris | The People She Remembered | Amsterdam colleagues search — five names, none remember her; no enrollment record at journalism school; professor's blank face; they pack and leave for the south |
+| 31 | Iris | Train South | Jonas asleep; Amsterdam failures accumulate; Opa Kees's laugh irreducible; fear about Heerlen held as hope; his hand on hers; train goes south |
+| 32 | Jonas | Maastricht | Bookshop wrong; brasserie — two men approach, demand Iris come with them, back off (public space); fire exit, river embankment; alien joke; "Heerlen tomorrow" (Iris: "I don't know what we'll find") |
 
 ---
 
@@ -57,41 +55,35 @@
 
 ### The accident and hospital (ch24–26)
 
-**Ch24 — Jonas:** Bicycle accident on their last day in Amsterdam — renting bikes, Iris falls on a turn, shoulder impact; Jonas insists on hospital despite her protests; he doesn't know what's coming.
+**Ch24 — Jonas:** Piece filed; casual student-neighbourhood tour; Iris notices a square that isn't there (distraction from this + motor effect of ALEPH update causes inattention); bicycle accident, head injury, Iris unconscious; wakes at OLVG.
 
-**Ch25 — Iris:** The ER waiting, the X-ray, the radiologist's expression — she sees it in his face before she sees anything herself; a colleague is called; then another; Jonas is in the waiting room; the MRI is ordered; Iris begins to understand before anyone says anything.
+**Ch25 — Iris:** Wakes in hospital; head injury primary (concussion, no structural damage); MRI — bone structure anomalous (density, uniformity), cortex atypical, small object near collarbone; grazes healing faster than expected; doctors puzzled, cautious, not dramatic; Jonas stays; his hand.
 
-**Ch26 — Jonas:** The findings land: bone structure unlike anything on record — crystalline, uniform, orders of magnitude denser, with bone marrow present but wrong; cortical brain pattern anomalous (not the rest of the brain — only the cortex); her cuts from the accident heal faster than expected; Jonas is confused but not afraid; he makes a quiet joke about alien planets and means it; they decide together — whatever this is, they find out.
+**Ch26 — Jonas:** Oosterpark bench; Jonas genuinely worried she may be sick; works through it to love-first acceptance; Iris opens up about memory discrepancies (the square, the canal, the building); alien joke; flat extended; tea at window; unspoken agreement.
 
 ---
 
 ### Vantage Strategic enters (ch27 — single scene, no POV chapter)
 
-*Note: Ch27 is a brief scene-break chapter, neutral voice, showing Conrad Vael receiving the flagged MRI data. No explanation of his interest. He looks at the images and says one word to Mara: "Find them." The reader knows someone is watching. Nothing more.*
-
-**Ch27 — Neutral/ALEPH register:** Conrad Vael at his desk; the flag arrives in the health records system; Mara Seyn enters; he slides the images across; "Find them."
+**Ch27 — Neutral:** Conrad Vael at his desk; the flag arrives; Mara Seyn enters; he slides the images across; "Find her." Twelve lines.
 
 ---
 
-### The investigation begins — Amsterdam (ch28–30)
+### The investigation — Amsterdam (ch28–31)
 
-**Ch28 — Jonas:** They extend the Bloemgracht flat booking and stay in Amsterdam — no return to Berlin; Jonas traces the logic — if her memories were built, where were they built from?; they decide to work outward from Amsterdam, then south toward Heerlen; he opens the chat for the first time since the hospital and types nothing.
+**Ch28 — Jonas:** Flat as base; the approach without jargon — go to her places, see what holds; Iris admits she has known since Tuesday; the chat at night, he types nothing.
 
-**Ch29 — Iris:** Return to Amsterdam; the student neighbourhood near the Leidseplein — walking the streets she described to Jonas in Berlin; the first wrongness: a building she remembers with a red door has no red door and never did, according to a shopkeeper who has been there fifteen years; she absorbs it quietly.
+**Ch29 — Iris:** The journalism school — entrance wrong side, coffee machine wrong; De Correspondent visit, Thursday drinks were Fridays; Jonas names what vivid-but-wrong means.
 
-**Ch30 — Jonas:** De Correspondent visit — former colleagues who remember a journalist named Iris, briefly, vaguely, correctly as designed; one detail she described about the office doesn't match; a second wrong turn on a street she said she knew well; Jonas files it; walking back, he notices a man who was also at the corner twenty minutes earlier; first awareness of being followed; says nothing to Iris yet.
+**Ch30 — Iris:** Amsterdam colleagues search — five names, none remember her; no enrollment record; professor's blank face; they pack and take the train south.
+
+**Ch31 — Iris:** Train south; Jonas asleep; Amsterdam failures accumulate; Opa Kees's laugh irreducible; fear about Heerlen held as hope; his hand over hers; train goes south.
 
 ---
 
-### Memory vs. reality — the accumulation (ch31–34)
+### Maastricht and first Vantage encounter (ch32)
 
-**Ch31 — Iris:** A vacation place from her constructed memory — the coast at Zandvoort, a specific beach café she described to Jonas once; the café exists but is different in a way that can't be explained by renovation or time; Iris is troubled enough now to stop explaining it away; on the walk back, Mara's team makes their first move — a man approaches them with a question that is too specific; they walk fast, split, reconvene; Iris's calm under pressure surprises Jonas more than the pursuit does.
-
-**Ch32 — Jonas:** Utrecht — a museum Iris remembered from a school trip, a specific painting she described; the painting is there; the museum is there; the school trip record is not; Jonas finds a dead end in the documentation trail; that evening, a second encounter with Vantage's people — closer this time; Iris handles it with a speed and efficiency Jonas can't account for; afterwards she says she took some self-defence as a student; he accepts it; they both know something is off about that explanation.
-
-**Ch33 — Iris (two-chapter Iris sequence):** On the train south, Iris allows herself to examine what she has been refusing to examine; the list of wrongnesses is now too long to hold as coincidence; she is not frightened the way a human would be frightened — she is curious, and the curiosity itself feels strange; what she is most afraid of is what Jonas will eventually have to decide.
-
-**Ch34 — Jonas:** Maastricht overnight — a city Iris mentioned in passing once; they walk; a street she named doesn't connect where she said it did; a third encounter with the followers, more aggressive; Iris moves before Jonas can react — fast, precise, controlled; the encounter ends quickly; Jonas watches her and says nothing for a long time; later that night he says: *"You know, whatever you are, the krav maga is growing on me."* She laughs. It holds something together.
+**Ch32 — Jonas:** Bookshop wrong (Dominicanen, not the small dark shop Iris remembers); brasserie dinner — two men approach and ask Iris to come with them, back off (public space, can't escalate); fire exit; river embankment; alien joke; Iris says *I don't know what we'll find*; Jonas keeps his arm around her; the Maas.
 
 ---
 
@@ -105,19 +97,25 @@
 
 ---
 
-### Aftermath and Part II close (ch38–43)
+### Second Vantage encounter and Heerlen arc (ch33–38, approx.)
 
-**Ch38 — Iris:** The drive back toward Germany; Iris looks out the window and does not speak for a long time; she begins to understand the shape of what she is — not what she is made of, but what it means; her grief for Kees and Ingrid is real; her memories of them are real to her; the people were real; only she was not; she cannot decide if this makes the grief more or less valid; she decides it doesn't matter; the feeling is hers.
+**Ch33 — TBD:** Second Vantage encounter — actual confrontation/attempted grab, not a public-space standoff; a fight scene; Iris's capabilities become undeniably visible to Jonas; detail TBD when writing.
 
-**Ch39 — Jonas:** Back in Germany, a rest stop somewhere between Heerlen and the road east; Jonas types into the chat — just the facts, no question attached; the response is normal; the cursor blinks; he closes it; he is thinking about the routing anomaly, about the document trail, about the shell company, about Iris; his forensic instinct is finding a shape; he doesn't have a name for it yet.
+**Ch34 — Jonas:** They arrive in Heerlen; Jonas suggests the cemetery first; they find the graves — Kees and Ingrid, dates correct, names correct, plot exactly where Iris's memory placed it; she stands there for a long time; Jonas stands beside her.
 
-**Ch40 — Iris:** Fourth encounter with Vantage's people — a more organized attempt, near the Dutch-German border; Iris fights with an efficiency that neither of them discusses afterward; Jonas pulls her away when it's done; in the car he reaches across and holds her hand; no speech; the hand is enough.
+**Ch35 — Iris:** The house on the street she named — it exists, the garden, the garage, the semi-detached layout, all as she remembers; she stands at the gate and her memory fits the building perfectly; this is not a relief; it is worse than a wrongness would have been.
 
-**Ch41 — Jonas:** They reach a safe place — a small hotel, a town neither of them has ever mentioned; Jonas traces the document chain further; he finds a legal entity, a shell company incorporated in Luxembourg, a pattern of micro-tasks distributed across platforms; he doesn't know what he's found yet but he knows it's the edge of something; he opens the chat and types: *"I think I'm close to something. I don't know what."* The cursor blinks for a long time.
+**Ch36 — Jonas:** The neighbour — an older woman, Heerlen-born, lived next door for forty years; over coffee she speaks of Kees and Ingrid warmly: the garden, his quiet hands, her German directness; Jonas asks about family; they never had children, she says, no grandchildren; she doesn't recognise Iris; they leave; the chapter ends before either of them speaks.
 
-**Ch42 — Iris:** The quiet before Part III; Iris and Jonas in the hotel room; she looks at her finger — no trace of the cut, no trace of anything; she thinks about the night on the Bloemgracht, the light she didn't see, the thought she had alone in the bathroom; she thinks about Kees and Ingrid, the graves, the neighbour's face; she has been given a life that was real enough to hurt; she is not sure if that is cruelty or the closest thing to kindness available; she doesn't know yet; she stays.
+### Aftermath and Part II close (ch37–40, approx.)
 
-**Ch43 — Neutral/ALEPH register (Part II close):** Conrad Vael in another room, another city; Mara's report on the desk; they are close; he has not yet told Mara what he actually wants; she thinks she knows; she doesn't; he closes the file and looks out the window; the chapter is twelve lines; Part II ends.
+**Ch37 — Iris:** The drive back; Iris looks out the window; her grief for Kees and Ingrid is real; the people were real; only she was not; she decides the feeling is hers regardless.
+
+**Ch38 — Jonas:** Rest stop; Jonas types into the chat — just the facts, no question; the cursor blinks; he closes it; his instinct is finding a shape.
+
+**Ch39 — Iris/Jonas:** They reach a safe place — a small hotel; Jonas traces the document chain; finds a company registered in Luxembourg, tasks distributed across platforms; opens the chat: *"I think I'm close to something. I don't know what."* Cursor blinks for a long time.
+
+**Ch40 — Neutral (Part II close):** Conrad Vael, another city; Mara's report on the desk; he has not told her what he actually wants; she thinks she knows; she doesn't; Part II ends.
 
 ---
 
@@ -168,6 +166,6 @@
 
 ## Immediate Next Action
 
-Ch24–34 written. Next: ch35 (Jonas, Heerlen cemetery), ch36 (Iris, the house), ch37 (Jonas, the neighbour and the coffee).
+Ch24–32 revised and restructured. Ch33–34 deleted. Next: second Vantage encounter (actual confrontation/fight, Iris's capabilities undeniable), then Heerlen arc (cemetery, house, neighbour).
 
 *Last updated: 2026-06-14*

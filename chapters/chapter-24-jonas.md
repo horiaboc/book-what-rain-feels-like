@@ -2,110 +2,96 @@
 
 ---
 
-The bicycles were her idea, which is worth saying because everything that followed came from it, and she should get credit for the good part too.
+The piece was filed.
 
-It was our last full day. The piece was done — Leonie's interview had given Iris what she needed and two days earlier she had filed, which she told me by sitting very still at the kitchen table for about thirty seconds and then getting up to make tea with the slightly unfocused air of someone whose brain has just handed over a large shipment and doesn't quite know what to do with the space. I recognized the feeling. I said nothing and let her have it.
+Iris had sent it that morning — the final version, the one she had been shaping since the Leonie interview — and afterward she sat very still at the kitchen table for about thirty seconds and then got up to make tea with the slightly unfocused air of someone whose brain has just handed over something large and doesn't quite know what to do with the space. I recognized the feeling and said nothing and let her have it.
 
-So the last day was ours. No agenda. Amsterdam in late August, the canal light going gold by nine in the morning, the city doing what cities do when you are finally paying proper attention to them.
+By ten o'clock she was back.
 
-"We should rent bikes," she said over breakfast.
+"Show me Amsterdam," I said.
 
-I looked at her. I had not been on a bicycle since Heidelberg. I said this.
+She looked at me over her mug. "What?"
 
-"You rode a bicycle in Heidelberg?"
+"You lived here four years. You've been doing interviews. Show me the city you lived in."
 
-"I was twelve."
+She set down the mug. "You want a tour."
 
-She was already looking up hire locations on her phone.
+"I want the one a resident gives. The version that isn't on any map."
+
+She thought about it for a moment. Then she smiled — the slow one, not the quick social one — and said: "Get your jacket."
 
 ---
 
-The bikes were orange, which felt correct. We picked them up from a shop near the Prinsengracht — a man with an unhurried manner who adjusted Iris's saddle with the focused attention of someone who takes the geometry of things seriously, then handed us a map we didn't need and told us to watch for the trams.
+We took bikes. I've cycled in Berlin since I moved there — the city demands it — and the Amsterdam streets were different in the way of a language you speak well transposed into a different accent. The canal bridges, the tram tracks to avoid, the particular rule-free confidence of Dutch cyclists that you either adopt or get left behind by. I adopted it. More or less.
 
-Iris rode the way she does everything physical: without visible effort, as if the skill had always been there and the bicycle had simply provided an occasion for it. I managed. The city opened up differently on bikes — faster, more intimate, the canals appearing and receding, the bridges lifting the world briefly and setting it back down. We went north first along the Prinsengracht, then west through the Jordaan, Iris navigating from memory or instinct or whatever it was she did when she knew where she was going.
-
-She knew this city. Or she moved through it as if she did, which amounts to the same thing when you're cycling alongside someone in the morning light.
-
-We stopped at the Noordermarkt, locked the bikes, had coffee at a stall that charged too much for it and was worth it anyway. Iris bought a small piece of cheese wrapped in paper because she wanted to and we ate it on a bench beside the canal. A heron stood on the far bank, motionless, with the specific self-possession of a creature that has never questioned whether it belongs somewhere.
+Iris rode ahead and led me through streets she had apparently memorized in a previous life. The Jordaan first, which she knew at the level of individual doorways. Then north to the Noordermarkt, where we locked the bikes and bought cheese from a stall and ate it on a bench beside the canal. A heron stood on the far bank with the specific patience of something that has never questioned whether it belongs somewhere.
 
 "Next time we stay longer," I said.
 
-She looked at me. "Next time."
+"Longer next time," she agreed.
 
-"Is that allowed? You've filed."
+We went further. The Leidseplein and the streets behind it — the neighbourhood where she had lived as a student. She walked me down a street she said she knew well, talking about the building she'd lived in, a winter she'd spent there, a bookshop two streets over that had stayed open late. She was relaxed in the way people are when they're walking ground they know. Or believe they know.
 
-"I've filed," she agreed. She looked out at the canal for a moment. "Yes. Longer next time."
+Then she stopped.
 
----
+"What?" I said.
 
-It happened on the way back.
+She was looking at the end of the street. "This should open onto a square," she said. "There was a square. With a fountain."
 
-We had looped south through streets I didn't know and she was navigating us back toward the Bloemgracht — east, I thought, though I had lost the compass by then — when a tram appeared at an intersection I hadn't seen coming. I braked. Iris, slightly ahead of me and to the left, braked too, and the wheel caught something — a ridge in the stone, a gap at the tram track edge — and the bike went sideways.
+There was no square. The street ended at a wall, a building, an ordinary Amsterdam brick façade with windows.
 
-It was fast and then slow the way these things are. She went down on her left side. The bike clattered. A man on the pavement said something in Dutch.
+She stood there for a moment. Not long — a few seconds. Then she shook her head, almost imperceptibly, and said: "I must be thinking of somewhere else. Come on."
 
-I was off my bike and next to her before I had consciously decided to move.
-
-"Iris."
-
-She was already pushing herself up, which I took as a good sign and then countermanded immediately.
-
-"Don't — wait —"
-
-"I'm fine," she said, which is what she always says.
-
-"Your shoulder."
-
-She had come down on her left shoulder and upper arm. The sleeve of her jacket was torn. There was blood — her forearm, a long graze, and something worse at the shoulder I couldn't fully see. She was sitting up now, her face doing the thing it does when she is holding something private — not wincing exactly, more like measuring.
-
-"Iris. Look at me."
-
-She looked at me. Her eyes were clear. That helped.
-
-"I'm going to need you to not argue with me," I said. "We're going to the hospital."
-
-She started to say something.
-
-"I know," I said. "You're fine. We're still going."
-
-The man from the pavement was beside us now. He had picked up her bicycle. He asked, in careful English, if she needed help. I thanked him and asked which hospital was closest. He told me: the OLVG, on the Oosterpark. He said there was a tram, or we could take a taxi. I said we'd take a taxi. He helped me get Iris upright, which she accepted with the expression of someone not entirely pleased about needing help but choosing to be gracious.
-
-She stood. She was steady, which was a relief.
-
-"The bikes," she said.
-
-"I'll deal with the bikes."
-
-"The deposit—"
-
-"Iris."
-
-She looked at me again. Then she nodded, just once, and said: "All right."
+She moved on and I followed. She didn't mention it again. But I noticed, for the rest of the afternoon, a quality in her that hadn't been there before — not quite distraction, more like the small persistent awareness of something that doesn't add up. A splinter. She was present, she talked, she showed me things. But some part of her had stayed at the end of that street, looking at the wall where a square should have been.
 
 ---
 
-The taxi driver asked no questions, which I was grateful for. Iris sat with her shoulder braced carefully against the seat and looked out the window at the city moving past.
+We were on the way back, cycling east toward the Bloemgracht, when it happened.
 
-"It hurts," she said, at some point. Quietly, not a complaint — just reporting.
+We had crossed through a quieter part of the Jordaan and picked up a main route — broader, trams running, the usual Amsterdam afternoon density of cyclists and pedestrians and delivery vehicles asserting their right of way. Iris was slightly ahead of me and to the left.
 
-"I know."
+I saw her attention go elsewhere for just a moment. Not dramatically — a slight turn of the head, something she'd seen or thought, the splinter returning. Long enough.
 
-"I don't usually—" She stopped.
+The front wheel caught the tram track rail at the wrong angle.
 
-"What?"
+She went down fast. I heard the bike hit the stone before I'd fully registered what was happening. By the time I was off my own bike she was on the ground, not moving.
 
-"Nothing."
+"Iris."
 
-I looked at her. She was still looking out the window.
+Nothing.
 
-"You don't usually what?"
+I crouched beside her. Her eyes were closed. There was blood at her temple from the impact with the road and her breathing was shallow but present.
 
-"Feel things this much," she said. Then, quickly, before I could respond: "I mean pain. I don't usually — it's probably the shock of it."
+"Iris." My hand on her face. Her cheek was warm.
 
-I put my hand over hers on the seat between us. She turned her palm up and held it.
+A man was already beside me — Dutch, fifties, the automatic competence of someone accustomed to taking charge. He said something I didn't fully hear and then, in English: "She hit her head. Don't move her. I'll call."
 
-The OLVG appeared on the right, the taxi pulled in, and we went inside.
+He called. I stayed where I was, one hand on her shoulder, the other keeping her head still, and I did not let myself think about anything except her breathing, which continued, which was the only thing that mattered.
 
-I did not know what we were walking into. Neither did she. I think she knew something, though — sitting in the taxi, the canal light going past the window, the way she said *I don't usually feel things this much* and then stopped herself. I think she was already measuring something she didn't have a name for yet.
+She was still unconscious when the ambulance arrived.
 
-I wasn't measuring anything. I was just glad she was upright and her hand was warm and we were almost at the door.
+---
+
+The OLVG is on the Oosterpark. I rode in the ambulance and sat in a plastic chair outside a curtained bay and waited and eventually a nurse came out and told me she was awake and asking for me, and I went in.
+
+She was lying with a monitor on her finger and a dressing at her temple, and she looked at me when I came through the curtain with the expression of someone who has woken in an unfamiliar place and located, with some relief, a familiar face.
+
+"Hi," she said.
+
+"Hi," I said.
+
+"I fell off a bike."
+
+"You did."
+
+"That's embarrassing."
+
+"It really isn't," I said.
+
+She tried to sit up and thought better of it. I sat in the chair beside the bed and held her hand and the doctor came in shortly after and told us they wanted to keep her for observation, run some imaging, make sure there was nothing to worry about inside her head.
+
+I said of course.
+
+Iris said of course.
+
+And that was how we came to spend our last day in Amsterdam in the OLVG rather than on the canals, which is not the tour she had in mind, but which turned out to be, in its own way, the more significant one.

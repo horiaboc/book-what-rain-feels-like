@@ -26,6 +26,6 @@ He looks at the name on the file. He looks at the images again.
 
 He slides the tablet back to her.
 
-He says: "Find them."
+He says: "Find her."
 
 She takes the tablet and leaves. The door closes. The traffic on the Rue de la Loi continues, unhurried, uninformed, going about its ordinary business.

@@ -1,129 +1,143 @@
-# Chapter Thirty-Two: Utrecht
+# Chapter Thirty-Two: Maastricht
 
 ---
 
-Utrecht is thirty-two minutes from Amsterdam Centraal and has the quality of a city that would be very famous if it were in a different country. The canal system is older than Amsterdam's — the wharves go down to the water, which Amsterdam's don't, and the whole thing has the lived-in warmth of a city that knows what it is and doesn't need to perform.
+Maastricht is the southernmost city in the Netherlands and feels like it — the architecture has a different weight, sandstone where the rest of the country uses brick, the river wide and serious, the streets older. There are Roman ruins under the city center and you can feel their mass through the soles of your shoes, the sense of something very old being held steady by accumulated weight.
 
-Iris had been here for a school trip at fifteen, she said. The Centraal Museum, and specifically a painting she had never forgotten — a Nicolaes Maes, a domestic interior, a woman sewing at a window. She'd described it to me once in detail: the quality of the light, the exact way the woman's hand was positioned, the dog sleeping under her chair. She had been specific about the dog.
+Iris had mentioned Maastricht in passing once, in Berlin — a weekend she had spent here during her student years, walking the city, visiting a bookshop she had liked on the Grote Staat. The kind of place you mention without thinking about it because it is simply part of the geography of your life.
 
-So: the Centraal Museum.
-
-The museum was there. The Nicolaes Maes was there. We stood in front of it for three or four minutes.
-
-"This is it," she said.
-
-"Yes?"
-
-"Yes. The light — exactly. The woman's hand."
-
-"The dog?"
-
-"The dog."
-
-She was looking at it with the expression she gets when something holds. Not triumph — relief was closer to it. A kind of grateful relief.
-
-"Good," I said.
-
-"It's there," she said.
-
-"It is."
-
-We stood there for another minute. I looked at the painting and thought: this one held. Which means the school trip happened, or the school trip memory was based on something accurate. Which doesn't tell us much about the rest, but it wasn't nothing.
+We stopped there before Heerlen. One more place to check. One more piece of the picture.
 
 ---
 
-The documentation was the other thing I had come for.
+The Grote Staat was right. The address she had given it was right. We found the street without difficulty and walked the length of it looking for the bookshop she remembered: small, a bit dark, an owner with a large dog.
 
-While Iris was in the museum gift shop — she'd wanted to see if there was a postcard of the Maes, and there was, and she bought two — I sat in the café and opened my laptop.
+What was there: a clothing shop, and further along, a church converted into the most spectacular bookshop I have ever been inside — enormous, vaulted ceilings, shelves built into the medieval arches, light coming down from windows that were there before anyone now living was born. Iris stood in the entrance and looked at it.
 
-The school trip. If Iris had been here at fifteen on a school trip, there would be a record somewhere: the school, the permission forms, the booking confirmation with the museum. Dutch schools were meticulous about this. Everything was archived.
+"This isn't it," she said.
 
-I knew the school: she had named it when she'd described the trip. A secondary school in Heerlen, where she'd grown up.
+"I can see that."
 
-I found the school's website easily enough. Administrative contact, the right email address. I drafted a message — brief, anodyne, I was trying to verify an old trip record for insurance purposes, could they confirm whether a student named Iris van Dijk had attended a class trip to the Centraal Museum Utrecht in approximately 2020.
+"The one I remember was small."
 
-I stared at the message.
+"This one has been here since the thirteenth century," I said. "It's the only one on the street."
 
-Then I didn't send it. Not yet. I wasn't ready to put something in writing that could be traced back to us — not after the Singel, not after the couple in Zandvoort. Not until I understood better what we were walking toward.
+She stood there for a moment. "Someone looked up bookshops in Maastricht," she said. "Found the famous one. Put me near it without knowing what it actually looked like."
 
-I closed the draft and sat for a moment with the particular feeling of a thread I couldn't follow yet.
+"Yes," I said.
 
-Iris came out of the shop with the postcards.
-
----
-
-We were crossing the Oudegracht on the way back to the station when the man appeared.
-
-He was standing at the bottom of the wharf steps — the wide stone stairs that lead down to the lower canal level, Utrecht's specific architectural feature, where cafés line the water below street height. He was looking up at the street. He saw us and there was a pause — a very brief recalibration, the kind you see when someone has been waiting for something and is deciding whether this is it.
-
-He was not the same man as the Singel. Younger. Dark jacket. He started up the wharf steps toward us.
-
-Iris said, very quietly: "Left."
-
-We went left, onto a narrow street that ran parallel to the canal. Faster. Behind us I heard footsteps on the stone.
-
-I said: "How far behind?"
-
-"Fifteen metres. He's not running."
-
-"Why isn't he running?"
-
-"He has someone ahead."
-
-I processed this and then I saw it: a woman stepping out of a doorway twenty metres in front of us, casual, turning as if to look in a shop window. The move was unhurried and perfectly placed.
-
-Iris's hand found my arm and she turned us right, through an arch into a courtyard — small, cobbled, a bicycle against one wall and a door on the far side. She tried the door. It opened: a café, tables, a waiter looking up from a coffee.
-
-We went through the café like people who had a reason to be there, past the bar, through the kitchen — a cook looked at us without expression, which is a professional skill — and out the back door into a service alley.
-
-The alley ran north. We ran.
+She walked in anyway, because it was extraordinary and she was still herself. We stayed for twenty minutes. She didn't buy anything. I bought one thing I didn't need, because that seemed right.
 
 ---
 
-I want to be honest about what I saw when Iris handled that.
+We had dinner at a brasserie near the Sint Servaasbasiliek — old stone, long wooden tables, the kind of place that has been feeding people for so long that feeding people has become its natural state rather than its purpose.
 
-She was faster than I was — not dramatically, not in a way that looked impossible. But when she'd clocked the woman ahead and then found the courtyard, she had processed both things and produced a solution in about two seconds. And through the café, through the kitchen, she had moved with a quality I can only describe as calibrated: each step the right speed, the right line, nothing wasted. Not panic, not adrenaline. A form of efficiency.
+Iris had the local stew. I had the cheese, which Maastricht is particular about. The wine was good. The evening had the quality that evenings have when the day has moved something forward and you are tired and the thing you are working on is still unsettled but you understand it better than you did.
 
-The cook who didn't react — she had timed her passage through the kitchen to the exact moment his back was turned at the stove. I noticed this because I walked past him half a second later when he'd already turned, and he said something irritable in Dutch, and she'd already passed the threshold.
+I had been thinking about the hospital. About what Maes had said — the bone structure, the cortex, the collarbone. About the genetic variation explanation, which I had been turning over all week like a coin whose two sides I kept losing track of. It was possible. It was also possible it was the explanation you reach for when the real one is something you haven't got a name for yet.
 
-She timed it. Not consciously, I thought. The way she timed things in the kitchen, the way she'd timed the passage in Zandvoort. The body knowing.
+I was sitting with this when the men came in.
 
-We came out onto a larger street and slowed to a walk and caught the first tram we saw heading toward the station.
+---
 
-I said, on the tram: "The café and the alley."
+Two of them. They came through the door with the purposeful calm of people who are not there for dinner. One went to the bar; the other stood near the entrance and looked around the room until he found us.
+
+He crossed to our table. He was in his forties, well-dressed, nothing remarkable about him except the quality of his attention, which was entirely on Iris.
+
+He said, in English: "Ms. van Dijk. We'd like you to come with us."
+
+Iris set down her fork. Her face did nothing visible.
+
+"I'm afraid you have the wrong person," she said.
+
+"We don't," he said. Polite. Certain. "This won't take long."
+
+I said: "Who are you?"
+
+He didn't look at me. "Ms. van Dijk, please."
+
+"She's not going anywhere," I said.
+
+Now he looked at me. The look of someone recalibrating. Then he looked back at Iris, and I saw something in his assessment of the room — the other diners, the waiter, the open sightlines — and I understood before he spoke again.
+
+He couldn't do this here. Whatever he had been sent to do, he could not do it in a full restaurant on a Friday evening in front of fifteen witnesses.
+
+"We'll be in touch," he said.
+
+He went back to the bar. Said something to the other man. They left.
+
+---
+
+We did not finish dinner.
+
+I left money on the table — enough, I hoped — and said to Iris: "The back."
+
+She was already standing.
+
+We walked through the restaurant the way people walk when they have somewhere to go. Past the bar, through a door I had seen the staff use, a corridor with cases of wine stacked along one wall, and at the end of it a fire door that opened onto a service alley.
+
+The alley smelled of kitchen waste and cold stone. We went left.
+
+Iris moved without hesitating — through the alley, around the corner of the basilica, across an open square where tourists with cameras were photographing the church lit up against the evening sky. We went through the tourists and came out onto the river embankment, the Maas ahead of us, wide and dark, France on the far bank.
+
+Nobody behind us.
+
+---
+
+We stood at the railing above the river for a moment.
+
+I was out of breath. Iris was not.
+
+She had her hands on the railing and was looking at the water with the specific stillness she has when she is very calm on the outside and thinking hard on the inside.
+
+"They knew my name," she said.
 
 "Yes."
 
-"You knew the kitchen layout."
+"They found us here. In Maastricht."
 
-"I could see the shape of it through the door," she said. "The equipment positioning. It suggested the back door would be—"
+"They're working from the hospital record, I think. Or the train bookings. Something that puts us in places after we've been in them."
 
-"On the left past the prep counter."
+She nodded. "They want me," she said. Not a question.
 
-"Yes."
+"Yes. They didn't say anything about me."
 
-I thought about this. "Wing chun," I said.
+She looked at me briefly. Then back at the river. "Because I'm the thing they found in the hospital file," she said. "Whatever they think I am."
 
-She looked at me.
+"We don't know what they think you are."
 
-"The self-defence you mentioned. That kind of — reading a space, very fast. Body positioning. Is that—"
+"No." She was quiet for a moment. "But they think something."
 
-"Some of it," she said. She looked out the tram window. "Some of it I don't have a name for."
+The lights on the French bank were coming on in the dusk. The Maas went on doing what rivers do, indifferent and faithful, the same river it had been an hour ago and would be tomorrow.
 
-I nodded.
+I said: "Whatever you are — the part of you that read the room in there and knew before I did that we had to go — that was impressive. I want you to know that."
 
-Neither of us said the obvious thing. We were both by now fairly practiced at not saying the obvious thing until we had more of the shape.
+She looked at me. Something in her expression that I couldn't entirely read — relief and something more private, close to the surface.
 
-On the train back to Amsterdam, the landscape flat and lit and ordinary around us, I thought about what we knew: the past was partially constructed, probably by someone who had done research rather than direct observation — hence the chairs, hence the entrance, hence the canal that wasn't there. The body knowledge was different from the memory knowledge. And someone, not one person but an operation of some kind, was following us across three cities and not quite managing to catch us.
+"Also," I said, "if it turns out you are from somewhere else entirely — some other context that explains all of this — I'm just saying. I'd still be here. We'd figure out the logistics."
 
-The not-quite-catching-us was, I found, interesting. They were always slightly behind. Which meant they had access to information about where we'd been, not where we were going.
+"An alien," she said.
 
-Flagged data. The hospital, maybe. Our train tickets, maybe. But not live tracking.
+"I'm leaving it open."
 
-Not live tracking yet.
+"Jonas."
 
-I opened my phone and booked our next stop that night, cash paid, from a booking platform I didn't usually use.
+"Empirically," I said, "I cannot rule it out."
 
-Zandvoort was paid with my regular card. Utrecht I'd paid with Iris's Dutch card.
+She made the sound — the real one, the one that surprises her when it comes. It went off the stone and the water and the old dark air of the city.
 
-Tomorrow I'd use cash.
+Then she put her forehead against my shoulder, briefly, and I put my arm around her and we stood there above the Maas.
+
+"Heerlen tomorrow," she said, after a moment.
+
+"Heerlen tomorrow," I said.
+
+She straightened. She looked at the river. "I don't know what we'll find," she said.
+
+"No."
+
+"I keep wanting to say I do. I don't."
+
+I kept my arm where it was.
+
+Below us the Maas went on, wide and dark and old, carrying everything south the way rivers do, indifferent and faithful, the same river it had always been.

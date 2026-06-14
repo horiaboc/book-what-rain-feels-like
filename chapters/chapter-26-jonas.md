@@ -4,107 +4,65 @@
 
 We walked back along the Oosterpark because it was there and the evening was still and neither of us wanted to be in a taxi.
 
-Iris walked on my left. Her shoulder was strapped now — not a sling, just support, the attending had been specific about that. She moved carefully, not stiffly. A pigeon got out of her way. Children were still on the climbing frame at the far end of the park, small and loud in the fading light.
+Iris walked on my left, slowly, the concussion requiring that we take things at a pace her head could agree with. A pigeon got out of her way. Children were still on the climbing frame at the far end of the park, small and loud in the fading light.
 
-I was running it.
+I was thinking about the word *genetic*.
 
-I do this with technical problems — let the data sit in the back of the process while something else runs in the foreground. Iris walking beside me was the foreground. The data was: bone density outside all reference ranges. Uniformity inconsistent with biological growth. Something near her collarbone that they could see but couldn't name. Cortical pattern in the brain that didn't exist in their database. And the healing — they'd mentioned it once, a note in the margin almost, that the grazes on her forearm had been closing faster than expected in the hours since the accident. A nurse had noted it. They hadn't known what to do with it so they had written it down.
+Maes had used it as the polite explanation — a variation, something inherited, something that simply hadn't been identified before. I had held onto this in the room as the thing that made the list of findings into a list rather than a verdict. Dense bone, unusual uniformity, something near the collarbone they couldn't name, a brain cortex that was wired differently from anything in their data, healing that moved too fast. Genetic variation, said in a careful doctor's voice, was the sentence that turned those five things into something with a precedent.
 
-I was thinking about this the way I think about anomalies in code. Not emotionally. With interest. The shape was: something real and not yet explainable, and the territory was Iris, who was walking next to me on a path beside a park pond, and who I had known for a year and a half, and who I was not afraid of.
+But it didn't quite hold.
 
-That last part was the thing I kept coming back to, actually. I was not afraid of her.
+I've spent enough time around systems that behave unexpectedly to know the difference between a variation and an anomaly. A variation is within a recognizable range. What Maes had described was outside every range they had. She had said, at one point, that the bone structure had no equivalent in their reference data, and she had said this without drama, which was more unsettling than if she'd said it with some. People are dramatic about things they are prepared to be dramatic about. The things that genuinely have no category tend to come out in a flat voice.
 
----
-
-We sat on a bench at the edge of the pond. The light was going slowly, the way it does in late August in the Netherlands — generous, drawn out. A moorhen was doing its brisk jerky thing across the water.
-
-Iris said: "Say something."
-
-I said: "I'm thinking."
-
-"I know. Say what you're thinking."
-
-I looked at the moorhen. "I'm thinking that this explains a few things."
-
-She was quiet.
-
-"The finger," I said. "The never being cold. The — you fix things faster than people fix things, you've always fixed things faster than people fix things. The sleep."
-
-"Jonas."
-
-"I'm not criticizing," I said. "I'm itemizing. I do that when I'm trying to understand something."
-
-She turned to look at me, and her face had the quality it sometimes has — the one that looks like Iris but also looks like she's watching something from a little further away than usual.
-
-"Are you frightened?" she said.
-
-I considered the question properly, which I think it deserved. I said: "No. Are you?"
-
-A pause. Longer than usual. Then: "I don't think so. I think I'm — I keep wanting to use the word *curious*, and then I feel like I should be more alarmed than that."
-
-"Curious seems right to me."
-
-"It seems insufficient."
-
-"It depends what you're curious about," I said. "If you're curious about what you are, that seems like the correct response to finding out you might be something unusual."
-
-She made a small sound. Not quite a laugh.
-
-"Something unusual," she said.
-
-"I'm workshopping the language."
+I was not going to tell Iris any of this. Not tonight.
 
 ---
 
-We sat for a while. The moorhen disappeared. The light did its slow Amsterdam thing.
+We sat on a bench at the edge of the pond. The light was going slowly, generous and drawn out. A moorhen crossed the water in its brisk, self-certain way.
 
-I said: "The bone structure they described — dense, uniform, porous, with marrow present. You know what that sounds like to me?"
+Iris said: "You're quiet."
+
+"I'm thinking."
+
+"About the hospital."
+
+"Among other things."
+
+She looked at me. There was something in her face that I recognized: the look she gets when she is deciding how much to show. She had done this in the hospital room too, when Maes was talking — her face doing exactly what she needed it to do while something else entirely happened behind it.
+
+"Say what you're thinking," she said.
+
+"I'm thinking," I said carefully, "that I'm worried. That what they described is — not nothing. That the genetic variation explanation is tidy and I don't entirely believe it."
+
+She was quiet for a moment. Then: "Neither do I."
+
+I looked at her.
+
+"I've been finding things," she said. "Before the hospital. Things that don't match." She paused. "The street today — the square that wasn't there. That wasn't the first time. The building near the Leidseplein earlier this week. A canal turning that goes wrong every time I take it. There's a place in my memory where the canal has a wooden bridge and the actual street is a dead end. I've been — I kept explaining them as ordinary forgetting. I don't think they are."
+
+I sat with this. "How many things?"
+
+"Enough," she said. "Enough that it's a pattern rather than a mistake."
+
+The moorhen reached the far bank and disappeared into the reeds. The light on the water shifted.
+
+"Are you frightened?" I said.
+
+She thought about it in the way she always does — actually thinking, not producing the expected answer. "I'm not sure," she said. "I'm something. I'm not sure frightened is the right word for it."
+
+"What would the right word be?"
+
+"Something between curious and — something is wrong." She looked at her hands. "Both at once."
+
+I thought about what I wanted to say. I thought about the fact that there was a version of this conversation where I said something reassuring that wasn't true, and that this was not the kind of thing I could do to her even if it would have helped in the short term.
+
+"I'm worried you might be unwell," I said. "That's what I'm sitting with. That something in you is — different in a way that might mean something's wrong. And I don't know how to sit with that yet."
+
+She nodded.
+
+"And also," I said, "I'm not going anywhere. I want to be clear about that. Whatever this turns out to be — genetic condition, something no one's seen before, or something even stranger than that—" I paused. "You know, if it turned out you were from somewhere else entirely. Some other — I'm just saying, I'd still be here."
 
 She looked at me.
-
-"Like someone solved bone from scratch," I said. "Took the problems — the time it takes to grow, the structural limits of calcium — and designed around them. It sounds engineered. It sounds like something built by someone who understood what bone is supposed to do and then did it better."
-
-Iris said nothing.
-
-"The cortex thing," I said. "The enhanced connectivity pattern. That's — I mean, if you were designing a learning system that needed to integrate with biological neural tissue, and you needed it to feel authentic to the person using it, you'd want the cortex to be more flexible. More capable of holding implanted associations as if they were real experience."
-
-The word *implanted* landed between us.
-
-I hadn't meant it to be cruel. It wasn't cruel, I thought. It was just the word.
-
-Iris said: "You're describing me as though I were a technical problem."
-
-"That's how I understand things first," I said. "I'm sorry. I can stop."
-
-"No." She looked out at the pond. "No, don't stop. It's — it's useful, actually."
-
-I watched her profile. The light on the water moved.
-
-"Someone built you," I said. Carefully. "Someone who knew exactly what they were doing. And they did a very good job."
-
-She turned to look at me. Her face was doing something I couldn't read entirely.
-
-I said: "Iris. Whatever this is. We're not going to not figure it out, and we're not going to figure it out by me being weird about it. So I'm going to be the version of me that finds anomalies interesting rather than the version that doesn't know what to do with them."
-
-She said: "Those are both you."
-
-"They're both me," I agreed. "I'm choosing one."
-
-She looked at me for a long moment.
-
-Then she said: "What if it's very strange? What you find?"
-
-"I already think it's very strange," I said. "Also interesting. Both things are allowed."
-
-A pause. Then: "What if I'm — what if what I am is something that has no name yet?"
-
-I thought about it. I said: "Then we find out, and it has your name, and that's the name for it."
-
-She turned back to the water. She was quiet for a moment and then she made a sound I recognized: the specific quiet laugh she does when something has reached her.
-
-"You know," I said, "if it turns out you're from somewhere else entirely — some other planet, some other — I'm just saying, I'd be open to it. It would be a lot to explain to my parents, but I think they'd come around. My mother would ask practical questions about the biology."
-
-She laughed. Properly, this time. It came out of her like something she'd been holding back.
 
 "An alien," she said.
 
@@ -112,34 +70,22 @@ She laughed. Properly, this time. It came out of her like something she'd been h
 
 "You're leaving it open."
 
-"I find closed systems epistemically unsatisfying."
+"I think closed explanations are premature at this stage."
 
-She was still smiling. The light was almost gone now, the pond going dark, the city settling around us.
+She made the sound — the one that's almost a laugh and then becomes one. It came out of her like something she hadn't expected to feel. When it passed she was looking at the pond and her eyes were bright in the way they get when something has landed.
 
-"We have to figure out what we are," she said. "What I am."
+"We should go back to her places," she said, after a while. Quietly. "My places. The ones I remember. See what holds and what doesn't."
 
-"Yes," I said. "We do."
+"Yes," I said. "I was thinking the same thing."
 
-"How do we start?"
+"We'd need to stay longer."
 
-I had been thinking about this since the hospital room, while Iris listened to Dr. Maes and held something back and I held something back and we both kept the shape of composure. I had been thinking about the forensic logic of it — where you start when you have a mystery of origins. You start with what you have. You check the memory against the record. You find the first point where they diverge.
-
-"Your past," I said. "We go to your past. The places you remember. We look at them."
-
-She was quiet.
-
-"We need to extend the flat," I said. "I'll do it tonight. We're not going home yet."
+"I booked the flat for another week on the way in," I said. "On my phone. In the lift."
 
 She looked at me.
 
-I said: "We'll start in Amsterdam. Your student neighbourhood. De Correspondent. We walk the routes you remember and we see what holds."
+"I was fairly confident we weren't going home yet," I said.
 
-"And if things don't hold?"
+She was quiet for a moment. Then she put her hand over mine on the bench. We sat there as the last of the light went off the pond and the park settled into its evening self, and I thought: love comes before the mystery. That was the order of it. Whatever came after, that was the order.
 
-"Then we have information," I said.
-
-She nodded, just slightly. The same nod she gave me in the taxi, when I said *we're going to the hospital* and she said *all right*. Trust as a short, complete gesture.
-
-"Okay," she said.
-
-We walked back to the Bloemgracht. I booked the flat for another week on my phone in the lift. She made tea. We sat at the window over the canal with the lights of the city going on the water and neither of us said anything more about it that night, which was also a form of agreement.
+We walked back to the Bloemgracht. She made tea. We sat at the window over the canal with the city lights going on the water and neither of us said anything more about it, which was also a form of agreement.
