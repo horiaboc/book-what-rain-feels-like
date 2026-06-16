@@ -34,7 +34,7 @@ The machine made its last sound. The bed slid out.
 
 They kept us waiting for an hour and a half.
 
-Jonas did not fill the time with conversation. He sat in the chair beside the bed and held my hand, which was the right thing to do, and occasionally he said something small — asked if I was warm enough, whether my head was better or worse than before, whether I wanted water. Small questions with small answers. I could feel him not asking the larger question, the one that was sitting between us the whole time, and I was grateful for the restraint of it.
+Jonas did not fill the time with conversation. He sat in the chair beside the bed and held my hand, which was the right thing to do, and occasionally he said something small — asked if I was warm enough, whether my head was better or worse than before, whether I wanted water. Small questions with small answers. I could feel him not asking the larger one, the question that was sitting between us the whole time, and I was grateful for the restraint of it.
 
 At one point he said: "You don't have to talk."
 
@@ -46,41 +46,47 @@ At one point he said: "You don't have to talk."
 
 He looked at me with a particular quality of attention — the kind that is not searching for anything, just present. Then he looked back at the curtain and was quiet, and his hand stayed where it was.
 
+---
+
 The doctor who came in was a woman in her fifties — Dr. Maes, she said, radiology — and she brought the attending with her and sat down, which I noticed.
 
-She said: the head scan was clear. No bleeding, no swelling, no structural injury. I had a concussion and would need to rest and be monitored, but there was nothing immediately dangerous.
+The head scan was clear, she said. No bleeding, no swelling, no structural injury. I had a concussion and would need to rest and be monitored, but there was nothing immediately dangerous.
 
 I said good.
 
 She said: however.
 
-She said the imaging had shown some findings she wanted to discuss. She was careful with her language — not alarming, deliberately not alarming, the register of someone choosing each word as she went.
+The imaging had shown some findings she wanted to discuss. She was careful with her language — not alarming, deliberately not alarming, the register of someone choosing each word as she went.
 
-She said: your bone structure, in the areas we had imaged, was not typical. Your bone density was considerably higher than normal — well outside the range we'd expect — and with an unusual degree of uniformity. Bone is normally irregular, she said, it varies, it has a particular inner structure. Yours didn't show that. Not unhealthy. Simply unlike anything in their reference data.
+Your bone structure is not typical, she said. The density is considerably higher than normal — well outside the range we would expect — and it shows an unusual uniformity. Bone is normally irregular. It varies. It has a particular kind of inner scaffolding. Yours doesn't show that. Not unhealthy. Simply unlike anything in their reference data.
 
-She said: has anyone in your family had unusual bone density? A parent, a grandparent? Any history of bone conditions — brittle bone disease, osteopetrosis, anything like that?
+Has anyone in your family had unusual bone density? A parent, a grandparent? Any history of bone conditions?
 
 I said: not that I know of. My parents died when I was young. My grandparents — I don't know of anything like that.
 
-She nodded, writing. She said: any history of neurological conditions in the family? Seizures, unusual sensory experiences, anything of that kind?
+She nodded, writing. Any history of neurological conditions in the family? Seizures, unusual sensory experiences, anything of that kind?
 
 I said: no.
 
-She said: the brain scan also showed something atypical — only in the cortex, the outer layer, not in the rest of the brain, which was entirely clean. The cortex showed a connectivity pattern outside normal range. Higher than expected. An unusual arrangement. She was not sure how to interpret it. She said: do you ever experience things that feel unusually vivid? Memories that seem too clear, too detailed, too complete?
+The brain scan also showed something atypical, she said — only in the cortex, the outer layer. The rest of the brain was entirely clean. The cortex showed a connectivity pattern outside normal range. Higher than expected. An unusual arrangement. She was not sure how to interpret it.
+
+Do you ever experience things that feel unusually vivid? Memories that seem too clear, too detailed?
 
 I looked at her.
 
 I said: sometimes.
 
-She nodded, and wrote that down too. She said: and the grazes on your arm — the nurse had noted that they seem to be healing quite quickly. More quickly than she'd usually expect at this stage.
+She nodded, as if I had confirmed something she had only been guessing at. She said: the grazes on your arm — the nurse noted that they seem to be healing quite quickly. More quickly than she would usually expect at this stage.
 
-She said this without emphasis, the way you note something you have written down but are not sure what to do with.
+She said this without emphasis, the way you mention something you have written down but are not sure what to do with.
 
 I said: I heal fast. I always have.
 
-She sat back slightly. She said: none of this is alarming. I want to be clear about that. But I also can't give you a category for it, and you deserve to know that. There may be a genetic component we haven't identified — something inherited, something that simply hasn't come up in any population study yet. She said: there was also something visible near your collarbone in the imaging — a small area I couldn't classify. It doesn't appear pathological at all, and I'm not concerned about it; I'm mentioning it for completeness.
+She sat back slightly. None of this is alarming, she said. I want to be clear about that. But I also can't give you a category for it, and you deserve to know that. There may be a genetic component we haven't identified — something inherited, something that simply hasn't come up in any population study yet. There was also something visible near your collarbone in the imaging — a small area I couldn't classify. It doesn't appear pathological at all, and I'm not concerned about it. I'm mentioning it for completeness.
 
-She said: I'm going to put in referrals — orthopedics and neurology both. You'll receive documentation and next steps through the hospital system within a few days. She said: what you should do tonight is stay. We'd like to keep you in for observation — standard with a concussion, and given the other findings I'd feel better having you monitored overnight. You'll be able to leave in the morning.
+She said she was going to put in referrals — orthopaedics and neurology both. I would receive documentation and next steps through the hospital system within a few days.
+
+What I should do tonight, she said, was stay. Standard with a concussion, and given the other findings she would feel better having me monitored overnight. I would be able to leave in the morning.
 
 I said: of course.
 
@@ -114,8 +120,10 @@ After a while he said: "We're going to figure it out."
 
 "I know," I said. And I did.
 
+---
+
 He stayed the night in the chair. I don't think he slept much. When I woke at intervals through the night his eyes were open, and each time they found mine, and each time he said nothing, only looked, and that was enough.
 
-In the morning they cleared me to leave. The city outside the window was doing its ordinary early-morning thing, the canal light pale and particular. Jonas went to find coffee while I dressed, and when he came back with two cups and a slightly apologetic expression about the probable quality I thought: whatever the findings mean, whatever comes next — this is what I am holding onto. This. The coffee and the apologetic look and the hand that stayed.
+In the morning they cleared me to leave. The city outside the window was doing its ordinary early-morning thing, the canal light pale and particular. Jonas went to find coffee while I dressed, and when he came back with two cups and a slightly apologetic expression about the probable quality, I thought: whatever the findings mean, whatever comes next — this is what I am holding onto. This. The coffee and the apologetic look and the hand that stayed.
 
 We walked out into the Amsterdam morning together.
