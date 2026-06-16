@@ -4,9 +4,9 @@
 
 The flat looked different with a second week booked into it.
 
-Not physically — same rooms, same window over the canal, Iris's notebooks still stacked on the kitchen table in the order she had arranged them on day two. But when I confirmed the extension and the receipt came through, something shifted. It stopped being a visit and became a base. The difference matters: a base is somewhere you work from.
+Not physically — same rooms, same window over the canal, Iris's notebooks still stacked on the kitchen table in the order she had arranged them on day two. But with the extension confirmed and the receipt sitting in my phone, something had shifted. It stopped being a visit and became a base. The difference matters: a base is somewhere you work from.
 
-I had been thinking, since the park bench, about how to approach it.
+I had been thinking, since the café that morning, about how to approach it.
 
 The question was: what do you do when you have a person whose past is in question? You go to the past. You go physically — you stand in the places that were supposed to form her, and you see if the places hold the shape she was given. You look for the points where they don't.
 
