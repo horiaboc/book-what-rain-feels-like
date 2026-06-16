@@ -82,7 +82,7 @@ She said this without emphasis, the way you mention something you have written d
 
 I said: I heal fast. I always have.
 
-She sat back slightly. She said: none of this is alarming — I want to be clear about that. But I also can't give you a category for it, and you deserve to know that. There may be a genetic component we haven't identified, something inherited that simply hasn't come up in any population study yet. She said: there was also something visible near your collarbone in the imaging, a small area I couldn't classify. It doesn't appear pathological at all and I'm not concerned about it. I'm mentioning it for completeness.
+She sat back slightly. She said: none of this is alarming — I want to be clear about that. But I also can't give you a category for it, and you deserve to know that. There may be a genetic component we haven't identified, something inherited that simply hasn't come up in any population study yet.
 
 She said she was going to put in referrals — orthopaedics and neurology both. I would receive documentation and next steps through the hospital system within a few days.
 
