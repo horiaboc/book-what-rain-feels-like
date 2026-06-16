@@ -2,67 +2,69 @@
 
 ---
 
-We walked back along the Oosterpark because it was there and the evening was still and neither of us wanted to be in a taxi.
+There was a café on the Czaar Peterstraat that opened early, which was what we needed — somewhere to sit with coffee that wasn't a hospital corridor, somewhere the city could remind us it was still going on. We found it on the way from the OLVG, Iris walking carefully, her head requiring that we take it slowly. She had the particular careful quality of someone navigating a body that has recently demonstrated it can surprise them.
 
-Iris walked on my left, slowly, the concussion requiring that we take things at a pace her head could agree with. A pigeon got out of her way. Children were still on the climbing frame at the far end of the park, small and loud in the fading light.
+We sat at a window table. Outside: a canal, a bridge, the particular low Amsterdam light of a morning in late August. A man on a bicycle passed with a crate of bread strapped behind him. The city, indifferent and faithful, doing what it always did.
 
-I was thinking about the word *genetic*.
-
-Maes had used it as the polite explanation — a variation, something inherited, something that simply hadn't been identified before. I had held onto this in the room as the thing that made the list of findings into a list rather than a verdict. Dense bone, unusual uniformity, something near the collarbone they couldn't name, a brain cortex that was wired differently from anything in their data, healing that moved too fast. Genetic variation, said in a careful doctor's voice, was the sentence that turned those five things into something with a precedent.
-
-But it didn't quite hold.
-
-I've spent enough time around systems that behave unexpectedly to know the difference between a variation and an anomaly. A variation is within a recognizable range. What Maes had described was outside every range they had. She had said, at one point, that the bone structure had no equivalent in their reference data, and she had said this without drama, which was more unsettling than if she'd said it with some. People are dramatic about things they are prepared to be dramatic about. The things that genuinely have no category tend to come out in a flat voice.
-
-I was not going to tell Iris any of this. Not tonight.
+Iris wrapped her hands around her coffee. I wrapped mine around mine. We sat for a while without speaking, which felt right.
 
 ---
 
-We sat on a bench at the edge of the pond. The light was going slowly, generous and drawn out. A moorhen crossed the water in its brisk, self-certain way.
+I had been sitting with it all night.
 
-Iris said: "You're quiet."
+Maes's words had stayed in the order she had given them: the bone density, the uniformity, the cortex connectivity, the grazes closing faster than expected. I had run them over and over the way you run a sentence you don't quite understand, hoping repetition will unlock it. It hadn't. What I had arrived at, by morning, was simpler and harder than any explanation: I did not know what was wrong with Iris, or whether wrong was even the right word for it, and the not-knowing was sitting in me like something I had no good place to put.
 
-"I'm thinking."
+I was worried about her. That was the whole of it. Not curious, not analytical — worried, in the plain specific way of being afraid for someone you love. The findings weren't a puzzle to solve. They were her body, which was the body of the person I had fallen asleep beside for the past year, and something in it was different from what either of us had understood, and I didn't yet know what that meant for her.
 
-"About the hospital."
+"You haven't slept," Iris said.
 
-"Among other things."
+"Not much."
 
-She looked at me. There was something in her face that I recognized: the look she gets when she is deciding how much to show. She had done this in the hospital room too, when Maes was talking — her face doing exactly what she needed it to do while something else entirely happened behind it.
+"You were in that chair all night."
 
-"Say what you're thinking," she said.
+"It was a reasonable chair."
 
-"I'm thinking," I said carefully, "that I'm worried. That what they described is — not nothing. That the genetic variation explanation is tidy and I don't entirely believe it."
+She looked at me. "Jonas."
 
-She was quiet for a moment. Then: "Neither do I."
+"I'm fine," I said. "I wanted to be there."
+
+She was quiet for a moment. Then: "Say what you're thinking."
+
+I looked at the canal. The man with the bread had long gone. A heron was doing its patient thing on the far bank, waiting for something it seemed confident would arrive.
+
+"I'm thinking," I said, "that I'm frightened. That what Maes described is not nothing, and the genetic variation explanation might be true and might not be, and I don't know which, and I don't know what it means for you if it isn't." I paused. "That's what I've been sitting with."
+
+She held that for a moment. Then she said: "There are other things too. Before the hospital."
 
 I looked at her.
 
-"I've been finding things," she said. "Before the hospital. Things that don't match." She paused. "The street today — the square that wasn't there. That wasn't the first time. The building near the Leidseplein earlier this week. A canal turning that goes wrong every time I take it. There's a place in my memory where the canal has a wooden bridge and the actual street is a dead end. I've been — I kept explaining them as ordinary forgetting. I don't think they are."
+"The street yesterday — the square that wasn't there. That wasn't the first time. There have been other things. A building near the Leidseplein. A canal turning that keeps going wrong. A place in my memory where a canal has a wooden bridge and the actual street is a dead end." She looked at her hands. "I've been explaining them away. I don't think they are ordinary forgetting."
 
-I sat with this. "How many things?"
+"How many?"
 
-"Enough," she said. "Enough that it's a pattern rather than a mistake."
+"Enough that it's a pattern."
 
-The moorhen reached the far bank and disappeared into the reeds. The light on the water shifted.
+I sat with this. The café was filling up around us, a quiet weekday morning, people with coffee and laptops and the mild self-sufficiency of Amsterdam. Outside the window, ordinary life, doing what it does.
 
 "Are you frightened?" I said.
 
-She thought about it in the way she always does — actually thinking, not producing the expected answer. "I'm not sure," she said. "I'm something. I'm not sure frightened is the right word for it."
+She thought about it the way she always does — actually thinking, not producing the expected answer. "Something between curious and — something is wrong," she said. "Both at once."
 
-"What would the right word be?"
+---
 
-"Something between curious and — something is wrong." She looked at her hands. "Both at once."
-
-I thought about what I wanted to say. I thought about the fact that there was a version of this conversation where I said something reassuring that wasn't true, and that this was not the kind of thing I could do to her even if it would have helped in the short term.
-
-"I'm worried you might be unwell," I said. "That's what I'm sitting with. That something in you is — different in a way that might mean something's wrong. And I don't know how to sit with that yet."
-
-She nodded.
-
-"And also," I said, "I'm not going anywhere. I want to be clear about that. Whatever this turns out to be — genetic condition, something no one's seen before, or something even stranger than that—" I paused. "You know, if it turned out you were from somewhere else entirely. Some other — I'm just saying, I'd still be here."
+"I'm not going anywhere," I said. "I want to be clear about that."
 
 She looked at me.
+
+"Whatever this turns out to be. Genetic condition, something no one's seen before, something that has no category yet — I'm here. I'm not going to become afraid of you, or confused about what I feel. I know what I feel." I paused. "You matter too much to me. That part is not up for revision."
+
+She was quiet. Her eyes were doing something they do sometimes — not filling exactly, more like becoming very clear, very present, as if she is taking something in and holding it carefully.
+
+"You should know that," I said. "Before anything else. You should just know that."
+
+She nodded. Small, complete.
+
+"Also," I said, "if it does turn out you're from somewhere else entirely — some other context, some other—"
 
 "An alien," she said.
 
@@ -70,22 +72,32 @@ She looked at me.
 
 "You're leaving it open."
 
-"I think closed explanations are premature at this stage."
+"Empirically, I cannot rule it out." I looked at her. "And if that's what it is, I'd be glad to see the planet. I assume the public transport is better organised."
 
-She made the sound — the one that's almost a laugh and then becomes one. It came out of her like something she hadn't expected to feel. When it passed she was looking at the pond and her eyes were bright in the way they get when something has landed.
+She laughed — the real one, the one that surprises her. It came out into the café and went somewhere, and she put her hand over her mouth briefly afterward as if she hadn't expected it, and her eyes were bright.
 
-"We should go back to her places," she said, after a while. Quietly. "My places. The ones I remember. See what holds and what doesn't."
+When it passed, she looked at the window for a moment. Then: "We should go back to my places," she said. "The ones I remember. See what holds and what doesn't."
 
 "Yes," I said. "I was thinking the same thing."
 
 "We'd need to stay longer."
 
-"I booked the flat for another week on the way in," I said. "On my phone. In the lift."
+"I booked the flat for another week this morning," I said. "On my phone. In the hospital lift, while you were being discharged."
 
 She looked at me.
 
-"I was fairly confident we weren't going home yet," I said.
+"I was fairly confident we weren't going home," I said.
 
-She was quiet for a moment. Then she put her hand over mine on the bench. We sat there as the last of the light went off the pond and the park settled into its evening self, and I thought: love comes before the mystery. That was the order of it. Whatever came after, that was the order.
+---
 
-We walked back to the Bloemgracht. She made tea. We sat at the window over the canal with the city lights going on the water and neither of us said anything more about it, which was also a form of agreement.
+We went back to the flat and she slept — properly, the sleep of someone who had spent a night in a hospital bed being monitored at intervals and needed the real thing. I sat at the kitchen table with the canal outside and worked out what we would do. How you approach a past that may not hold: you go to it directly, you stand in the places, you see what the memory says and what the place says and you look at the gap between them.
+
+When she woke in the late afternoon the light was going golden through the window. She came out of the bedroom and found me at the table, and she stood in the doorway for a moment, slightly uncertain the way you are when you wake from deep sleep in an unfamiliar context, and then she looked at me and the uncertainty settled.
+
+"Tea?" I said.
+
+"Please," she said.
+
+She sat at the table while I made it. We sat at the window over the canal — the late light on the water, the city outside going about its business — and I handed her the cup and she held it with both hands and we were quiet in the way of two people who have said what needed to be said and don't need to say it again.
+
+Whatever came next, this was the order of it: her, first. The mystery after.

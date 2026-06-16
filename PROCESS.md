@@ -52,6 +52,14 @@ Each entry: user prompt → conclusion from that session.
 
 ---
 
+**2026-06-16**
+
+*Prompt:* Revise ch25 and ch26. Ch25: remove canal-construction digression, replace with Jonas managing anxiety through small questions and weighted silence; fix all doctor dialogue to second-person ("your bone structure" etc.); scale back collarbone mention to a brief aside; replace business card with referral system; add family history questions (bone + neuro); sharpen Maes's tone to cool professional curiosity; shift Jonas's register to frightened-for-her not analytical; end with overnight observation not evening discharge. Ch26: open morning after in a café (not Oosterpark walk); scale back analytical interiority; expand "I'm not going anywhere" with real weight before the alien joke; extend alien joke with planet/transport gag; fix "her places" → "my places"; resequence to afternoon return + late-afternoon tea; Oosterpark cut, consolidated into café.
+
+*Conclusion:* Both chapters rewritten. Ch25: Jonas holds her hand through the wait, small questions only — the large question held back; Maes uses second-person throughout; family history questions (bone + neuro, Iris can't answer about parents); collarbone noted briefly as aside, non-pathological, for completeness; referral system (hospital will contact); Jonas visibly frightened for her, not analytical; overnight stay confirmed; morning departure. Ch26: opens in a café on Czaar Peterstraat the next morning; Jonas has been sitting with it all night, worry is plain and human; "I'm not going anywhere / you matter too much" expanded before the alien joke; alien joke extended with planet/transport gag; Iris says "my places" correctly; Oosterpark cut; afternoon rest at flat; late-afternoon tea at window closes the chapter.
+
+---
+
 **2026-06-14**
 
 *Prompt:* Substantial revision of ch24–32 and restructure. Ch24: piece filed, casual tour, missing square noticed in passing, distraction causes head-injury accident (not shoulder). Ch25: Iris wakes unconscious, doctors puzzled not dramatic, findings simplified, tone cautious. Ch26: Jonas genuinely worried about illness, no engineering language, love-first acceptance, alien joke, tea at window. Ch27: "Find them" → "Find her". Ch28: language pass, remove jargon. New ch30 inserted (Amsterdam colleagues — five names, none remember Iris, no enrollment record, professor's blank face). Old train chapter (ch33) revised as ch31 — remove two-kinds-of-knowing, remove Vantage awareness, Heerlen as hope/fear not certainty, keep grandparents/ending. Old Maastricht (ch34) revised as ch32 — first real Vantage encounter: men approach in brasserie, demand she come, back off (public space), fire exit, river, alien joke, Iris says "I don't know what we'll find." Ch33 and ch34 (Zandvoort, Utrecht) deleted — no longer fit the revised arc. STATUS, PROCESS updated. Renumbering: old ch29 stays as ch29, new ch30 inserted, old ch33→ch31, old ch34→ch32.
