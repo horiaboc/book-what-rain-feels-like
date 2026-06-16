@@ -50,43 +50,43 @@ He looked at me with a particular quality of attention — the kind that is not 
 
 The doctor who came in was a woman in her fifties — Dr. Maes, she said, radiology — and she brought the attending with her and sat down, which I noticed.
 
-The head scan was clear, she said. No bleeding, no swelling, no structural injury. I had a concussion and would need to rest and be monitored, but there was nothing immediately dangerous.
+She said the head scan was clear. No bleeding, no swelling, no structural injury. I had a concussion and would need to rest and be monitored, but there was nothing immediately dangerous.
 
 I said good.
 
 She said: however.
 
-The imaging had shown some findings she wanted to discuss. She was careful with her language — not alarming, deliberately not alarming, the register of someone choosing each word as she went.
+She said the imaging had shown some findings she wanted to discuss. She was careful with her language — not alarming, deliberately not alarming, the register of someone choosing each word as she went.
 
-Your bone structure is not typical, she said. The density is considerably higher than normal — well outside the range we would expect — and it shows an unusual uniformity. Bone is normally irregular. It varies. It has a particular kind of inner scaffolding. Yours doesn't show that. Not unhealthy. Simply unlike anything in their reference data.
+She said: your bone structure is not typical. The density is considerably higher than normal — well outside the range we would expect — and it shows an unusual uniformity. Bone is normally irregular. It varies. It has a particular kind of inner scaffolding. Yours doesn't show that. Not unhealthy. Simply unlike anything in our reference data.
 
-Has anyone in your family had unusual bone density? A parent, a grandparent? Any history of bone conditions?
+She asked: has anyone in your family had unusual bone density? A parent, a grandparent? Any history of bone conditions?
 
 I said: not that I know of. My parents died when I was young. My grandparents — I don't know of anything like that.
 
-She nodded, writing. Any history of neurological conditions in the family? Seizures, unusual sensory experiences, anything of that kind?
+She nodded, writing. She asked: any history of neurological conditions in the family? Seizures, unusual sensory experiences, anything of that kind?
 
 I said: no.
 
-The brain scan also showed something atypical, she said — only in the cortex, the outer layer. The rest of the brain was entirely clean. The cortex showed a connectivity pattern outside normal range. Higher than expected. An unusual arrangement. She was not sure how to interpret it.
+She said the brain scan had also shown something atypical — only in the cortex, the outer layer. The rest of the brain was entirely clean. The cortex showed a connectivity pattern outside normal range. Higher than expected. An unusual arrangement. She was not sure how to interpret it.
 
-Do you ever experience things that feel unusually vivid? Memories that seem too clear, too detailed?
+She asked: do you ever experience things that feel unusually vivid? Memories that seem too clear, too detailed?
 
 I looked at her.
 
 I said: sometimes.
 
-She nodded, as if I had confirmed something she had only been guessing at. She said: the grazes on your arm — the nurse noted that they seem to be healing quite quickly. More quickly than she would usually expect at this stage.
+She nodded, as if I had confirmed something she had only been guessing at. She said: the grazes on your arm — the nurse had noted that they seem to be healing quite quickly. More quickly than she would usually expect at this stage.
 
 She said this without emphasis, the way you mention something you have written down but are not sure what to do with.
 
 I said: I heal fast. I always have.
 
-She sat back slightly. None of this is alarming, she said. I want to be clear about that. But I also can't give you a category for it, and you deserve to know that. There may be a genetic component we haven't identified — something inherited, something that simply hasn't come up in any population study yet. There was also something visible near your collarbone in the imaging — a small area I couldn't classify. It doesn't appear pathological at all, and I'm not concerned about it. I'm mentioning it for completeness.
+She sat back slightly. She said: none of this is alarming — I want to be clear about that. But I also can't give you a category for it, and you deserve to know that. There may be a genetic component we haven't identified, something inherited that simply hasn't come up in any population study yet. She said: there was also something visible near your collarbone in the imaging, a small area I couldn't classify. It doesn't appear pathological at all and I'm not concerned about it. I'm mentioning it for completeness.
 
 She said she was going to put in referrals — orthopaedics and neurology both. I would receive documentation and next steps through the hospital system within a few days.
 
-What I should do tonight, she said, was stay. Standard with a concussion, and given the other findings she would feel better having me monitored overnight. I would be able to leave in the morning.
+She said: what I should do tonight was stay. Standard with a concussion, and given the other findings she would feel better having me monitored overnight. I would be able to leave in the morning.
 
 I said: of course.
 
