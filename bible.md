@@ -157,11 +157,11 @@ A bicycle accident on the last day of their Amsterdam trip brings Iris to hospit
 
 **MRI findings (realistic extrapolation):**
 - *Skeleton:* The synthetic crystal-lattice/carbon-matrix structure appears on MRI with anomalous signal intensity — on T1 and T2 sequences, the bone reads as too uniform, too dense, with none of the expected trabecular (spongy) variation. There is no fat signal where marrow fat should be, but a bone-marrow analog is present and producing the right diffusion pattern in adjacent tissue. Radiologists have no diagnostic framework for this. It does not read as pathology; it reads as *impossible*.
-- *Brain:* The cortex only — not the rest of the brain — shows anomalous diffusion tensor imaging (DTI) patterns: higher-than-normal fractional anisotropy, atypical microstructural connectivity across cortical columns. The subcortical structures (brainstem, cerebellum, limbic structures responsible for bodily function) are entirely normal. No injury, no concussion, no lesion. The cortical anomaly would suggest enhanced connectivity — consistent with Iris's memory architecture (imprinted via the implant) and her slightly-too-precise recall.
+- *Brain:* The cortex only — not the rest of the brain — shows anomalous diffusion tensor imaging (DTI) patterns: higher-than-normal fractional anisotropy, atypical microstructural connectivity across cortical columns. The subcortical structures (brainstem, cerebellum, limbic structures responsible for bodily function) are entirely normal. No injury, no concussion, no lesion.
 - *Wound healing:* Cuts from the accident close faster than expected over the following hours. At least one doctor notices and notes it.
-- *The implant:* Under higher-resolution imaging ordered to investigate the bone anomaly, a small device near the collarbone becomes visible — biologically encased, not metallic in the standard sense, but distinct enough from surrounding tissue to appear as an anomaly. The radiologist cannot classify it.
+- *The implant:* Not visible in the standard MRI. The implant's existence is known only to ALEPH. It does not appear in the hospital record and is not what triggers Vantage's flag.
 
-No conclusion is reached at the hospital. The findings are documented and flagged. Iris is discharged. The flag is already moving.
+No conclusion is reached at the hospital. The findings are documented and flagged. Iris is discharged. The flag is already moving — bone density and cortex anomaly are sufficient to trigger Vantage's system. The implant remains hidden.
 
 ---
 

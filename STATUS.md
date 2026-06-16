@@ -57,7 +57,7 @@
 
 **Ch24 — Jonas:** Piece filed; casual student-neighbourhood tour; Iris notices a square that isn't there (distraction from this + motor effect of ALEPH update causes inattention); bicycle accident, head injury, Iris unconscious; wakes at OLVG.
 
-**Ch25 — Iris:** Wakes in hospital; head injury primary (concussion, no structural damage); MRI — bone structure anomalous (density, uniformity), cortex atypical, small object near collarbone; grazes healing faster than expected; doctors puzzled, cautious, not dramatic; Jonas stays; his hand.
+**Ch25 — Iris:** Wakes in hospital; head injury primary (concussion, no structural damage); MRI — bone structure anomalous (density, uniformity), cortex atypical; grazes healing faster than expected; doctors puzzled, cautious, not dramatic; collarbone/implant not visible in MRI, not mentioned; Jonas stays; his hand.
 
 **Ch26 — Jonas:** Oosterpark bench; Jonas genuinely worried she may be sick; works through it to love-first acceptance; Iris opens up about memory discrepancies (the square, the canal, the building); alien joke; flat extended; tea at window; unspoken agreement.
 
