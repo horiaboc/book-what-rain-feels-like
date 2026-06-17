@@ -37,9 +37,10 @@
 | 27 | Neutral | — | Conrad Vael, Brussels, 09:47; the flag arrives; Mara Seyn; "Find her." Twelve lines. |
 | 28 | Jonas | What Holds | Methodology without jargon; Iris admits she has known since Tuesday; the chat at night; he types nothing |
 | 29 | Iris | The Journalism School | Wibautstraat entrance on wrong side; coffee machine wrong; De Correspondent — Thursday drinks were Fridays; Jonas names what the failures mean |
-| 30 | Iris | The People She Remembered | Amsterdam colleagues search — five names, none remember her; no enrollment record at journalism school; professor's blank face; they pack and leave for the south |
-| 31 | Iris | Train South | Jonas asleep; Amsterdam failures accumulate; Opa Kees's laugh irreducible; fear about Heerlen held as hope; his hand on hers; train goes south |
-| 32 | Jonas | Maastricht | Bookshop wrong; brasserie — two men approach, demand Iris come with them, back off (public space); fire exit, river embankment; alien joke; "Heerlen tomorrow" (Iris: "I don't know what we'll find") |
+| 30 | Jonas | The Second Corner | Print shop; man on the corner; canal turning wrong; same man again on the Singel; first awareness of being followed |
+| 31 | Iris | The People She Remembered | Amsterdam colleagues search — five names, none remember her; no enrollment record; professor's blank face; they leave for the south |
+| 32 | Iris | Train South | Jonas asleep; Amsterdam failures accumulate; Opa Kees's laugh irreducible; fear about Heerlen held as hope; his hand on hers; train goes south |
+| 33 | Jonas | Maastricht | Bookshop wrong; brasserie — two men approach, demand Iris come, back off (public space); fire exit, river embankment; alien joke; "Heerlen tomorrow" |
 
 ---
 

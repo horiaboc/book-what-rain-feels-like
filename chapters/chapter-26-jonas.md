@@ -14,7 +14,7 @@ I had been sitting with it all night.
 
 Maes's words had stayed in the order she had given them: the bone density, the uniformity, the cortex connectivity, the grazes closing faster than expected. I had run them over and over the way you run a sentence you don't quite understand, hoping repetition will unlock it. It hadn't. What I had arrived at, by morning, was simpler and harder than any explanation: I did not know what was wrong with Iris, or whether wrong was even the right word for it, and the not-knowing was sitting in me like something I had no good place to put.
 
-I was worried about her. That was the whole of it. Not curious, not analytical — worried, in the plain specific way of being afraid for someone you love. The findings weren't a puzzle to solve. They were her body, which was the body of the person I had fallen asleep beside for the past year, and something in it was different from what either of us had understood, and I didn't yet know what that meant for her.
+I was worried about her. That was the whole of it. Not curious, not analytical — worried, in the plain specific way of being afraid for someone you love. The findings weren't a puzzle to solve. They were her body, which was the body of the person I had fallen asleep beside for the past several months, and something in it was different from what either of us had understood, and I didn't yet know what that meant for her.
 
 "You haven't slept," Iris said.
 

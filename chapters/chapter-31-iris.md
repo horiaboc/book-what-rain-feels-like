@@ -1,67 +1,99 @@
-# Chapter Thirty-One: Train South
+# Chapter Thirty-One: The People She Remembered
 
 ---
 
-The train south leaves Amsterdam Centraal at 8:12. Jonas is asleep before we clear the city — the particular quick sleep of someone who has been careful and vigilant for too many days and can finally let it go. His head against the window. The city giving way to the flat Dutch fields.
+The journalism school had given us the building, the wrong entrance, the coffee machine with the wrong buttons. De Correspondent had given us Lena, who remembered me the way you remember someone you worked alongside briefly and liked well enough — accurately, but without depth. Thin. The word Jonas used, on the tram, was thin. The documentation was thin. The memory was thin.
 
-I watch the fields and think.
+What I wanted now was people.
 
-Amsterdam has given us: a journalism school that has no record of me. A professor who looked at my face and found nothing. Colleagues who remember me vaguely — just vaguely enough, as if the memory was made to be that way. A street that ends in a wall where a square should be. A canal turning that goes wrong every time. Buildings in the wrong place, or missing, or differently arranged from how I know them.
+Specific people from the journalism school years, not colleagues at De Correspondent but fellow students — people I had spent four years alongside, who would remember me not as a journalist who passed through but as someone who sat near them, argued in seminars, ate lunch in the courtyard. People whose recollection would have weight.
 
-I have spent the past days treating each of these as an individual question. A discrepancy, a gap, a thing to note and move past. Collectively they are something else. I am not sure yet what to call it.
-
-What I keep coming back to is not the school or the colleagues or the streets. What I keep coming back to is the professor's face when I said my name. The specific quality of his blankness — not the blankness of someone who has forgotten, but the blankness of someone who is genuinely searching and finding nothing.
-
-*I tend to remember faces.*
-
-He did not remember mine.
-
-I am trying to understand what it would mean for someone not to have a memory of me that should exist. I can think of one explanation and I cannot quite look at it directly yet. I turn away from it the way you turn from something bright.
+I had five names.
 
 ---
 
-Jonas stirs, straightens, opens his eyes. He looks out the window at the fields, then at me.
+The first was a woman named Sofie — she had been in my cohort, we had worked together on a project in the second year, I remembered her clearly: dark hair, fast talker, always first to speak in a seminar. I had a contact through the journalism school alumni network, an email address.
 
-"Where are we?"
+She replied the same day: *Hi Iris, lovely to hear from you. I'm actually not in Amsterdam anymore — moved to Rotterdam two years ago. I don't think we ever properly overlapped at the school? Maybe you're thinking of someone else? Let me know if I can help.*
 
-"Past Geldermalsen," I say. "Half an hour."
+I read this twice.
 
-He nods. He rubs his face. He looks at me with the reading look — the one that is not intrusive, just present.
-
-"Were you thinking about Heerlen?" he says.
-
-"Among other things."
-
-He turns to the window. The flat land, the grey sky, the Dutch geometry of fields and canals and the occasional farmhouse set back from the road as if it has decided not to get involved.
+I was not thinking of someone else.
 
 ---
 
-What I want to tell him is this: I am afraid.
+The second name: Maarten, a quiet man from Groningen who had sat beside me in ethics seminars and once lent me a book he never asked back for. I did not have a contact for him but I knew he had worked for a regional paper in the north. I found him online — a byline, a professional page, a contact form.
 
-Not of what we might find in Heerlen in the abstract, not of the investigation or the questions. I am afraid in a specific, located way. The Amsterdam things — the school, the colleagues, the streets — those were wrong in a way that could be explained. Gaps, mistakes, the ordinary drift of memory. But Heerlen is different.
-
-Heerlen is Opa Kees and Oma Ingrid.
-
-I can hear Opa Kees's laugh. It is his, specific and irreducible — a laugh I could not mistake for any other laugh I have ever heard. It has a particular quality, slightly surprised, as if he is always a little delighted that something has managed to be funny. I can hear it now, sitting on this train, as clearly as I can hear the train itself.
-
-I can smell Oma Ingrid's kitchen on a Sunday. The *zuurvlees*, slow on the stove, the smell that was the smell of Sundays, of coming in from the cold. The specific light through the kitchen window in the afternoons. Opa Kees coming in from the garden and washing his hands at the sink in the slow careful way he had, and saying something quiet to her, and her replying without turning from the stove, and him making the sound — the surprised, delighted sound.
-
-These are not thin. They are not the entrance of the journalism school, which turned out to be on the wrong side of the building, or the chairs at a café that turned out to have always been the wrong colour. These memories have weight. They have smell and sound and the specific texture of cold air coming off someone's jacket.
-
-If Heerlen holds, then the Amsterdam failures were something else — ordinary forgetting, some category I haven't found yet, something with a name I don't have.
-
-If Heerlen doesn't hold—
-
-I stop there.
-
-I stop there and look at Jonas against the window and I think: whatever we find. Whatever it turns out to be. He said he wasn't going anywhere, and I believed him, and I believe him now, and if those are the only two things I am certain of on this train going south I will hold onto both of them.
-
-He said: then we find out, and it has your name, and that's the name for it.
+He replied three days later. He did not remember anyone named Iris from his cohort. He was sorry he couldn't help. He wished me well.
 
 ---
 
-He puts his hand over mine on the armrest at some point. I don't know if he is still half-asleep or fully awake. The hand is simply there, warm, certain.
+Jonas went with me to the journalism school on the second day to try the direct approach.
 
-Outside: the Netherlands going south. Fields, water, the pale sky. A country that is mostly what it is, without drama, holding its shape.
+The administrative office had a record of former students. The woman at the desk was helpful and unhurried. She checked the name, checked the cohort years, checked twice.
 
-The train goes on.
+No record of Iris van Dijk enrolled at the journalism school during the period in question.
+
+She double-checked. She apologised. She suggested I might be thinking of the other campus.
+
+We went to the other campus. They had no record either.
+
+---
+
+Jonas and I sat in a café near the Vondelpark after the second campus. He had ordered coffee he wasn't drinking and was looking at the table with the slightly distant expression he gets when he is turning something over.
+
+"Three names," I said. "None of them remember me. And no enrollment record."
+
+"De Correspondent has a record," he said. "Thin, but present. Someone made sure you existed at the publication level."
+
+"But not the school."
+
+"The school would have been harder to construct," he said. "More cross-referencing. More people who would have overlapping memories. Easier to give you the building, the feel of it, the details — and hope no one looked too closely at the names."
+
+I looked out at the park. The afternoon light was doing the thing Dutch afternoon light does, going golden before it should, generous with the hour.
+
+"The fourth name," I said. I had been saving it. A professor — a man named Van den Berg who had taught media law, who I remembered with particular clarity. His way of beginning every lecture with a case study. His handwriting on the whiteboard, very small. The habit he had of removing his glasses to make a point.
+
+I had found his faculty page. He was still there. Still teaching.
+
+Jonas looked at me. "Do you want to go?"
+
+I thought about it. What I wanted was for Van den Berg to answer the door to his office and look at me with recognition. To say: *Iris, of course. How are you getting on?*
+
+"Yes," I said.
+
+We went.
+
+---
+
+His office was on the third floor, the door half-open. He was at his desk. Late sixties, the same slight build I remembered, reading glasses pushed up on his forehead exactly as I remembered them.
+
+I knocked on the open door. He looked up.
+
+"Professor Van den Berg? I'm sorry to interrupt. I was a student of yours — media law, several years ago. Iris van Dijk."
+
+He looked at me with the careful attention of someone who takes the question seriously.
+
+"Van Dijk," he said. He thought about it. "I'm sorry — I don't recall. What years were you here?"
+
+I told him.
+
+He shook his head, slowly, not unkindly. "I don't think I taught a student by that name in those years. I would usually — I tend to remember faces. I'm sorry."
+
+"Of course," I said. "I may be misremembering the name of the course. Thank you for your time."
+
+We left. In the corridor, Jonas walked beside me without speaking.
+
+At the bottom of the stairs he said, quietly: "The fifth name?"
+
+I shook my head.
+
+I had no interest in the fifth name.
+
+---
+
+That evening we packed lightly — one bag each, what we'd need for a few nights. Jonas booked the train south. We didn't discuss it at length: the pattern in Amsterdam had said everything it needed to say, and what came next was Heerlen, and the grandparents, and we both understood that what we found there would be different in kind from a missing enrollment record or a professor who didn't remember a face.
+
+I stood at the window over the Bloemgracht for a moment before we left. The canal caught the evening light the way it always did. It had been a good flat. I was glad we had stayed.
+
+I picked up my bag and we went to catch the train.
