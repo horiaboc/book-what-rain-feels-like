@@ -40,7 +40,7 @@ She nodded. She picked up her coffee. There was something in her face that was p
 
 I said: "Good."
 
-She nodded. She picked up her coffee. She looked out at the canal.
+She nodded again. She looked out at the canal.
 
 "I want to do the journalism school first," she said. "I know the address. I spent four years there."
 
