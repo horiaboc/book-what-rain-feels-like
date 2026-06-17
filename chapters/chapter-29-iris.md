@@ -52,76 +52,66 @@ A student came out of a classroom, looked at me, looked at the machine. "It's be
 
 She went away.
 
-I looked at the machine. The button panel was different from the one in my memory — newer, different arrangement. The machine in my memory was older. Either it had been replaced in the past year, or my memory had a machine that was never here.
+I looked at the machine. The button panel was different from the one in my memory — newer, different arrangement. The machine in my memory was older. Either it had been replaced, or my memory had a machine that was never here.
 
 I didn't know which. I wasn't sure it mattered.
 
 ---
 
-We had arranged to visit De Correspondent in the afternoon — the publication where I had worked briefly before Berlin. Their Amsterdam office is in a converted warehouse space in the east of the city, the kind of editorial setup that is deliberately casual: communal tables, natural light, people with headphones.
+We had arranged to visit De Correspondent in the afternoon.
 
-The editor-in-chief, a man named Bakker whom I had contacted by email, received us in a small meeting room. He was friendly, slightly distracted, as people often are when asked about former colleagues they barely remember.
+I had looked them up before coming — found a name, Bakker, listed as editor-in-chief. I sent a brief email: former staff, passing through Amsterdam, would it be possible to stop by. He replied the same day: of course, come at three.
 
-I asked about the people I had worked with. He named two people I recognized — Lena, who covered housing policy; Thijs, who did longform investigations. Said I was welcome to say hello if they were in.
+Their office is in the east of the city, a converted warehouse, the kind of editorial setup that is deliberately casual: communal tables, natural light, people with headphones. Bakker met us at the door — a man in his fifties, slightly distracted in the way of someone between tasks, who shook my hand and said it was good to meet me.
 
-Lena was in.
+I said: good to see you again.
 
-She was in her mid-thirties, warm, a little tired in the way of journalists who care a lot about their work. She remembered me: yes, Iris, of course, the policy coverage, the city governance stuff. She remembered that I'd come from Amsterdam originally, that I'd gone to Berlin. She asked how Berlin was.
+He looked at me. A small pause — the kind that means something is being searched for and not found. He said: of course, yes — and moved on, talking about the office, offering coffee.
 
-She remembered me the way you remember a pleasant colleague from three years ago — accurately, I thought, but without depth. Without the weight that shared time leaves in real memory.
+I watched him and understood: he did not know my face.
 
-I asked her: the team drinks they used to have on Thursdays, the place on the Czaar Peterstraat. She looked at me blankly.
+There were records. I knew there were records — I had a byline history, a staff email that had existed, an employment file somewhere in the system. The paper trail was real. But the man who had worked in this building during the years I was supposed to have been here was looking at my face the way you look at a face you have genuinely never seen before.
 
-"We did Fridays," she said. "The Café de Doelen, on the Staalstraat. We've always done Fridays."
+He said: I'll see if Lena is in — you mentioned you worked together?
 
-"Of course," I said. "I'm mixing it up."
+I said: don't worry about it, I don't want to interrupt anyone. I was mostly curious to see the space again.
 
-She smiled. We talked for a few more minutes. I thanked Bakker and we left.
+He nodded, relieved, and showed us around for ten minutes with the manner of someone fulfilling a social obligation he didn't quite understand. We thanked him and left.
 
 ---
 
 On the tram back to the Jordaan, Jonas sat beside me and looked out the window. The city went past.
 
-He said, after a while: "The entrance. The machine. The drinks night."
+He said, after a while: "The entrance. The machine. Bakker."
 
 "Yes."
 
-"Three things."
+"Bakker didn't know you."
 
-"Three things," I said.
+"No."
 
-"How precise are your memories usually?"
+"But the record exists."
 
-I thought about how to answer this. "Very," I said. "They don't fade. I've always noticed that about myself — I remember things with a specific quality. Not just impressions. Details. I should be able to tell you what the button on the third-floor machine looked like."
+"The record exists," I said. "The bylines are real. The employment file would be there if someone looked. But the person who was supposed to have sat in that room, worked alongside those people — she left no memory in anyone who was actually present."
 
-"What did it look like?"
+Jonas was quiet for a moment.
 
-"Round," I said. "Silver rim. Slightly worn on the upper left."
+"That's not how forgetting works," he said. Carefully. "Even if you'd barely overlapped, barely spoken — you'd be a face. A name attached to something. People remember faces."
 
-I paused.
+"Yes," I said.
 
-"The new machine has square buttons," I said.
+The tram lurched at a corner. Outside, Amsterdam went about its business.
 
-Jonas was quiet. Then: "The memories feel real."
+He said: "The hospital findings. The bone, the cortex. I keep thinking about what Maes said — that there could be a neurological explanation. Some condition we don't have a name for yet."
 
-"Yes."
+"I've been thinking about that too."
 
-"But they don't match the record in specific ways."
-
-"Yes."
-
-He turned to look at me. "That's actually quite precise information," he said. "If the memories are vivid and detailed and wrong in specific ways — that's not how ordinary forgetting works. Ordinary forgetting fades the details. It doesn't replace them with different details that feel just as solid."
+"But neurological damage does a specific thing," he said. He was looking out the window, not at me — working through it as he spoke. "It fades things. Blurs them. It doesn't — it doesn't give you precise memories of rooms you've never been in. The button sequence on a machine. The entrance of a building, on the wrong side, in full detail." He paused. "What you have isn't faded. It's exact. Just wrong."
 
 I looked at him.
 
-"Someone built the memories the way you'd build a set," he said. "Carefully. Plausibly. But with some small differences from the actual places. Maybe they couldn't be there. Maybe they worked from photographs, or records, or accounts."
+"I'm not saying I know what that means," he said quickly. "I don't. It could still be something medical. Something we haven't encountered before." He turned to look at me. "I just — I wanted to say that out loud. That the two things don't quite fit together."
 
-The tram lurched slightly at a corner.
+"Yes," I said. "I know."
 
-"Someone," I said.
-
-"Yes."
-
-Neither of us said the word that was waiting at the edge of that sentence.
-
-The tram went on. The city outside was ordinary and real, going about its ordinary business, holding its actual shape.
+We rode the rest of the way in silence. The city outside was ordinary and real, going about its ordinary business, holding its actual shape. Whatever I was — sick, or something else — the tram moved through Amsterdam the same way it always had, and Jonas's shoulder was against mine, and that was also real, and I held onto both things at once.

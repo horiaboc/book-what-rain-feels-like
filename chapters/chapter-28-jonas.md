@@ -32,11 +32,11 @@ She put down her phone. She looked at me with an expression I had not seen befor
 
 "Maybe," I said. "Or they'll all be there. We don't know yet."
 
-"I do know," she said. Very quietly.
+She shook her head, just slightly. "I've been finding them already. Since before the hospital." A pause. "I kept telling myself it was nothing. It isn't nothing."
 
-I looked at her.
+I said: "I know."
 
-"I know," she said, "because I've been finding them since Tuesday. Small things. The building with the wrong door. The canal turning that didn't go where I said. The square at the end of the street that isn't there. I've been explaining them away. I'm not going to explain them away anymore."
+She nodded. She picked up her coffee. There was something in her face that was past the point of doubt — not resolved, just settled into the fact of it, the way you settle into something you can no longer pretend isn't there.
 
 I said: "Good."
 
