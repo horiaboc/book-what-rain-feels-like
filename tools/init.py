@@ -1,11 +1,37 @@
 #!/usr/bin/env python3
 """
-One-time setup for What Rain Feels Like on a new machine.
+One-time setup for a Claude Code project on a new machine.
 
-Creates the symlink that lets Claude Code find the project memory files,
-which live in .claude/memory/ inside this repo (tracked by git).
+## Memory architecture
 
-Usage:
+All persistent memory lives inside the repo at .claude/memory/ and is
+tracked by git — making it portable across machines and sessions.
+
+  .claude/memory/
+    MEMORY.md                  — index of all memory files (auto-loaded by Claude)
+    *.md                       — individual memory files (user, feedback, project, reference)
+    logs/
+      YYYY-MM-DD_HHMMSS.md    — one session log per session, timestamped
+
+Claude Code expects memory at:
+  ~/.claude/projects/<encoded-project-path>/memory/
+
+This script creates a symlink from that location to the real directory in
+the repo, so Claude Code finds the files without them leaving the repo.
+
+## Session logs
+
+Claude creates one log file per session in .claude/memory/logs/ at session
+start, named by timestamp (sortable). During the session Claude writes
+relevant decisions, changes, and context to that file. The user can trigger
+a flush by saying "update work" or "save work". Before exiting the user says
+"I'm exiting" (or equivalent) and Claude writes a final summary.
+
+On "resume", Claude reads STATUS.md + memory files + the most recent session
+log to reconstruct context, then creates a new session log.
+
+## Usage
+
   python3 tools/init.py          # safe — reports conflicts without overwriting
   python3 tools/init.py --force  # replaces a wrong symlink automatically
 """
@@ -29,6 +55,11 @@ def main():
         print(f"ERROR: memory directory not found at:\n  {memory_source}")
         print("Make sure you have cloned the full repository.")
         sys.exit(1)
+
+    # Ensure logs/ directory exists inside memory
+    logs_dir = memory_source / "logs"
+    logs_dir.mkdir(exist_ok=True)
+    print(f"Logs directory: {logs_dir} (ok)")
 
     # Claude Code encodes the project path by replacing every / with -
     # e.g. /Users/foo/projects/mybook -> -Users-foo-projects-mybook

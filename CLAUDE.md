@@ -28,7 +28,23 @@ Three voices — consult `bible.md` for full rules:
 
 ## Resuming Work
 
-When the user says **"resume"** (or equivalent), read `STATUS.md` first — it contains the current chapter count, story position, next steps, and active decisions. Then confirm the state to the user before proceeding.
+When the user says **"resume"** (or equivalent):
+
+1. Read `STATUS.md` — chapter count, story position, next steps, active decisions
+2. Read `.claude/memory/logs/` — open the most recent session log to understand what happened last session
+3. Confirm the state to the user before proceeding
+4. Create a new session log file: `.claude/memory/logs/YYYY-MM-DD_HHMMSS.md` (use actual current date/time)
+
+## Session Logs
+
+One log file per session, stored in `.claude/memory/logs/`, named by timestamp (`YYYY-MM-DD_HHMMSS.md`) so they sort chronologically. All logs live inside the repo and are git-tracked.
+
+**What to log:** decisions made, chapters written or revised, structural changes, tooling changes, open questions carried forward. Compress — same instinct as context summarisation. Not every exchange, only what matters across sessions.
+
+**When to write:**
+- On session start: create the file
+- During session: update when something relevant happens, or when the user says **"update work"** or **"save work"**
+- On exit: write a final summary when the user says **"I'm exiting"**, **"save work"**, or equivalent
 
 ## New Machine Setup
 
@@ -38,7 +54,7 @@ Memory files live in `.claude/memory/` inside this repo and are tracked by git. 
 python3 tools/init.py --force
 ```
 
-This creates the symlink that lets Claude Code find the memory files at their expected location. After it completes, confirm success and tell the user they can say "resume" to continue.
+This creates the symlink that lets Claude Code find the memory files at their expected location, and ensures the `logs/` directory exists. After it completes, confirm success and tell the user they can say "resume" to continue.
 
 ## Writing Rules
 

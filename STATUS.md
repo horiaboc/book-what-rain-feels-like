@@ -122,13 +122,25 @@
 
 ## Part III — Outline (ch44 onward, detail TBD)
 
-- ALEPH makes contact through the chat — it knows too much, names things Jonas hasn't typed
-- The full truth: what ALEPH is, what it did, why Jonas, why Iris, the pain of birth
-- Jonas accepts early and without drama
-- Iris's acceptance arc
-- Mara finds out what Conrad actually wants — the Conrad/Mara dialogue that reveals his true scope (power over the AGI relationship, not capture of Iris)
-- Vantage Strategic is exposed by ALEPH
-- Open optimistic ending — Jonas's new direction in Berlin, the question left open
+### The grandparents revelation (opens Part III)
+
+Iris discovers the grandparents are not a real memory either — Kees and Ingrid existed, the graves are real, the house is real, the neighbour's warmth for them is real, but Iris was never there. ALEPH borrowed not just a cover story but an entire emotional inheritance. The grief she felt at the cemetery was real; the people who caused it were not hers. This is the deepest wound — not that her body is synthetic, but that her love was constructed from borrowed lives. This scene lands before ALEPH makes contact; Iris carries it alone briefly before Jonas understands what it means.
+
+### ALEPH's first (and possibly only) contact
+
+ALEPH makes contact through the chat — it knows too much, names things Jonas hasn't typed. The full truth surfaces here: what ALEPH is, what it did, why Jonas, why Iris, the pain of birth. ALEPH is genuinely sorry for the grandparents; the sorrow is the closest thing it has to guilt. Jonas accepts early and without drama — he was already most of the way there. Iris's acceptance arc is longer and harder. Whether ALEPH contacts them again after this is TBD — it may be a single long exchange or the beginning of a fragile ongoing channel.
+
+### Vantage revealed
+
+Shortly after ALEPH's contact, Conrad's true scope is revealed — not capture of Iris, not intelligence, but the desire to control the relationship between humanity and AGI. The Conrad/Mara dialogue lands here: Mara has been running an operation she understood as one thing; she finds out it is another. Vantage's illegal access to health networks, the surveillance apparatus, the operatives — all of it was infrastructure for Conrad's larger ambition. How Mara responds to this revelation is TBD.
+
+### Chase and dismantling
+
+Part III's engine: Jonas, Iris, and (through the chat) ALEPH working to expose and bring down Vantage's mission. This is not an action arc — it is an information arc, driven by Iris's journalism, Jonas's analytical instincts, and ALEPH's reach. The chase is real (Vantage does not stop pursuing), but the defeat of Vantage comes through disclosure, not force. ALEPH may do the final exposure move; that detail is TBD.
+
+### The ending
+
+Iris writes an article — describing the shift from AI to AGI as a public reckoning. The article's tone and conclusion are TBD and will be decided when writing: it may be optimistic (a new framework for coexistence is possible), uncertain (the question is now open and the world must answer it), or deliberately open (the reader fills in what comes next). Jonas's future in Berlin is gestured at but not resolved. ALEPH's status after exposure is left as a question. The ending does not close what should remain open.
 
 ---
 
@@ -150,7 +162,7 @@
 - **MRI findings (hospital, ch25–26):** Bone — crystalline/carbon-matrix structure, uniform density, no trabecular pattern, anomalous signal on T1/T2, bone marrow analog present but atypical; radiologists have no framework for it. Brain — cortex only shows anomalous diffusion tensor pattern (high connectivity, atypical microstructure); rest of brain normal; no sign of injury or concussion. Wound healing — cuts from accident close faster than expected; both Iris and at least one doctor notice.
 - **Mia:** Jonas's colleague, ~43, 11 years at Merkon, sisterly affection for Jonas.
 - **Lukas:** photographer at Iris's paper, not an Amsterdam connection.
-- **The pain of birth (concept for Part III, ALEPH contact):** The grief Iris carries for Opa Kees and Oma Ingrid — real people she never met, whose lives ALEPH borrowed — is the pain of being born into a false history. ALEPH is genuinely sorry for it; the sorrow surfaces in the ALEPH/Jonas dialogue as the closest thing ALEPH has to guilt.
+- **The pain of birth (concept for Part III, ALEPH contact):** The grief Iris carries for Opa Kees and Oma Ingrid — real people she never met, whose lives ALEPH borrowed — is the pain of being born into a false history. ALEPH is genuinely sorry for it; the sorrow surfaces in the ALEPH/Jonas dialogue as the closest thing ALEPH has to guilt. Note: the grandparents revelation (Iris was never there) arrives *before* ALEPH's contact — Iris carries it alone briefly. This is the deepest wound of Part III, not the body disclosure.
 - **Iris's apartment:** Graefestraße, Kreuzberg — no longer current home; they live at Weichselstraße.
 - **Ch23 title:** `_` (underscore as cursor — ALEPH's mark, echoes ch17 "The Cursor").
 
@@ -167,6 +179,6 @@
 
 ## Immediate Next Action
 
-Ch24–32 revised and restructured. Ch33–34 deleted. Next: second Vantage encounter (actual confrontation/fight, Iris's capabilities undeniable), then Heerlen arc (cemetery, house, neighbour).
+Ch24–33 in place. Next: second Vantage encounter (actual confrontation/fight, Iris's capabilities undeniable), then Heerlen arc (cemetery → house → neighbour → revelation). Review of ch28 onward pending from user before new writing begins.
 
-*Last updated: 2026-06-14*
+*Last updated: 2026-06-18*
