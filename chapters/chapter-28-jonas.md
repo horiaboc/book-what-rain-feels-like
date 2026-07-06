@@ -1,59 +1,121 @@
-# Chapter Twenty-Eight: What Holds
+# Chapter Twenty-Eight: The Good Morning
 
 ---
 
-The flat looked different with a second week booked into it.
+We found the place by accident, the way you find things in Amsterdam — by following a canal until it offers you something.
 
-Not physically — same rooms, same window over the canal, Iris's notebooks still stacked on the kitchen table in the order she had arranged them on day two. But with the extension confirmed and the receipt sitting in my phone, something had shifted. It stopped being a visit and became a base. The difference matters: a base is somewhere you work from.
+It was a small café on the Brouwersgracht, the kind with steamed-up windows and mismatched chairs and the smell of proper coffee from a machine that had been doing this since before anyone currently in the room was born. We sat at a corner table. Outside, the canal was silver in the morning light, and two ducks were performing a dispute over territory with the focused energy of individuals who have nothing else scheduled.
 
-I had been thinking, since the café that morning, about how to approach it.
+Iris held her coffee in both hands and looked out the window and looked like herself — which, given the last thirty-six hours, felt like the most important thing.
 
-The question was: what do you do when you have a person whose past is in question? You go to the past. You go physically — you stand in the places that were supposed to form her, and you see if the places hold the shape she was given. You look for the points where they don't.
+"How's the head?" I asked.
 
-The difference between this and anything I had done before was that the territory was Iris, who was sitting across the table from me eating toast and reading something on her phone with the specific focused quiet she has at breakfast. I was not treating her as a problem. She was a person. I was using the approach I had because it was the one I had, and because she had asked me to think alongside her, and because standing still seemed worse than moving.
+"Manageable," she said. "Better than yesterday."
 
----
+"That's the bar we're clearing."
 
-I told her what I thought we should do over the second coffee.
+"It's a reasonable bar."
 
-"We start here," I said. "Amsterdam. Your student years — the neighbourhood near the Leidseplein, the journalism school, De Correspondent. The places you described to me in Berlin before we came."
+She had slept well — properly, in a bed, without a monitor on her finger and a nurse checking in at intervals. I had also slept, eventually, the flat quiet around us and the canal outside doing its patient overnight nothing. I had woken once and lain awake for perhaps an hour, the findings from Maes going round again in that particular way thoughts have at four in the morning. I had reached the same destination I'd reached in the hospital: I didn't understand it. I didn't need to understand it today. What I needed today was breakfast, and then to be useful.
 
-She was listening.
-
-"We walk the routes you remember. We find the things that match, and we find the things that don't. We're not trying to — this isn't an accusation of anything. We're just checking the memory against what's actually there."
-
-"And when they don't match?"
-
-"We note it. We move on. We go further."
-
-She put down her phone. She looked at me with an expression I had not seen before — or rather, I had seen it, but not in this context. It was the look she gets when she is genuinely uncertain and genuinely trusting at the same time. She had it once when she told me about Heerlen, about Opa Kees, about the grief that didn't have anywhere to land anymore because both of them were gone. The same look.
-
-"I'm going to find things," she said. "That aren't there."
-
-"Maybe," I said. "Or they'll all be there. We don't know yet."
-
-She shook her head, just slightly. "I've been finding them already. Since before the hospital." A pause. "I kept telling myself it was nothing. It isn't nothing."
-
-I said: "I know."
-
-She nodded. She picked up her coffee. There was something in her face that was past the point of doubt — not resolved, just settled into the fact of it, the way you settle into something you can no longer pretend isn't there.
-
-I said: "Good."
-
-She nodded again. She looked out at the canal.
-
-"I want to do the journalism school first," she said. "I know the address. I spent four years there."
+We ordered eggs. The bread was good — a dark sourdough that the woman brought with butter in a small ceramic dish, and Iris ate two pieces before the eggs arrived, which was the most reassuring thing I had seen in two days.
 
 ---
 
-That evening I opened the chat for the first time since before the hospital.
+The orthopaedics referral had come through on Iris's phone that morning before we left — an appointment at the Amsterdam UMC, the university hospital, two days from now. The neurology referral was still processing. That gave us the day.
 
-I had no specific question. I sat at the kitchen table with Iris asleep in the other room and the canal going dark outside and I typed: *We're still in Amsterdam. Something happened. I'm not sure what it is yet. I'll tell you when I know more.*
+"We could still go to your places," I said. "If you want. There's no reason not to."
 
-The cursor blinked.
+She looked at me. "You still want to do that."
 
-The response came: *I understand. Take the time you need.*
+"I think it's worth knowing what holds," I said. "And you said you wanted to show me your city."
 
-Normal. Helpful. The right thing to say.
+She considered this. "The head makes me slower."
 
-I stared at the screen for a moment. Then I closed the laptop and went to bed.
+"I wasn't planning to run."
+
+A pause. Then she picked up the last piece of bread. "The journalism school first," she said. "I know the way without thinking. If anything, that's the one I should test."
+
+---
+
+We walked.
+
+The journalism school was on the Wibautstraat — southeast of the centre, a tram ride or a forty-minute walk. We walked, at Iris's pace, which was careful without being slow. She had been here every day for three years. She navigated without hesitation: through the Jordaan, across the Amstel, down into the slightly grittier streets east of the city's polished centre. She talked about the area — a bar she had gone to with classmates, a Vietnamese place that had always had a queue, a corner where there was a bike rack she had used so often she had a preferred spot.
+
+I listened and watched.
+
+At the Frederiksplein we crossed into the traffic of the Utrechtsestraat. I noticed the man there for the first time — or rather, I noticed him the way you notice something without quite catching it, the eye registering a shape without reporting to the brain. He was sitting outside a café, a coffee in front of him, reading something on his phone. Medium height, dark coat, maybe forty-five. Nothing particular.
+
+We kept walking.
+
+---
+
+The journalism school was a square building, glass-fronted on the lower floors, the kind of architectural confidence that says this institution has decided it matters. Iris stopped at the entrance and looked at it.
+
+"Well," she said.
+
+"Is this it?"
+
+"Yes." She looked at it the way someone looks at something they have seen many times and are now seeing again from a small distance. "The entrance used to be on the right side," she said, slowly. "Around the corner. I remember coming in around the corner."
+
+I looked. The main entrance was where it appeared to always have been — directly ahead, central, with the institution's name in metal letters above it.
+
+"Could they have changed it?"
+
+"Maybe," she said. "Or maybe I'm wrong." She took a breath. "I'm probably wrong."
+
+She wasn't distressed by it, not quite. More like the feeling of pressing on a tooth that has been slightly loose and not sure what information you're hoping to get from pressing. She looked for another moment, then nodded to herself and said: "Come on. I'll show you the courtyard."
+
+We went inside. The courtyard was as she described it — a light well in the middle of the building, benches, a couple of large plants surviving the indoors with the resigned determination of plants committed to making the best of things. She walked me through it pointing out things she remembered: where a particular tutor's office had been, where a room she'd spent too much time in was, where they'd held a leaving party for a lecturer she'd been fond of. The memories were vivid and specific and matched the space around her.
+
+The entrance question she did not raise again.
+
+---
+
+Afterward we walked south, past the Amstel. She showed me a street she had liked, a bridge she had used as a shortcut, a bookshop she returned to two or three times a semester. At the bookshop she went in and spent twenty minutes reading the back of things while I stood at a shelf of architecture books I had no intention of buying and did not mind.
+
+When we came out, the man in the dark coat was at the far end of the street.
+
+I noticed him more deliberately this time. He was not doing anything — standing at a corner, apparently looking at his phone. Not looking at us. But we had come from the northeast and taken a route that curved south and west, and the Frederiksplein was two kilometres back. The probability of coincidence was calculable and not high.
+
+I said nothing to Iris.
+
+We walked on. I watched in windows and reflections the way you learn to without looking like you're doing it. At the next corner I looked back on the pretext of checking the street name.
+
+The man had gone.
+
+I filed it — in the drawer that has no label yet, the one for things that may be nothing and may not be — and turned back to Iris, who was describing the Vietnamese restaurant from memory, and the queue, and a night when they had waited forty minutes in the rain and it had entirely been worth it.
+
+"Was it?" I said.
+
+"It was really good pho," she said seriously.
+
+"Forty minutes in the rain is a lot of belief to put in a bowl of soup."
+
+"Some things earn it," she said.
+
+I agreed that some things do.
+
+---
+
+We took the tram back. The afternoon was going golden by the time we reached the Bloemgracht, and Iris's head had announced that it had done enough for the day. We went up to the flat and I made tea and she sat at the table with her hands around the cup while the canal outside did its reliable ongoing thing.
+
+"The entrance," I said, when we had been quiet long enough.
+
+"Might just be wrong," she said.
+
+"Might be," I said.
+
+She looked at the water. "The rest was right," she said. "The courtyard. The offices. The bookshop."
+
+"It was."
+
+"One thing."
+
+"One thing," I said. "We note it. We keep going."
+
+She nodded. She sipped her tea.
+
+Two days until the UMC appointment. Tomorrow, if she felt well enough, she had a city to show me.
+
+Outside, the canal did what canals do.

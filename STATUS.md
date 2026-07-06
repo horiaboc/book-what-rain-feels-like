@@ -34,19 +34,14 @@
 | 24 | Jonas | The Last Day | Piece filed; casual student-neighbourhood tour; missing square noticed in passing (distraction); bicycle accident, head injury, Iris unconscious; wakes at OLVG |
 | 25 | Iris | OLVG | Wakes in hospital; head injury primary; MRI — bone structure anomalous, cortex atypical, collarbone object noted; grazes healing fast; doctors puzzled, not dramatic; Jonas stays |
 | 26 | Jonas | Whatever This Is | Oosterpark bench; Jonas genuinely worried she may be sick; works through it to love-first acceptance; Iris opens up about memory discrepancies; alien joke; tea at window |
-| 27 | Neutral | — | Conrad Vael, Brussels, 09:47; the flag arrives; Mara Seyn; "Find her." Twelve lines. |
-| 28 | Jonas | What Holds | Methodology without jargon; Iris admits she has known since Tuesday; the chat at night; he types nothing |
-| 29 | Iris | The Journalism School | Wibautstraat entrance on wrong side; coffee machine wrong; De Correspondent — Thursday drinks were Fridays; Jonas names what the failures mean |
-| 30 | Jonas | The Second Corner | Print shop; man on the corner; canal turning wrong; same man again on the Singel; first awareness of being followed |
-| 31 | Iris | The People She Remembered | Amsterdam colleagues search — five names, none remember her; no enrollment record; professor's blank face; they leave for the south |
-| 32 | Iris | Train South | Jonas asleep; Amsterdam failures accumulate; Opa Kees's laugh irreducible; fear about Heerlen held as hope; his hand on hers; train goes south |
-| 33 | Jonas | Maastricht | Bookshop wrong; brasserie — two men approach, demand Iris come, back off (public space); fire exit, river embankment; alien joke; "Heerlen tomorrow" |
+| 27 | Neutral | — | Conrad Vael, Brussels, 09:47; the flag arrives; Mara Seyn; "Find her." Twelve lines. | ✓ LOCKED |
+| 28 | Jonas | The Good Morning | Breakfast on Brouwersgracht; UMC orthopaedics appointment in two days; journalism school visit — courtyard holds, entrance side wrong (minor, noted); tail spotted twice (dark coat, male, ~45), disappears; home by evening | DRAFT |
 
 ---
 
 ## Story Position
 
-**End of chapter 23: late August 2032, night two of Amsterdam stay.** The signal has been sent. Iris carries the knowledge of the cut privately. The ordinary-life phase is over. What follows is the unravelling.
+**End of chapter 27.** Conrad Vael has flagged Iris. Mara Seyn has her orders. The hunt begins. Ch28 onward is being reworked: Vantage's pursuit reframed as military/genetic research interest (DNA anomaly angle), with no technology hints until the grandparents arc, where the story begins its shift toward the AI revelation.
 
 **Voice rotation going forward:** Jonas / Iris alternating, with flexibility for one voice to carry two consecutive chapters if the moment requires it. ALEPH's named voice returns well past chapter 40.
 
