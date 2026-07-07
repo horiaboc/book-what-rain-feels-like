@@ -174,6 +174,6 @@ Iris writes an article — describing the shift from AI to AGI as a public recko
 
 ## Immediate Next Action
 
-Ch24–33 in place. Next: second Vantage encounter (actual confrontation/fight, Iris's capabilities undeniable), then Heerlen arc (cemetery → house → neighbour → revelation). Review of ch28 onward pending from user before new writing begins.
+Ch24–34 in place and locked through ch34 ("Maastricht" — second Vantage encounter, confessional scene, train to Heerlen). Next: write ch35 (Iris, Heerlen cemetery arrival — Kees and Ingrid's graves, memory holds, real grief), then continue the Heerlen arc (house → neighbour → revelation).
 
-*Last updated: 2026-06-18*
+*Last updated: 2026-07-07*

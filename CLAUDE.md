@@ -56,6 +56,10 @@ python3 tools/init.py --force
 
 This creates the symlink that lets Claude Code find the memory files at their expected location, and ensures the `logs/` directory exists. After it completes, confirm success and tell the user they can say "resume" to continue.
 
+## Reading Chapters Aloud
+
+When the user says **"print"** a chapter or file, output the full text verbatim directly in the chat response (not just a file/Read tool call). The user often works remotely without direct file access, so the content must actually appear in the conversation.
+
 ## Writing Rules
 
 - Read `bible.md` before writing or continuing any chapter

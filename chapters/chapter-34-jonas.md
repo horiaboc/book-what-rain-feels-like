@@ -50,13 +50,13 @@ Something in her face loosened slightly — a fraction of relief, small and care
 
 We sat for twenty minutes. She had the hot chocolate. I had coffee and something with apple, which I did without comment and which she noticed, and which she did not comment on either, and which was the right call from both of us.
 
-Then: "The square," she said. "I remember it differently. More trees. A fountain on the left side."
+Then: "The square," she said, looking out at it properly now. "I remember it being too big. Wider than a square needs to be — my grandfather said that once, that it was built for crowds that mostly weren't there anymore. The church on that side." She nodded toward it without looking away from the window. "The terraces on this one. I used to count the trees along the edge and lose count and start again, because I was small and it took a long time."
 
-I looked out. The Vrijthof was the Vrijthof — open, wide, the church on one side, the café terraces on the other. No fountain. The trees were where the trees were.
+I looked out. The Vrijthof was exactly that — open, wide, the church on one side, the café terraces on the other, a square with the slightly excessive proportions of a place built for more people than it usually holds.
 
-"One that holds," I said. "One that doesn't."
+"Two that hold," I said.
 
-"Yes." She set down the cup. "We should go."
+"Two that hold," she said. She set down the cup, and something in the set of her shoulders eased a fraction more than it had a minute ago. "We should go."
 
 ---
 
