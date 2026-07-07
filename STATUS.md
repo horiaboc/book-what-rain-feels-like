@@ -174,6 +174,6 @@ Iris writes an article — describing the shift from AI to AGI as a public recko
 
 ## Immediate Next Action
 
-Ch24–34 in place and locked through ch34 ("Maastricht" — second Vantage encounter, confessional scene, train to Heerlen). Next: write ch35 (Iris, Heerlen cemetery arrival — Kees and Ingrid's graves, memory holds, real grief), then continue the Heerlen arc (house → neighbour → revelation).
+Ch24–36 in place and locked. Ch35 "Heerlen" and ch36 "Bocholtz" closed out the Heerlen arc in one continuous sequence (cemetery → grandparents' house → neighbour Bernadette's "they never had children of their own" — the grandparents revelation, landing here instead of at the top of Part III as originally outlined → Arcturus spotted twice → a mysterious ALEPH-connected stranger extracts them → safe house in Bocholtz, near the German border). Envelope from the stranger is still unopened. Next: ch37, opening the envelope (temporary documents for both of them) — user wants to think about direction before writing it.
 
 *Last updated: 2026-07-07*
