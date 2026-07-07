@@ -90,7 +90,7 @@ She looked at me.
 
 ---
 
-We went back to the flat and she slept — properly, the sleep of someone who had spent a night in a hospital bed being monitored at intervals and needed the real thing. I sat at the kitchen table with the canal outside and worked out what we would do. How you approach a past that may not hold: you go to it directly, you stand in the places, you see what the memory says and what the place says and you look at the gap between them.
+We went back to the flat and she slept — properly, the sleep of someone who had spent a night in a hospital bed being monitored at intervals and needed the real thing. I sat at the kitchen table with the canal outside and worked out what we would do. The referrals would come through in a day or two — orthopaedics and neurology both, Maes had said. I looked up the Amsterdam UMC on my phone: a large teaching hospital, the right kind of place for findings that had no ready category. I made a list of what we knew, what the doctors had said, what questions we hadn't thought to ask yet. It was a short list in some ways and a very long one in others.
 
 When she woke in the late afternoon the light was going golden through the window. She came out of the bedroom and found me at the table, and she stood in the doorway for a moment, slightly uncertain the way you are when you wake from deep sleep in an unfamiliar context, and then she looked at me and the uncertainty settled.
 
