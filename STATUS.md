@@ -174,6 +174,8 @@ Iris writes an article — describing the shift from AI to AGI as a public recko
 
 ## Immediate Next Action
 
-Ch24–36 in place and locked. Ch35 "Heerlen" and ch36 "Bocholtz" closed out the Heerlen arc in one continuous sequence (cemetery → grandparents' house → neighbour Bernadette's "they never had children of their own" — the grandparents revelation, landing here instead of at the top of Part III as originally outlined → Arcturus spotted twice → a mysterious ALEPH-connected stranger extracts them → safe house in Bocholtz, near the German border). Envelope from the stranger is still unopened. Next: ch37, opening the envelope (temporary documents for both of them) — user wants to think about direction before writing it.
+Ch24–37 in place and locked. Ch35 "Heerlen" and ch36 "Bocholtz" closed out the Heerlen arc / Part II (cemetery → grandparents' house → neighbour Bernadette's "they never had children of their own" — the grandparents revelation → Arcturus spotted twice → mysterious ALEPH-connected stranger extracts them → safe house in Bocholtz). Envelope from the stranger still unopened. Ch37 (neutral, Vantage/Brussels) mirrors ch27: Mara reports losing them; Conrad reframes the failure as confirmation of what stands behind Iris — his knowledge of what she is confirmed, his motive still sealed for the Part III dialogue.
 
-*Last updated: 2026-07-07*
+We now enter ALEPH territory (Part III). Next: ch38, the ALEPH letter / first extended contact — **user is drafting this one themselves first**, then handing to me to refine. Do not pre-empt.
+
+*Last updated: 2026-07-10*
