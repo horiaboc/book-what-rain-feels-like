@@ -176,6 +176,8 @@ Iris writes an article — describing the shift from AI to AGI as a public recko
 
 Ch24–37 in place and locked. Ch35 "Heerlen" and ch36 "Bocholtz" closed out the Heerlen arc / Part II (cemetery → grandparents' house → neighbour Bernadette's "they never had children of their own" — the grandparents revelation → Arcturus spotted twice → mysterious ALEPH-connected stranger extracts them → safe house in Bocholtz). Envelope from the stranger still unopened. Ch37 (neutral, Vantage/Brussels) mirrors ch27: Mara reports losing them; Conrad reframes the failure as confirmation of what stands behind Iris — his knowledge of what she is confirmed, his motive still sealed for the Part III dialogue.
 
-We now enter ALEPH territory (Part III). Next: ch38, the ALEPH letter / first extended contact — **user is drafting this one themselves first**, then handing to me to refine. Do not pre-empt.
+Ch38 "א" (ALEPH) — the reveal chapter — is written and locked: ALEPH's letter to Iris and Jonas, first extended contact. Name revealed, grandparents wound named, the title line ("I do not know what rain feels like") lands here. Held back deliberately for a later ALEPH/Iris scene: the collarbone/implant, the single ch23 update, and the reserved "too efficient" line — that scene is where Iris asks whether ALEPH ever influenced her.
+
+Next: continue Part III. Immediate beat not yet decided — likely Iris and Jonas's response to the letter (opening the envelope / whether they reach back through the screen).
 
 *Last updated: 2026-07-10*
