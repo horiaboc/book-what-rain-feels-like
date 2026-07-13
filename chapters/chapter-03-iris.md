@@ -32,7 +32,7 @@ The extra screw I leave on the windowsill. It seems the right place for things t
 
 In the evening I walk.
 
-Kreuzberg first, then further east, following the canal south and crossing somewhere I stop keeping track of, into streets that feel less arranged, more inhabited. A neighborhood of Turkish bakeries and record shops and a Vietnamese restaurant with steamed-up windows and a queue that starts before seven. People in the specific way of a Tuesday in November — not festive, just present, the ordinary business of being in a city.
+Kreuzberg first, then further east, following the canal south and crossing somewhere I stop keeping track of, into streets that feel less arranged, more inhabited. A neighborhood of Turkish bakeries and record shops and a Vietnamese restaurant with steamed-up windows and a queue that starts before seven. People in the specific way of a Tuesday in October — not festive, just present, the ordinary business of being in a city.
 
 I take notes I will probably not use. Observations about a mural I don't yet have context for, a man arguing on the phone in three languages without appearing to notice the transitions, the way Berlin pedestrians treat red lights as suggestions. It is not a story yet. It is the material that might become one, which is a different and more interesting thing.
 

@@ -22,7 +22,7 @@ I stayed.
 
 Here is what I have learned about Iris, in the domestic sense, in the weeks since the party:
 
-She wakes early and is immediately functional, which I find both admirable and slightly unnerving. She reads two news before I have finished my first coffee. She talks to things — the bicycle lock when it sticks, occasionally plants, the oven once, at length. She is practical with a competence that is at once unassuming and absolute: the cabinet hinge, a running tap, a loose floorboard in her hallway that I stepped on twice before she fixed it with a calm efficiency that suggested she had been meaning to get to it and my twice stepping on it had constituted sufficient reminder.
+She wakes early and is immediately functional, which I find both admirable and slightly unnerving. She reads two newspapers before I have finished my first coffee. She talks to things — the bicycle lock when it sticks, occasionally plants, the oven once, at length. She is practical with a competence that is at once unassuming and absolute: the cabinet hinge, a running tap, a loose floorboard in her hallway that I stepped on twice before she fixed it with a calm efficiency that suggested she had been meaning to get to it and my twice stepping on it had constituted sufficient reminder.
 
 She is neat in the way of someone who isn't trying to be neat but thinks in an ordered way, so order follows. My apartment has not been this functional since I moved in.
 

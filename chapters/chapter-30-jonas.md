@@ -1,4 +1,4 @@
-# Chapter Thirty: Vondelpark
+# Chapter Thirty: Wertheimpark
 
 ---
 
@@ -6,7 +6,7 @@ She suggested a walk.
 
 It was a reasonable suggestion — open, public, the kind of conversation that sits better without walls around it. I recognised the logic and said nothing about recognising it. Iris took the card and handed it to me. We walked.
 
-The Wertheimpark is five minutes from the Scheepvaartmuseum along the Amstel — small, tree-lined, the kind of park that exists for the neighbourhood rather than for visitors. Mara knew the way without consulting her phone.
+The Wertheimpark is a short walk from the Scheepvaartmuseum — small, tree-lined, the kind of park that exists for the neighbourhood rather than for visitors. Mara knew the way without consulting her phone.
 
 I looked at the card as we walked. Mara Seyn. A title: Director of Research Operations. A company name: Arcturus Biomedical Research. A Brussels address. A phone number and nothing else — no website, no email. The card was heavy stock, cream-coloured, the kind that costs money to produce without drawing attention to having cost money.
 

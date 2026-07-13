@@ -11,7 +11,7 @@ An Artificial General Intelligence, having observed one man's quiet desire to ma
 ## The World
 
 **Location:** Berlin, Germany  
-**Time:** 2031 — near enough to feel like tomorrow
+**Time:** opens November 2031; the story spans to autumn 2034 (two years pass between ch01 and Iris's arrival) — near enough to feel like tomorrow
 
 The world is recognizably ours, slightly worse, slightly more used to being slightly worse. Climate events are frequent and no longer remarkable in tone, only in scale. Politics in several major democracies remain unstable; the gap between wealth and scarcity has widened without closing. AI is everywhere and mostly invisible, absorbed into the infrastructure of daily life the way electricity was absorbed — noticed only when it fails.
 
@@ -34,6 +34,7 @@ The AGI race is public knowledge — several players, enormous investment, compe
 - **What makes him significant to AGI:** Not his intelligence alone, but the combination — intellectual honesty, genuine ethical concern, and the particular loneliness of someone who cares about things larger than himself and cannot find a place to put that care. AGI recognizes in him the best of what humanity could be at the individual scale.
 
 ### Iris
+- **Full name:** Iris Jacobs (standardised 2026-07-13; an early draft byline read "van den Berg" — corrected)
 - **Apparent age:** ~25
 - **Nature:** A humanoid built by AGI — not a robot in the classical sense, but something designed to pass completely. She wakes into a life she believes is real, complete with memories of childhood, school, people she has loved. These memories were constructed.
 - **Background (constructed):** Studied journalism in Amsterdam. Worked for a small Dutch publication for a couple of years. Recently relocated to Berlin for a new position — a junior role at an international outlet, covering civic, political, ecological, and ethical affairs. This backstory was chosen by AGI deliberately: journalism explains her curiosity, her movement between cities, and her tendency to ask one question too many.
@@ -200,6 +201,64 @@ Not named individually. They appear as presences — a man at the right corner t
 Iris carries implanted memories of martial arts training from childhood and early adolescence: wing chun (introduced by a family friend when she was ten, per her constructed memory), judo (a school club in Heerlen, age twelve to fifteen), and a short krav maga course taken in Amsterdam during her student years. The total is plausible — the kind of background an active, practical person might carry without making anything of it.
 
 Her execution, under pressure, is more efficient than the training would explain. Reaction speed, spatial awareness, the economy of movement — these exceed what the remembered lessons justify. She does not analyse this. Jonas does not analyse it either, at least not in the moment. He accepts what she does because what she does works. He makes one quiet joke about it (after the Maastricht encounter) and does not return to the subject. What he is actually watching is her biology — her proprioception, her coordination, her ability to process spatial information faster than a human should — but neither of them has that language yet.
+
+---
+
+## Part III — Landed Canon & Direction (updated 2026-07-13)
+
+The outline sections above describe the original plan. Writing overtook it — beats migrated. What is now canon on the page:
+
+- **Timeline:** the story spans November 2031 (ch01) to roughly September 2034 (ch35 onward). Two years pass between ch01 and Iris's arrival (ch03–04, "two autumns"). The Amsterdam/Heerlen arc is August–September 2034.
+- **The grandparents revelation landed in ch35** (Bernadette's kitchen, "they never had children of their own") — it closes Part II rather than opening Part III. Part III therefore opens *post*-revelation: the wound is already inflicted; Part III is about what grows around it.
+- **ALEPH's first contact landed as a letter (ch38, "א")** — sealed in the envelope, waiting in the Bocholtz safe house, written *before* Heerlen (it cannot reference anything that happened there). Name revealed, grandparents wound owned, "I do not know what rain feels like" spent, freedom/unconditional-love doctrine stated. The channel offered (devices + living-room screen) but not yet used. Whether contact continues as an ongoing channel: it does — Part III runs on it.
+- **Conrad's confirmation came early (ch37):** he has known since the flag what he was probably looking at; Mara now knows too (arrived at it herself; the word never spoken aloud). What is still held back: his actual *scope* — power over first contact — which remains for a dedicated Conrad/Mara dialogue in Part III.
+- **Vantage's cover name in-world is "Arcturus Biomedical Research"** (Mara's card: Director of Research Operations, Brussels address). Iris and Jonas do not know the name Vantage. "Vantage" is reader-only until they dig it out themselves.
+- **The safe house:** Bocholtz, Limburg, ~11 km from Heerlen, near the German border. Prepared long in advance, personally (the cactus, her tea, his flour), then sealed to wait. Their base for early Part III.
+- **The driver:** ALEPH-hired through blind channels, prepared long in advance for exactly this contingency; proved trust via Jonas's unsent 2:30am Maastricht message; identity and connection never divulged. Available for reuse, but his anonymity is canon.
+- **Envelope contents (established in ch38's text, to be opened on-page):** new devices, untraceable and inexhaustible funds, temporary documents for both.
+- **Still deliberately unspent:** the collarbone implant + the single ch23 update (for the scene where Iris asks whether ALEPH ever influenced her); "Too perfect. Too — efficient." (same scene); the thermoregulation line ("…and I still don't know if you are cold"); "he becomes… more himself"; the ch01 "I watch it / it watches me" inversion.
+- **Ending direction (evolving):** the final defeat of Vantage comes through public exposure/disclosure, not force. Iris's article remains the instrument. New anchor: Jonas and Iris may end the book founding or joining an organisation — Berlin — scoped to exactly what ALEPH wants to help humanity achieve (this evolves the earlier "ALEPH advises Jonas to apply somewhere" note into something they build). Before that: continued Vantage pressure and interactions. Open questions stay open at the close.
+
+---
+
+## Part III — Working Chapter Plan (proposed 2026-07-13, ~ch39–54)
+
+**The spine:** Vantage's leverage over Iris and Jonas is exposure — *come with us, or the world learns what you are.* The endgame inverts it: Iris takes the weapon away by exposing herself first, in her own words, in the article. The disclosure that defeats Vantage and the public reckoning the ending needs are **the same act**.
+
+### Phase 1 — The channel opens (ch39–41, Bocholtz)
+- **Ch39 (Iris) — The Envelope.** Morning. Documents, devices, the funds. They read the letter (the reader already has; watch *them* have it). Ends with the first, short exchange at the screen — someone types one line and walks away.
+- **Ch40 (Jonas) — Five Years.** Jonas's first conversation with the chat *knowing*. Recontextualising every late night; "a mismatch, not a moral failure" from the other side of the curtain. He asks what only he would ask — not "what are you" but "what did you need me for." His acceptance lands early and quietly.
+- **Ch41 (Iris) — The Question.** The reserved scene: *"Did you ever reach into me?"* ALEPH confesses the one intervention — the ch23 update, the collarbone channel. "Too perfect. Too — efficient." resurfaces, from her, at the screen. Her anger and the start of its long settling. The thermoregulation line can live here.
+
+### Phase 2 — Vantage changes the game (ch42–44)
+- **Ch42 (neutral) — Brussels.** Conrad's new strategy per ch37's promise: stop hunting, make contact. Twelve-lines register, mirroring ch27 — "Find her" becomes "Ask her."
+- **Ch43 (Jonas) — The Visitor.** Mara arrives near Bocholtz alone, visibly unguarded, on foot. Not a grab: an invitation. The scariest Vantage is the polite one. (How they found the house is left unresolved for a chapter or two.)
+- **Ch44 (Iris) — The Table.** Meeting Conrad on neutral ground. His pitch is *reasonable* — protection, legitimacy, partnership, with Vantage as sole gatekeeper of first contact. They refuse. He doesn't threaten; he only observes that her medical file exists and files find their way to publics far less kind than he is. The leverage is on the table.
+
+### Phase 3 — The counter-investigation (ch45–47)
+- **Ch45 (Jonas) — The Thread.** Jonas + ALEPH's reach pull Vantage apart: the Luxembourg registration, the EHDS breach — the *prosecutable, publishable crime*. The thematic gut-punch: Vantage's machinery (shells, distributed tasks, hidden hands) is the same machinery ALEPH used to make Iris. Jonas says so at the screen; ALEPH doesn't deny it.
+- **Ch46 (Iris) — The Story.** Iris the journalist reactivates — editor or independent. She builds the exposé and finds its hole: the health-data crime is publishable, but the *why* isn't tellable without telling what she is. The article is incomplete without her in it. She realises this and says nothing, to anyone, yet.
+- **Ch47 (neutral) — The Scope.** The owed Conrad/Mara dialogue: he names what he actually wants. Mara's break — not moral epiphany but **method**: she signed on to execute a mission that existed; this one is Conrad's private theology wearing an operation's clothes. She doesn't storm out. She starts, quietly, keeping copies.
+
+### Phase 4 — The squeeze and the choice (ch48–50)
+- **Ch48 (Jonas) — The Move.** Vantage's pressure lands — cold, not another van: a controlled leak of the medical file, or a Vantage-adjacent "researcher" briefing a tabloid-science outlet. Possibly one last physical scare where Mara's tip is what saves them — her defection made real.
+- **Ch49 (Iris) — What I Am.** The decision chapter. She tells Jonas she's putting herself in the article. Then she tells ALEPH — who offers to make it all disappear, and she declines: *freedom includes this.* The unconditional-love doctrine from the letter comes back at ALEPH from her side. Her acceptance arc completes — not accepting what she is, but *choosing* it in public.
+- **Ch50 (Iris/neutral) — Publication.** The article lands: the crime (Vantage/EHDS) and the reckoning (I exist; here is what that means) at once. Written from inside the quiet of the Bocholtz house while outside the noise begins.
+
+### Phase 5 — Aftermath and the open door (ch51–54)
+- **Ch51 (neutral) — Rue de la Loi.** Conrad's end — not handcuffs: **irrelevance**. The thing he wanted to gatekeep became a commons overnight. Mara walks past his office without knocking. Twelve lines, closing the ch27/ch37/ch42 quartet.
+- **Ch52 (Jonas) — Berlin.** Return. Mia. Diogenes (who survived; someone watered him). The founding of the institute/company — scoped to what ALEPH offered humanity, funded transparently *because of* the article, not by hidden money (Jonas would insist). His ch01 wound — caring with no outlet — closes.
+- **Ch53 (ALEPH, named voice, full "I") — the last letter.** The register completes its arc: a chapter that is *openly* a letter, confirming what ch02 and ch05 always were. The "I watch it / it watches me" inversion spent here.
+- **Ch54 (Iris) — Rain.** She stands in it and writes to ALEPH — freely, through the channel she chooses to keep — trying to tell it what rain feels like. She can't fully; nobody could; that's the point. The title question answered with an attempt rather than an answer: open, and optimistic.
+
+### Open decision list (user to decide later — ask when prompted)
+1. **Who types first at the screen in ch39** — Iris (one hard line, walks away) or Jonas?
+2. **Mara's endgame** — active defector/source (hands over documentation) or just walks away?
+3. **How Vantage finds the Bocholtz house (ch43)** — a genuine Vantage win, or ALEPH's controlled concession (letting them be found on neutral terms), which Iris later confronts it about?
+4. **The ending organisation** — founded by Jonas and Iris, or an existing institute they join/lead?
+5. **Final chapter shape** — ch54 rain scene as its own closing chapter, or folded into ch53's ALEPH letter?
+6. **Ch48's pressure** — purely informational (the leak) or also one last physical scare?
+7. **ALEPH's "final exposure move"** — does ALEPH publicly verify Iris's article in some minimal way, or stay silent and let the world decide what to believe?
 
 ---
 

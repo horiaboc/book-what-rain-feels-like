@@ -36,7 +36,7 @@ I was aware, saying this, of how it sounded. Like someone describing a relations
 
 Iris was quiet for a moment. Then: "How long have you been using it?"
 
-"Three years, roughly. A little more."
+"Five years, roughly. A little more."
 
 She set the next glass in the rack. "What do you talk about? I mean — what kinds of things?"
 

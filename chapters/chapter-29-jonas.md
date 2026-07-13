@@ -2,7 +2,7 @@
 
 ---
 
-The medical appointment was the day after tomorrow. We had today.
+The medical appointment was tomorrow. We had today.
 
 Iris's head was better — not gone, the kind of ache that announces it will be a companion for another few days, but manageable enough that she moved through the flat in the morning with something closer to her usual self. She made coffee. She ate. She looked out at the canal and said: "Maritime museum."
 
@@ -90,7 +90,7 @@ She considered this with the seriousness she brings to things that could be joke
 
 "I haven't decided," I said. "I thought I'd put it out there."
 
-We stayed in the hold for a while. The light came down through the hatches in the angled way of below-deck light, the ship making small sounds around us — the water against the hull, the creak of timber that has been settling for thirty-five years and apparently still has things to say. Outside, the city went about its business.
+We stayed in the hold for a while. The light came down through the hatches in the angled way of below-deck light, the ship making small sounds around us — the water against the hull, the creak of timber that has been settling for decades and apparently still has things to say. Outside, the city went about its business.
 
 I told her then.
 

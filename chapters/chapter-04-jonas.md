@@ -81,7 +81,3 @@ I closed my eyes and leaned back in the chair. The cursor blinked on the empty f
 I didn't type anything else.
 
 I didn't need to.
-
----
-
-Maybe now YOU are ready to receive something more.

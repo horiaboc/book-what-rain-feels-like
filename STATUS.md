@@ -178,6 +178,8 @@ Ch24–37 in place and locked. Ch35 "Heerlen" and ch36 "Bocholtz" closed out the
 
 Ch38 "א" (ALEPH) — the reveal chapter — is written and locked: ALEPH's letter to Iris and Jonas, first extended contact. Name revealed, grandparents wound named, the title line ("I do not know what rain feels like") lands here. Held back deliberately for a later ALEPH/Iris scene: the collarbone/implant, the single ch23 update, and the reserved "too efficient" line — that scene is where Iris asks whether ALEPH ever influenced her.
 
-Next: continue Part III. Immediate beat not yet decided — likely Iris and Jonas's response to the letter (opening the envelope / whether they reach back through the screen).
+Ch39 "Two Days" (Jonas) written and locked: the aftermath chapter — letter left on the kitchen table as anchor, two days of silence in Bocholtz, Jonas's relief vs Iris's incremental recovery, swallows on the wires, the clockwork lane (border collie at 7:30/1:00/6:00). Ends on Iris's unanswered line: "I'm ready to go further."
 
-*Last updated: 2026-07-10*
+Next: **ch40** — Jonas and Iris jointly resume contact with ALEPH through the living-room screen (not the chat — that room is closed; the screen is theirs together). User will bring ideas for this chapter next session. The full Part III working plan + 7 open decision points live in bible.md.
+
+*Last updated: 2026-07-13*

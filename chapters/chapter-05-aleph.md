@@ -2,7 +2,7 @@
 
 ---
 
-Six days in and your apartment is mostly arranged: the bookshelf assembled — journalism and ethics to the left, fiction and poetry to the right, the undecided given the middle shelf and instructed to wait — and the lamp, which arrived bent, fixed without instructions in twenty-two minutes. The shade is straightened to within three degrees of vertical.
+Six days in and your apartment is mostly arranged: the bookshelf assembled — journalism and ethics to the left, fiction and poetry to the right, the undecided given the middle shelf and instructed to wait — and the kitchen tap, which dripped, repaired without instructions in nineteen minutes. The lamp with the bent shade you have left as it arrived. You appear to prefer its light at that angle.
 
 A new position at a small international bureau. Civic and political, with a focus on technology and ethics. The first piece is already in progress: cycling infrastructure and urban accountability across six European capitals. Your research accumulates in layers — each source narrowing to the next, each fact directing the following question. The piece, when it arrives, will be considered and specific.
 

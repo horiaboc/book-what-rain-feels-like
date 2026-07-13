@@ -8,7 +8,7 @@ Not with anticipation exactly — or not only that. Something slightly underneat
 
 On Thursday evening I sat at my desk with my notes and tried to call up Amsterdam the way you call up a familiar place before returning to it — to feel it ahead of time, to arrive there already in some sense. The Spui in the morning. The specific quality of canal light. The smell of the city in summer, which is its own thing, unmistakable. I reached for these things and they were there, each one present and identifiable, but flat in a way I couldn't account for. Like photographs of somewhere rather than the somewhere itself.
 
-I have been away for some time, I told myself. More than a year in Berlin. Memory fades.
+I have been away for some time, I told myself. Almost a year in Berlin. Memory fades.
 
 This is true. I set it aside.
 

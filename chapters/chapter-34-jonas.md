@@ -14,7 +14,7 @@ We took as much as the daily limit allowed and thanked her and left.
 
 ---
 
-Finding a place to stay without a card was its own project. Hotels in 2032 are not designed for cash — the booking systems, the door locks, the breakfast registration, all of it runs on identity verification that wants a card at its centre. We walked three streets off the Vrijthof, away from the obvious accommodation, and found what we were looking for in the window of a tobacconist: a handwritten card, the old-fashioned kind, advertising a room to let by the night. Private house. A phone number.
+Finding a place to stay without a card was its own project. Hotels in 2034 are not designed for cash — the booking systems, the door locks, the breakfast registration, all of it runs on identity verification that wants a card at its centre. We walked three streets off the Vrijthof, away from the obvious accommodation, and found what we were looking for in the window of a tobacconist: a handwritten card, the old-fashioned kind, advertising a room to let by the night. Private house. A phone number.
 
 The woman who answered was in her seventies and entirely unbothered by our lack of booking confirmation, online profile, or explicable reason for being in Maastricht with two bags and a preference for cash. She gave us a room on the second floor overlooking a small garden, a key on a physical keyring, and a time for breakfast. She did not ask for identification. Whether this was trust or indifference was not clear and also not important.
 

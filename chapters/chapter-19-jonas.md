@@ -2,13 +2,13 @@
 
 ---
 
-I sent the email on a Wednesday morning.
+I sent the email on a Friday morning.
 
 It took eleven minutes to write, three to reread, and two more to decide I wasn't going to revise it further. I attached the data — including, near the end, a note about an incident log entry from eleven months earlier: a recipient in Neukölln-Nord, insulin, two days late, marked resolved with an apology and a voucher. I included it because it was part of the pattern, and because a pattern that has already touched one person's medication schedule is not a Q4 problem. I pressed send. Then I made coffee and went back to work, because the routing anomaly existed independently of whether I had reported it, and the rest of the codebase still needed attention.
 
 ---
 
-Two days later I was called into a meeting with Thomas Würfel.
+The following Tuesday I was called into a meeting with Thomas Würfel.
 
 Thomas is Director of Operations at Merkon, which in a company of Merkon's size means he is the person above the person above you, and he appears in your immediate professional life only when something has gone wrong at a level that requires careful management. He is, by reputation, a careful man. I found the reputation accurate.
 

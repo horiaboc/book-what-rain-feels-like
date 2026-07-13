@@ -16,7 +16,7 @@ Conrad Vael sets his reading down and offers her the one thing he has learned ce
 
 ---
 
-She tells him. Heerlen — the corridor closed on both ends, and lost anyway. Maastricht the day before — two of her people against a wall before either had finished reaching.
+She tells him. Heerlen — the corridor closed on both ends, and lost anyway. Maastricht the day before — one of her people against a wall before he had finished reaching, the other stopped in the street, recalculating.
 
 "The woman moved in a way I have seen twice in my career, both of them men who spent thirty years learning it. She is a journalist. Twenty-five. No record of anything." Mara's voice stays level; only someone who knew her would hear the effort. "It was not skill. Skill has a texture — the training shows underneath it. This had no underneath. It was simply correct, the first time, every time."
 

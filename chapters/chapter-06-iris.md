@@ -38,7 +38,7 @@ He considers this briefly — the question, or perhaps the honest answer to it.
 
 "I close the tab," he says. "Then I open it again." A beat, dry but not quite a joke. "Software. Supply chains. I try to make sure things get from where they are to where they need to be."
 
-She understood this in two ways at once — literally, and then the other way. Something in his face suggested he was aware of both.
+I understood this in two ways at once — literally, and then the other way. Something in his face suggested he was aware of both.
 
 "Does it help?" he says then, looking back at the screen, which has already moved on to something financial. "Writing about it."
 

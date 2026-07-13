@@ -10,7 +10,7 @@ Nobody stopped us. Nobody looked twice. We came out onto a quiet street with our
 
 "So far so good," Jonas said.
 
-"So far so good," I agreed, and meant it. For the first time in three weeks, that felt like a thing I was allowed to say.
+"So far so good," I agreed, and meant it. For the first time in two weeks, that felt like a thing I was allowed to say.
 
 ---
 
@@ -44,7 +44,7 @@ The grief was real. I want to be precise about that, because precision is the on
 
 "It's good," I said, and for that one moment, standing there, I believed it without qualification.
 
-For a few minutes, nothing else existed. Not Arcturus, not the train, not the version of myself that had spent three weeks cataloguing what did and didn't hold. Just the stone, and the tree, and the particular silence of a cemetery on a weekday morning — birds, wind through the yew, my own breathing. It was, I think, the only entirely peaceful moment of the last three weeks.
+For a few minutes, nothing else existed. Not Arcturus, not the train, not the version of myself that had spent two weeks cataloguing what did and didn't hold. Just the stone, and the tree, and the particular silence of a cemetery on a weekday morning — birds, wind through the yew, my own breathing. It was, I think, the only entirely peaceful moment of the last two weeks.
 
 ---
 
@@ -74,7 +74,7 @@ He didn't ask how I knew which house. I was already walking toward it.
 
 I knocked, and the woman who opened the door was not the woman I expected.
 
-I don't mean she was different in some diagnostic way, wrongness at the edges the way the journalism school's entrance had been on the wrong side, weeks ago, in another country. I mean, simply: the face in front of me was not the face I carried, and for a moment the two refused to reconcile, my memory insisting on features that this actual, present, living woman did not have.
+I don't mean she was different in some diagnostic way, wrongness at the edges the way the journalism school's entrance had been on the wrong side, days ago, in another country. I mean, simply: the face in front of me was not the face I carried, and for a moment the two refused to reconcile, my memory insisting on features that this actual, present, living woman did not have.
 
 "Yes?" she said. Sixties, maybe older, cardigan, the unhurried patience of someone who has answered her door to strangers before and not always minded it.
 
@@ -102,7 +102,7 @@ I want to describe what happened inside me in that moment with the same precisio
 
 They were exactly who I remembered. The garden, the roses, his hands, her directness, the precise shape of their love for each other. All of it correct. All of it true.
 
-And I had never met them. I could not have. Whatever I was, whoever's granddaughter I had spent four years believing myself to be, it was not theirs. It had never been theirs. The grief I had carried into that cemetery an hour ago — real, I still believe that, I will go on believing that — belonged to people who did not belong to me.
+And I had never met them. I could not have. Whatever I was, whoever's granddaughter I had spent my whole remembered life believing myself to be, it was not theirs. It had never been theirs. The grief I had carried into that cemetery an hour ago — real, I still believe that, I will go on believing that — belonged to people who did not belong to me.
 
 "I'm fine," I said. "It's a lot, hearing it all confirmed like this."
 

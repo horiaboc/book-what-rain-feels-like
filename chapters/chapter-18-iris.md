@@ -18,7 +18,7 @@ Reinhardt was moving on to audit methodology. I let the thought go.
 
 ---
 
-Jonas was home when I got back, which by this point in June required no coordination — he simply was, the way Diogenes and the bicycle in the courtyard and the leftover wine from Thursday were simply there: part of the texture of the place.
+Jonas was home when I got back, which by this point in July required no coordination — he simply was, the way Diogenes and the bicycle in the courtyard and the leftover wine from Thursday were simply there: part of the texture of the place.
 
 He had made dinner, which he does occasionally and well, with a focused pragmatism that treats cooking as a problem to be solved correctly rather than enjoyed. I like this about him. It produces good food and an absence of fuss.
 

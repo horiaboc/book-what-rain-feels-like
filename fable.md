@@ -150,6 +150,8 @@ Email sent "Wednesday morning"; meeting "two days later" (= Friday); firing "eff
 
 ## 8. Quick-Fix Checklist
 
+*All 17 items applied 2026-07-13. Surname standardised to **Jacobs** (bible updated). Ch19 resolved as: email Friday → meeting the following Tuesday → left on a Tuesday. Ch05 lamp resolved as: tap repaired instead; lamp deliberately left bent per ch03.*
+
 | # | File | Change |
 |---|------|--------|
 | 1 | chapter-07 | "Iris van den Berg" → "Iris Jacobs" (pending user choice) |
