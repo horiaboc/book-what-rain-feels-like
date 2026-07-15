@@ -16,7 +16,7 @@ Some things hold.
 
 ---
 
-The desk is still third from the window. Between the window and me: Thomas, who documents everything in meticulous spreadsheets and is never wrong, and Priya, who joined last year from the Frankfurt office and laughs at things three seconds after everyone else, once she has decided they are funny. Mia still sits across from me. She still leaves notes. Last week's said: *same look. different year.*
+The desk is still third from the window. Between the window and me: Felix, who documents everything in meticulous spreadsheets and is never wrong, and Priya, who joined last year from the Frankfurt office and laughs at things three seconds after everyone else, once she has decided they are funny. Mia still sits across from me. She still leaves notes. Last week's said: *same look. different year.*
 
 She is not wrong.
 
