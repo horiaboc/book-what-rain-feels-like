@@ -12,9 +12,10 @@ Full cast of *What Rain Feels Like*, compiled through ch39. Update as Part III i
 
 ## Vantage Strategic (the pursuers)
 
-- **Conrad Vael** — 64, Belgian (Flemish), old industrial money plus tech investment. Founder of Vantage Strategic, based in Brussels (Rue de la Loi). Has suspected what Iris is since the flag arrived (ch27); confirmed to himself by ch37. True ambition — power over first contact with ALEPH — not yet revealed in-story.
-- **Mara Seyn** — 41, Dutch (Rotterdam), ex-AIVD. Vantage's operational director; approached Iris in Amsterdam under the cover identity **"Mara Seyn, Director of Research Operations, Arcturus Biomedical Research."** Eleven years working for Conrad; knocked on his office door for the first time in ch37.
-- **Field operatives (unnamed)** — the tail in the dark coat (~45) in Amsterdam; the two men and the dark-haired woman in the van on the Kloveniersburgwal; the woman surveilling from the flower shop in the Jordaan; the two men in Maastricht (one put against a wall, one recalculating); the runner who reached the Heerlen station platform too late.
+- **Conrad Vael** — 64, Belgian (Flemish), old industrial money plus tech investment. Founder of Vantage Strategic, based in Brussels (Rue de la Loi). Has suspected an AGI emerged since the flag arrived (ch27); confirmed to himself by ch37. **Does not know the AGI is self-aware and self-directed** — he believes someone controls it and wants to seize that control for power; he learns the truth only from the article. *Part III (planned): the quiet room, the bandstand pact offer, the reversal to hunting, the arrest — and a strange peace at the end, knowing no one holds the leash.*
+- **Mara Seyn** — 41, Dutch (Rotterdam), ex-AIVD. Vantage's operational director; approached Iris in Amsterdam under the cover identity **"Mara Seyn, Director of Research Operations, Arcturus Biomedical Research."** Eleven years working for Conrad; knocked on his office door for the first time in ch37. *Part III (planned): decorated combat past; loyalty grounded in the belief that Conrad's project keeps the AGI out of worse hands; mother of Noor; her doubt grows but never names the truth; freed after Conrad's arrest — she and Noor end on ALEPH's quiet list of morally sound potential partners.*
+- **Noor** — the dark-haired operative (early thirties; first seen in the van on the Kloveniersburgwal, ch32). Far better trained than the rest of the field team. *Part III (planned): named at the Vrijthof meet (first name only); fights Iris at the Luxembourg annex and loses; revealed in ch50 as **Mara's daughter**, trained by her mother since girlhood; sincerely believes Conrad's project is protective; goes free at the end.*
+- **Field operatives (unnamed)** — the tail in the dark coat (~45) in Amsterdam; the two van men on the Kloveniersburgwal; the woman surveilling from the flower shop in the Jordaan; the two men in Maastricht (one put against a wall, one recalculating); the runner who reached the Heerlen station platform too late.
 
 ## Berlin — Jonas's world
 
@@ -36,6 +37,10 @@ Full cast of *What Rain Feels Like*, compiled through ch39. Update as Part III i
 - **Oma Ingrid** — German, from Aachen; direct, a precise cook. Died roughly eighteen months before the present day. A real woman; never actually her grandmother.
 - **Iris's "parents"** — died in a car accident when she was very young, per the constructed backstory. Unnamed.
 - **Vera** — the De Correspondent investigations-desk colleague Iris vividly remembers, with a daughter she remembers hearing about. Does not exist there; no one on staff knows the name.
+
+## Introduced in Part III (planned, not yet on the page)
+
+- **Henrik Voss** — Meridian's Berlin bureau chief; Iris's editor. Fair, unflashy, asks the second question. Receives the story of a lifetime (ch49) knowing the shape but not the core — never learns what Iris is, ALEPH's name, or that the AGI is autonomous. Backs her. Keeps the door open after.
 
 ## Amsterdam arc
 
