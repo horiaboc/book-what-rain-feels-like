@@ -279,12 +279,12 @@ These become Iris's inquiry points at the meet. ALEPH is explicit: it can prove 
 5. **ALEPH's final exposure move:** the article itself carries the autonomy claim; ALEPH does not publicly verify. (Details of how the world comes to believe it: write-time.)
 6. The old 7-item decision list is superseded: who-types-first is moot (ALEPH speaks, ch40); Bocholtz is never found by Vantage (contact happens on Iris's terms via the intentional card swipe); the company is founded by ALEPH for them; the rain scene folds into ch55.
 
-### Open questions (small, decide at write-time unless noted)
+### Open questions — resolved 2026-07-15
 
-1. **ALEPH's voice** — register and character (warm? neutral? does it comment on its own choice of voice?). Needed for ch40.
-2. **Company name** (ch55).
-3. **Part III timeline span** — suggest ~6–10 weeks, September → November 2034, so the finale lands in Berlin November rain (ch01 anniversary).
-4. **How the world verifies the article's AGI claim** — assertion vs. demonstrable proof; write-time.
+1. **ALEPH's voice (resolved):** pleasant, unhurried, low-warm; neither male nor female. ALEPH does not explain or justify the choice — it is simply his choice. Jonas and Iris perceive it as pleasant and appreciate it; no commentary made of it.
+2. **Company (ch55):** it is a **non-profit** (German gemeinnützige form — gGmbH or Stiftung), mentioned in one light clause, not dwelt on. **Name: user to pick from candidates** — Petrichor (Institut/Stiftung; the scent of rain on dry earth — the earth's answer to rain; ties to the title without naming it), Brückenwerk ("bridgework" — Iris as bridge; plain, German, Berlin), Kaldi (Institut; from ch02's coffee digression — the herder who noticed; attention to small anomalies, Jonas's whole craft). Decide by ch55.
+3. **Part III timeline (resolved):** September → November 2034; the finale lands in Berlin November rain — three years to the month after ch01. Pacing includes deliberate quiet stretches **for Jonas and Iris themselves**: a few unhurried days in Bocholtz after the confession (ch47→48 gap), and settling days in Berlin after the move (ch49→52 gaps) — the couple gets to live a little between blows.
+4. **Verification of the article (resolved):** the proof of Vantage's crimes is real and is provided both to several authorities (before/alongside publication) and within the article itself. ALEPH's autonomy is stated in the article; a **follow-up press conference where the AGI makes itself available for an interview, by itself,** happens after the book ends — it is NOT part of this book. (Bible note: if a second book is ever written, that press conference is its opening point.) The details of ALEPH's construction and residence are in neither the article nor anyone's hands — known only to Iris and Jonas (and the Svalbard archive to ALEPH alone).
 
 ---
 
