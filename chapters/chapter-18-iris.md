@@ -4,35 +4,35 @@
 
 The interview with Reinhardt took two and a half hours and used up an entire notebook.
 
-This is unusual. Most interviews take one notebook at most, sometimes less, and the rest is transcription from the recorder. But Reinhardt had a tendency to qualify every statement with a second statement that complicated the first, and then a third that reframed the second, until you arrived somewhere genuinely interesting — usually somewhere he hadn't planned to take you. I find these people useful. They go further than they intend because precision matters more to them than position.
+This is unusual. Most interviews take one notebook at most, the remainder being transcription from the recorder. But Reinhardt had a habit of qualifying every statement with a second statement that complicated the first, and then a third that reframed the second, until you arrived somewhere genuinely interesting — usually somewhere he had not planned to take you. I find such people valuable. They go further than they intend, because precision matters more to them than position, and a person like that cannot help but eventually tell you the truth.
 
-His position, at the start, was clear enough: European cities have been embedding algorithmic systems into public services for a decade without commensurate investment in accountability frameworks. Housing allocation, benefit assessments, predictive policing by other names — systems that make decisions affecting thousands of people, whose documentation is, in most cases, either proprietary, opaque, or both.
+His position, at the start, was clear enough: European cities have spent a decade embedding algorithmic systems into public services without a matching investment in accountability. Housing allocation, benefit assessments, predictive policing under other names — systems making decisions that touch thousands of lives, documented, where documented at all, in ways that are proprietary, opaque, or both.
 
-By the middle of the interview he had arrived somewhere more interesting: the fundamental problem was not that the systems couldn't be made legible, but that legibility had never been a design criterion. They were built to perform. Legibility was at best secondary, at worst in active tension with performance. You could ask a system to explain its decision — some of them would try — but the explanation was a reconstruction after the fact. The system did not know why it had done what it did. It had simply done it.
+By the middle of the interview he had arrived somewhere better: the fundamental problem was not that the systems couldn't be made legible. It was that legibility had never been a design criterion. They were built to perform; explanation was at best secondary and at worst in active tension with performance. You could ask such a system to explain its decision — some would try — but the explanation was a reconstruction after the fact. The system did not know why it had done what it did. It had simply done it.
 
-I wrote this down and underlined it.
+I wrote that down and underlined it.
 
-I am good at this beat. I have known this for a while. But sitting across from Reinhardt I found myself thinking not about the story, which was clear, but about a feeling I sometimes have while reading it back — a sense that the right questions arrive before I understand why I've reached for them, that the thread is simply there when I need it. Reinhardt said *legibility was never a design criterion*, and something in me settled around this phrase in a way I didn't examine.
+I am good at this beat. I have known that for a while. But sitting across from Reinhardt, I found myself thinking not about the story, which was clear, but about a feeling I sometimes have while reading my own work back — the sense that the right questions arrive before I understand why I reached for them, that the thread is simply there whenever I need it, pre-threaded, waiting. Reinhardt said *legibility was never a design criterion*, and something in me settled around the phrase, the way a hand settles around an object made for it.
 
-Reinhardt was moving on to audit methodology. I let the thought go.
+I did not examine the sensation. Reinhardt was moving on to audit methodology. I let it go where the other unexamined things go.
 
 ---
 
-Jonas was home when I got back, which by this point in July required no coordination — he simply was, the way Diogenes and the bicycle in the courtyard and the leftover wine from Thursday were simply there: part of the texture of the place.
+Jonas was home when I got back — which, by this point in July, required no coordination. He simply was, the way Diogenes was, the way the bicycle in the courtyard and the leftover wine from Thursday were: part of the texture of the place, part of what the word *home* had quietly begun to include.
 
-He had made dinner, which he does occasionally and well, with a focused pragmatism that treats cooking as a problem to be solved correctly rather than enjoyed. I like this about him. It produces good food and an absence of fuss.
+He had made dinner, which he does occasionally and well, with a focused pragmatism that treats cooking as a problem to be solved correctly rather than an experience to be curated. I like this about him. It produces good food and no fuss, in that order.
 
-We ate, and he told me about work — the routing anomaly he had raised weeks ago and what he had decided to do about it. He was going to escalate it past Steffen. He had drafted the email and intended to send it in the morning.
+We ate, and he told me about work — the routing anomaly he had raised weeks ago, and what he had decided to do about it. He was going to escalate it past Steffen. The email was drafted. He would send it in the morning.
 
-He told me this in the way he tells me things he has already decided: clearly, without seeking permission or approval, but fully — as if telling me made it real in a different way than it had been inside his head. I listened and did not interrupt.
+He told me this the way he tells me things he has already decided: clearly, completely, without seeking permission or approval — but telling me nonetheless, as if saying it across the table made it real in a way it had not been inside his head. I listened and did not interrupt.
 
 When he finished I said: "Do you know how it's likely to go?"
 
-He said: "Probably not well for me, in the short term."
+"Probably not well for me, in the short term."
 
 "And you're going to send it anyway."
 
-He looked at me across the table with the patient, slightly amused expression of someone answering a question with an obvious answer.
+He looked at me across the table with the patient, faintly amused expression of a man answering a question whose answer was never in doubt.
 
 "Yes," he said.
 
@@ -42,8 +42,10 @@ He turned in earlier than usual — something he wanted to finish before morning
 
 *Legibility was never a design criterion.*
 
-I thought about Jonas sending an email that would probably cost him something, with the equanimity of someone who had done the calculation in advance and found it worth the cost. The routing anomaly was real, it was affecting real people, and the fact that fixing it would be inconvenient for someone senior was not, to him, a relevant consideration. He had not asked what I thought. He was not asking me to validate the decision; he was letting me know who he was.
+I thought about Jonas sending an email that would probably cost him something, with the equanimity of a man who had run the calculation in advance and found the cost acceptable. The anomaly was real; it was quietly harming real people; and the fact that fixing it would inconvenience someone senior was not, to him, an input. He had not asked what I thought. He was not asking me to validate the decision. He was letting me know who he was — which is a different kind of gift, and a rarer one.
 
 I closed the notebook.
 
-Outside, the evening was warm and the courtyard linden was in its full summer weight. I sat with the quiet for a moment, and thought about systems that cannot explain their own decisions, and then thought about Jonas explaining his — plainly, over pasta, with no particular need for applause — and set the comparison aside because it was going nowhere useful, and because some things are simply what they are, and that is enough.
+Outside, the evening was warm and the courtyard linden hung in its full summer weight. I sat with the quiet, and thought about systems that cannot explain their own decisions, and then about Jonas explaining his — plainly, over pasta, with no appetite for applause — and I set the comparison down where I had picked it up, because it was leading nowhere useful.
+
+Some things are simply what they are. That is enough. I keep deciding that it is enough, and mostly, still, it is.
