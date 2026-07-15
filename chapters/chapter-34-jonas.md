@@ -4,7 +4,7 @@
 
 We found cash at the third attempt.
 
-The first two machines we tried were either out of service or simply out — the particular apologetic blankness of a screen that has nothing left to give. The third was a pharmacy on the Vrijthof that still kept a machine inside, a concession to the dwindling population of people who needed one. The pharmacist watched us use it with the expression of someone observing a mildly historical event.
+The first two machines we tried were either out of service or simply out — the apologetic blankness of a screen that has nothing left to give. The third was a pharmacy on the Vrijthof that still kept a machine inside, a concession to the dwindling population of people who needed one. The pharmacist watched us use it with the expression of someone observing a mildly historical event.
 
 "Not many people still use those," she said, not unkindly.
 
@@ -22,7 +22,7 @@ The room was clean and quiet and had curtains that actually blocked light, which
 
 ---
 
-In the morning the city was doing its particular thing — Maastricht has a self-assurance about it, something in the stone and the river and the way the streets are arranged that suggests a place that has been here long enough to stop being surprised by anything. We had coffee from the woman downstairs, who also produced bread and a soft cheese she described as local and which was, and then Iris said:
+In the morning the city was up before us — Maastricht has a self-assurance about it, something in the stone and the river and the way the streets are arranged that suggests a place that has been here long enough to stop being surprised by anything. We had coffee from the woman downstairs, who also produced bread and a soft cheese she described as local and which was, and then Iris said:
 
 "There's a café. In Den Ouden Vogelstruys — on the Vrijthof. My grandfather used to take me there when he came to Maastricht on business." She looked at her cup. "I remember ordering hot chocolate. He always had coffee and something with apple. We sat at the window."
 
@@ -32,7 +32,7 @@ I looked at her.
 
 ---
 
-The café was exactly where it should have been — an old building on the Vrijthof square, low-ceilinged inside, dark wood, the particular warmth of a place that has been serving people for a very long time and intends to continue. We found a table near the window. Iris looked at the room the way she had been looking at rooms all week, with that careful measuring quality, reading what was there against what she carried.
+The café was exactly where it should have been — an old building on the Vrijthof square, low-ceilinged inside, dark wood, the settled warmth of a place that has been serving people for a very long time and intends to continue. We found a table near the window. Iris looked at the room the way she had been looking at rooms all week, with that careful measuring quality, reading what was there against what she carried.
 
 She ordered hot chocolate.
 
@@ -78,7 +78,7 @@ We went left.
 
 The Basilica of Our Lady, Star of the Sea, is a Romanesque church on the Onze Lieve Vrouweplein — dark stone, old beyond the usual meaning of old, the kind of building that has absorbed so much time it has developed a particular gravity. The door was open. We went in.
 
-Inside: cool, dim, the smell of candle wax and centuries of stone. Tourists moving quietly. A side chapel with votive candles. At the back, along the north wall, a row of baroque confessionals — dark carved wood, heavy curtains, the particular silence of furniture with a specific purpose.
+Inside: cool, dim, the smell of candle wax and centuries of stone. Tourists moving quietly. A side chapel with votive candles. At the back, along the north wall, a row of baroque confessionals — dark carved wood, heavy curtains, the attentive silence of furniture built for one purpose.
 
 I looked behind us. The door was still closed.
 
@@ -122,7 +122,7 @@ Another pause. "That is also not an unusual reason to be in a church," he said. 
 
 "Then have it," he said.
 
-He stayed for a few minutes, in the particular silence of someone who is comfortable with silence and does not feel the need to fill it. Then he rose — another creak — and said, softly: "Peace to you."
+He stayed for a few minutes, in the silence of someone who is comfortable with silence and does not feel the need to fill it. Then he rose — another creak — and said, softly: "Peace to you."
 
 "And to you," Iris said.
 
@@ -132,7 +132,7 @@ I said nothing. Iris said nothing. The candle wax smell was very present and the
 
 ---
 
-We left with a group of tourists — a Dutch school party, teenagers, the particular energy of people who are not quite sure why they are looking at religious architecture but have been told it matters. We moved with them toward the door and out into the Onze Lieve Vrouweplein and then separated naturally and walked south, quickly, without running.
+We left with a group of tourists — a Dutch school party, teenagers, the herded energy of people who are not quite sure why they are looking at religious architecture but have been told it matters. We moved with them toward the door and out into the Onze Lieve Vrouweplein and then separated naturally and walked south, quickly, without running.
 
 The station was twelve minutes. We made it in nine.
 
@@ -144,7 +144,7 @@ As the train began to move I looked back through the window. A man was coming th
 
 We were on it.
 
-Iris sat across from me with her bag on her lap and watched the city give way to the Limburg countryside — flat, green, the particular low light of the south Netherlands on a late summer morning. She was quiet for a while.
+Iris sat across from me with her bag on her lap and watched the city give way to the Limburg countryside — flat, green, the low light of the south Netherlands on a late summer morning. She was quiet for a while.
 
 Then: "I know the streets," she said.
 

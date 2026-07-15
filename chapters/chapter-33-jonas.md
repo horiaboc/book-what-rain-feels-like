@@ -2,17 +2,17 @@
 
 ---
 
-De Correspondent's office is on the Barentszplein, in the western harbour — the part of Amsterdam that was built on water and still feels like it, all industrial repurposed brick and wide skies and the particular light that comes off open water in the afternoon. We took the tram from the Waterlooplein with our bags between our feet and the city moving past the windows in the way of a city that doesn't know it's being fled.
+De Correspondent's office is on the Barentszplein, in the western harbour — the part of Amsterdam that was built on water and has never stopped feeling like it: repurposed industrial brick, wide skies, the particular light that comes off open water in the afternoon and makes everything look slightly better documented than it is. We took the tram from the Waterlooplein with our bags between our feet and the city sliding past the windows in the way of a city that doesn't know it's being fled.
 
-Iris sat beside me and watched the streets. She had been quieter since the café — not withdrawn, more like someone who has put something large into a drawer and is concentrating on keeping the drawer shut. Her hands, when they weren't holding the bag straps, were still.
+Iris sat beside me and watched the streets. She had been quieter since the café — not withdrawn; more like someone who has placed something large in a drawer and is devoting real attention to keeping the drawer shut. Her hands, when they weren't holding the bag straps, were perfectly still. I have learned to read her stillnesses. This one was load-bearing.
 
 "Tell me what you remember," I said. "About the office."
 
-She thought about it. "Open plan. Desks arranged in loose clusters. A kitchen at the back — good coffee machine, the kind that takes whole beans." A pause. "Thursdays they did an informal end-of-day drinks. Just the editorial team. Someone always brought bitterballen."
+She considered. "Open plan. Desks in loose clusters. A kitchen at the back — good coffee machine, the kind that takes whole beans." A pause. "Thursdays they did informal end-of-day drinks. Just the editorial team. Someone always brought bitterballen."
 
 "Who do you remember?"
 
-"Vera," she said, without hesitation. "Vera something — I can't remember her surname. She was on the investigations desk. We sat near each other." She looked at the window. "She has a daughter. I remember her talking about her daughter."
+"Vera," she said, without hesitation. "Vera something — the surname won't come. Investigations desk. We sat near each other." She looked at the window. "She has a daughter. I remember her talking about her daughter."
 
 "That's specific," I said.
 
@@ -20,17 +20,17 @@ She thought about it. "Open plan. Desks arranged in loose clusters. A kitchen at
 
 ---
 
-The building announced itself with a modest sign and a glass door. Inside: exactly as described — open plan, desks in clusters, the productive low hum of a newsroom mid-afternoon. The light was good. The coffee machine was visible from the entrance, which was a large silver thing with a bean hopper, the kind that takes its work seriously.
+The building announced itself with a modest sign and a glass door. Inside: exactly as described — open plan, desk clusters, the productive low hum of a newsroom in mid-afternoon. Good light. The coffee machine visible from the entrance, a large silver apparatus with a bean hopper, clearly an institution that took itself seriously.
 
 The woman at the front desk looked up.
 
-Iris gave her name. Said she had worked here, briefly, about a year ago — she was in Amsterdam for a few days and had hoped to say hello to some people she'd worked with. Vera, she thought her name was — investigations desk.
+Iris gave her name. She had worked here, briefly, about a year ago; she was in Amsterdam for a few days and had hoped to say hello to some people. Vera, she thought — investigations desk.
 
-The woman at the desk checked something. She picked up a phone, spoke briefly, listened. She looked up.
+The woman checked something, lifted a phone, spoke briefly, listened.
 
 "Someone will be out in a moment," she said.
 
-We sat in the two chairs by the entrance. The newsroom went about its business around us — someone on a call, someone crossing to the kitchen, the ordinary organised motion of a place where work is getting done. Iris sat with her bag on her lap and her back straight and looked at the room the way she had been looking at buildings all week.
+We took the two chairs by the entrance. The newsroom went on around us — a phone call, a crossing to the kitchen, the organized motion of a place where work is getting done. Iris sat with her bag on her lap and her back straight, reading the room the way she had been reading everything all week: against the original.
 
 "The coffee machine," I said quietly.
 
@@ -38,51 +38,49 @@ She looked at it. "It's different," she said, just as quietly. "The one I rememb
 
 "This one's on the right."
 
-"Yes." She looked at it for a moment longer. "Could have changed."
+"Yes." She looked at it a moment longer. "Could have changed."
 
 "Could have," I said.
 
-We both knew the rhythm of this now. Note it. Keep going.
+We both knew this liturgy by now. Note it. Keep going.
 
 ---
 
-The woman who came out was somewhere in her mid-thirties — dark, efficient-looking, the slightly distracted quality of someone who has just come out of something and is still partly in it. She came through the newsroom and stopped at the entrance and looked at Iris.
-
-Her expression was pleasant and entirely blank.
+The woman who came out was mid-thirties — dark, efficient, carrying the mild distractedness of someone who has just stepped out of one thing and is still partly inside it. She crossed the newsroom and stopped in front of Iris, and her expression was pleasant and entirely blank.
 
 "Iris Jacobs? I'm Lena," she said.
 
-"Yes," Iris said. She stood. "Is Vera around? Vera from investigations?"
+"Yes," Iris said, standing. "Is Vera around? Vera, from investigations?"
 
-The woman shook her head. "I don't think we have a Vera. Not on investigations." She looked almost apologetic. "I've been here three years. Before that I couldn't say."
+Lena shook her head. "I don't think we have a Vera. Not on investigations." An almost-apologetic look. "I've been here three years. Before that I couldn't say."
 
-The silence that followed was not long. Iris handled it the way she handles things she doesn't have a category for: carefully, without showing the seam.
+The silence that followed was not long. Iris handled it the way she handles things she has no category for: carefully, without showing the seam. I watched her not show the seam, and my chest did something I declined to examine until later.
 
-"I worked here," Iris said. "About a year ago. Briefly — civic tech beat."
+"I worked here," Iris said. "About a year ago. Briefly — civic tech."
 
-The woman's face was doing its best. Something was working behind it — a genuine effort to locate a memory that was not presenting itself. "I'm sorry," she said. "I'm probably the wrong person to ask. Let me get Tom — he knows everyone who's come through here."
+Lena's face worked at it, honestly — the visible effort of a person searching for a memory that is not declining to come but simply is not there. "I'm sorry. I'm probably the wrong person to ask. Let me get Tom — he knows everyone who's ever come through."
 
-She turned and went back into the newsroom before we could say it was fine.
+She was gone before we could say it was fine.
 
-Tom was fifties, bearded, a coffee in hand, the look of someone who had been at this publication since before it was fashionable and would be here after. He came out and looked at Iris with the open-faced attention of someone who is genuinely trying.
+Tom was fifties, bearded, coffee in hand, with the settled look of a man who had been at the publication since before it was fashionable and intended to remain after. He came out and gave Iris the open-faced attention of someone genuinely trying.
 
 "Iris Jacobs," he said. "Civic tech, about a year ago."
 
 "Yes," Iris said.
 
-He shook his head slowly. "I don't think so," he said. "I'd remember — we had a small team that year, maybe twelve people. I know all of them." He said it without unkindness, just as a fact. "Are you sure it was this office? We have people who work with us on contract, based elsewhere — could it have been a remote arrangement?"
+He shook his head slowly. "I don't think so. And I would remember — we ran a small team that year, twelve people, maybe. I know all of them." He said it without a gram of unkindness, as a fact he was sorry to be holding. "Are you sure it was this office? We have contract people, based elsewhere — could it have been a remote arrangement?"
 
 "It could have been," Iris said.
 
-It couldn't have been. She had described this office to me in Berlin, months ago, before Amsterdam was even a thought — the desk clusters, the coffee machine, the Friday drinks. She had described it as someone describes a place they know.
+It could not have been. She had described this office to me in Berlin, months ago, before Amsterdam was even an idea — the desk clusters, the coffee machine, the end-of-week drinks. She had described it the way you describe a place you have stood in.
 
-"I'm sorry I can't be more helpful," Tom said. He meant it. He looked at her with a slight puzzled quality — as if he too was trying to reconcile something that didn't resolve. Then he shook it off, smiled, shook her hand, and went back to his desk.
+"I'm sorry I can't be more helpful," Tom said, and meant it. He looked at her a moment longer with a small puzzlement of his own — a man trying to reconcile something that wouldn't settle — then shook it off, smiled, shook her hand, and went back to his desk.
 
-The woman walked us to the door.
+Lena walked us to the door.
 
 ---
 
-On the Barentszplein, the afternoon light was doing its harbour thing across the water. We stood on the pavement with our bags and the tram stop thirty metres away and the city going on around us as cities do.
+On the Barentszplein, the afternoon light was doing its harbour work across the water. We stood on the pavement with our bags, the tram stop thirty metres off, the city proceeding around us as cities do.
 
 Iris was quiet for a long moment.
 
@@ -90,32 +88,32 @@ Then she said: "The Thursday drinks were Fridays."
 
 I looked at her.
 
-"I said Thursdays," she said. "In the tram. I was sure it was Thursdays. I can see it — the end of the week, the light coming through the windows, someone bringing bitterballen." She paused. "I just remembered. It was always Fridays. I don't know why I said Thursdays."
+"I said Thursdays. In the tram. I was sure it was Thursdays — I can see it, the end of the week, the light coming through those windows, someone carrying in bitterballen." She paused. "It was always Fridays. I just remembered that. I don't know why I said Thursdays."
 
-I didn't say anything.
+I said nothing. There was nothing whose saying would have helped.
 
-"The coffee machine is on the wrong side," she said. "Lena doesn't know me. Tom doesn't know me." She said it the way you say something you have been approaching for a long time and have finally arrived at. "The memories are vivid and they are wrong and they are not ordinary forgetting."
+"The coffee machine is on the wrong side," she said. "Lena doesn't know me. Tom doesn't know me." She spoke the way you speak a thing you have been approaching for days and have finally, formally, arrived at. "The memories are vivid, and they are wrong, and they are not ordinary forgetting."
 
 "No," I said.
 
-She looked at the water. A gull went over. The tram came and went without us.
+She looked at the water. A gull crossed it. The tram came, and went, without us.
 
 "I want to go to Heerlen," she said.
 
-I had been expecting this. "The grandparents."
+I had been waiting for it. "The grandparents."
 
-"The graves. The house. The things that should be there." She turned to look at me. "I need to stand in the places and see what holds."
+"The graves. The house. The things that should be there." She turned to me. "I need to stand in the places and see what holds."
 
-I looked at her. She was frightened — more than she had shown in the alley, more than she had shown in any café today. This was the fear underneath the other fears: not the van, not the woman in the passenger seat, not the bone density or the cortex connectivity. This.
+I looked at her. She was frightened — more than she had shown in the alley, more than in any café since. This was the fear beneath the other fears. Not the van. Not the woman with the card. Not the bone density or the cortex. This: the possibility that the people she loved first had never been hers to love.
 
 "All right," I said. "We go to Heerlen."
 
 "There's a direct train from Centraal," she said. "Under three hours."
 
-"We should go through Maastricht," I said. "Stay there tonight. Heerlen in the morning."
+"We go through Maastricht," I said. "Stay the night. Heerlen in the morning."
 
 She nodded.
 
-I picked up my bag. She picked up hers. We walked toward the tram stop and the city moved around us and neither of us said anything for a while, which was the right thing.
+I picked up my bag. She picked up hers. We walked to the tram stop, and the city moved around us, and neither of us said anything for a while, which was the correct thing to say.
 
-Whatever the places held — we were going to go and find out.
+Whatever the places held, we were going to go and stand in them.

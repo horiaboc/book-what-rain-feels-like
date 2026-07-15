@@ -6,7 +6,7 @@ The train slowed and I did not stand.
 
 Jonas glanced at me — a small question, the kind he'd stopped asking aloud somewhere around Maastricht — and I shook my head, once. We let the other passengers gather their bags and move toward the doors. We let the platform outside fill with the ordinary business of a small station on an ordinary morning: a man with a bicycle, two students, someone's grandmother collected by someone's patient son. Only when the carriage was nearly empty did we stand, and even then I walked us the wrong way first — toward the rear of the train, away from the main hall, to where the platform narrows and a maintenance gate lets out onto a service road nobody photographs.
 
-Nobody stopped us. Nobody looked twice. We came out onto a quiet street with our bags and the particular lightness of two people who have, for the moment, gotten away with something.
+Nobody stopped us. Nobody looked twice. We came out onto a quiet street with our bags and the lightness of two people who have, for the moment, gotten away with something.
 
 "So far so good," Jonas said.
 
@@ -44,7 +44,7 @@ The grief was real. I want to be precise about that, because precision is the on
 
 "It's good," I said, and for that one moment, standing there, I believed it without qualification.
 
-For a few minutes, nothing else existed. Not Arcturus, not the train, not the version of myself that had spent two weeks cataloguing what did and didn't hold. Just the stone, and the tree, and the particular silence of a cemetery on a weekday morning — birds, wind through the yew, my own breathing. It was, I think, the only entirely peaceful moment of the last two weeks.
+For a few minutes, nothing else existed. Not Arcturus, not the train, not the version of myself that had spent two weeks cataloguing what did and didn't hold. Just the stone, and the tree, and the deep weekday silence of a cemetery — birds, wind through the yew, my own breathing. It was, I think, the only entirely peaceful moment of the last two weeks.
 
 ---
 
@@ -58,7 +58,7 @@ I didn't look back to check if it was them. There wasn't time, and by then I did
 
 The street was three turns from the cemetery. Semi-detached houses, small front gardens, the kind of quiet that isn't wealth, just settledness. Ours — theirs — was the fourth on the left, pale brick, a garage added later than the rest of the house in a slightly different shade.
 
-There was a car in the driveway that wasn't the car from my memory, because of course it wasn't. As we came level with the house, the front door opened and a woman came out with a child on her hip and a bag of shopping in the other hand, calling something back into the house — a name, a reminder, the specific tired cheerfulness of someone in the middle of an ordinary Tuesday. A man followed a moment later with a second child, older, arguing amiably about something involving a football.
+There was a car in the driveway that wasn't the car from my memory, because of course it wasn't. As we came level with the house, the front door opened and a woman came out with a child on her hip and a bag of shopping in the other hand, calling something back into the house — a name, a reminder, the tired cheerfulness of someone in the middle of an ordinary Tuesday. A man followed a moment later with a second child, older, arguing amiably about something involving a football.
 
 I stopped walking.
 
@@ -66,7 +66,7 @@ I had known, abstractly, that other people would live there now. Knowing a thing
 
 "We don't have to," Jonas said, quietly, close to my ear.
 
-"There's someone else," I said. "Next door. A woman — she used to bring things over. Bread, when Oma was unwell. I remember her being kind in a specific way, the way people are kind when they've decided to be kind about something in particular rather than kind in general."
+"There's someone else," I said. "Next door. A woman — she used to bring things over. Bread, when Oma was unwell. I remember her being kind in a deliberate way, the way people are kind when they've decided to be kind about something in particular rather than kind in general."
 
 He didn't ask how I knew which house. I was already walking toward it.
 
@@ -80,13 +80,13 @@ I don't mean she was different in some diagnostic way, wrongness at the edges th
 
 "I'm sorry to bother you," I said. My voice came out steadier than I felt entitled to. "I used to know the family next door. Kees and Ingrid. I'm making some inquiries, for a family matter. I wondered if you might have known them."
 
-Something in her face softened immediately, the specific softening of someone about to be given permission to talk about people they'd genuinely liked. "Knew them? I lived next to them for thirty years." She looked between us — at me, longer, with the mild curiosity of someone trying to place a face and not quite managing it. "You'd better come in. I've just put the kettle on."
+Something in her face softened immediately, the softening of someone about to be given permission to talk about people they'd genuinely liked. "Knew them? I lived next to them for thirty years." She looked between us — at me, longer, with the mild curiosity of someone trying to place a face and not quite managing it. "You'd better come in. I've just put the kettle on."
 
 Jonas's hand found the small of my back again as we stepped inside. I understood it as a question and answered it with the smallest possible nod. *I'm all right. Stay close.*
 
 ---
 
-Her name was Bernadette. Her kitchen smelled of coffee and something baked recently, and she moved through it with the specific economy of a woman who has made tea for visitors a thousand times and no longer thinks about the motions required.
+Her name was Bernadette. Her kitchen smelled of coffee and something baked recently, and she moved through it with the practised economy of a woman who has made tea for visitors a thousand times and no longer thinks about the motions required.
 
 "Kees kept that garden like it owed him money," she said, setting cups down. "Roses along the back fence, tomatoes he was far too proud of. He'd bring a bag of them over every August whether you wanted them or not." A small laugh. "Quiet man. Big hands — I always thought that was funny, how gentle he was with those hands, considering the size of them."
 
@@ -154,7 +154,7 @@ He drove the way competent people do everything — without visible effort. Two 
 
 "They weren't looking in the right direction," the man said. "That's most of what losing someone is."
 
-I sat in the back and watched the town give way to open country, the particular gentle green of South Limburg rolling past the windows, hedgerows, a church spire here and there marking a village too small to otherwise announce itself. I was aware of being carried rather than travelling, of decisions being made around me that I had no capacity, just then, to weigh in on. It was not an unpleasant feeling. It was, if anything, a relief to let the world make choices for a while.
+I sat in the back and watched the town give way to open country, the gentle green of South Limburg rolling past the windows, hedgerows, a church spire here and there marking a village too small to otherwise announce itself. I was aware of being carried rather than travelling, of decisions being made around me that I had no capacity, just then, to weigh in on. It was not an unpleasant feeling. It was, if anything, a relief to let the world make choices for a while.
 
 At some point a road sign went past — a place name, unremarkable, close enough to the German border that I understood, distantly, we were nearly at the edge of the country without having decided to go there.
 

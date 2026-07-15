@@ -14,7 +14,7 @@ Then Jonas said my name, quietly, from somewhere just past me, and when I turned
 
 It was, unmistakably, a place someone had prepared. Not generically — for me. A cardigan hung on a hook by the door in exactly my size. A shelf in the small sitting room held books I recognised, titles I would have chosen for myself. On the kitchen counter, a tin of the tea I actually drank, not a tea, the one.
 
-But nothing in the kitchen suggested anyone had been there recently — no last-minute tidying, no smell of anything cooked, no sign of a hand moving through the rooms in the hours before ours. It had instead the particular held stillness of a place kept ready for a long time and then, quietly, left alone to wait: dusted, aired, stocked, and sealed shut behind a door until today.
+But nothing in the kitchen suggested anyone had been there recently — no last-minute tidying, no smell of anything cooked, no sign of a hand moving through the rooms in the hours before ours. It had instead the held stillness of a place kept ready for a long time and then, quietly, left alone to wait: dusted, aired, stocked, and sealed shut behind a door until today.
 
 I didn't have an answer for any of it. I set my bag down in the hall of a house that already knew me better than I knew myself, and I held the envelope against my chest, unopened, and for the first time since Bernadette's kitchen, I let myself cry — not from grief this time, or not only grief, but from the strange, unbearable tenderness of being taken care of by someone who would not show their face.
 
@@ -54,6 +54,6 @@ He didn't push. "Okay."
 
 "I don't think I'm avoiding it," I said, because I wanted that to be true and needed to hear myself say it to find out. "I just don't have anything left today. Whatever's in there is going to want all of me, and there isn't an all of me left tonight."
 
-"Then it waits," Jonas said, simply, and moved the envelope to the counter, out of the direct sightline of the table — not hidden, just set aside, the specific consideration of a man who understood that some things need to not be looked at in order to be sat with.
+"Then it waits," Jonas said, simply, and moved the envelope to the counter, out of the direct sightline of the table — not hidden, just set aside, the quiet consideration of a man who understood that some things need to not be looked at in order to be sat with.
 
 We found towels in an airing cupboard that smelled of lavender and nothing else, and a bed made up in a room upstairs with the same care as everything else, and I understood, climbing into it, that whatever this house was — a kindness, a strategy, both at once, it no longer mattered which, not tonight — it had done exactly what it was built to do. For one evening, in a village at the edge of the country, we were not being hunted. We were only tired, and fed, and warm, and together, and that was, for the length of one evening, enough.
