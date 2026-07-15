@@ -4,74 +4,74 @@
 
 She suggested a walk.
 
-It was a reasonable suggestion — open, public, the kind of conversation that sits better without walls around it. I recognised the logic and said nothing about recognising it. Iris took the card and handed it to me. We walked.
+It was a reasonable suggestion — open ground, public, the kind of conversation that sits better without walls around it. I recognised the logic and said nothing about recognising it. Iris took the card and handed it to me. We walked.
 
-The Wertheimpark is a short walk from the Scheepvaartmuseum — small, tree-lined, the kind of park that exists for the neighbourhood rather than for visitors. Mara knew the way without consulting her phone.
+The Wertheimpark is a short walk from the Scheepvaartmuseum — small, tree-lined, the kind of park that exists for its neighbourhood rather than for visitors. Mara knew the way without consulting anything.
 
-I looked at the card as we walked. Mara Seyn. A title: Director of Research Operations. A company name: Arcturus Biomedical Research. A Brussels address. A phone number and nothing else — no website, no email. The card was heavy stock, cream-coloured, the kind that costs money to produce without drawing attention to having cost money.
+I read the card as we went. *Mara Seyn.* A title: Director of Research Operations. A company: Arcturus Biomedical Research. A Brussels address, a phone number, and nothing else — no website, no email. Heavy cream stock, the kind that costs money to produce without appearing to have cost anything.
 
-I put it in my pocket.
+I put it in my pocket. Cards like that are meant to be kept. I intended to disappoint it.
 
 ---
 
-The park in late August is a particular thing — the trees still full but with the first sense of what is coming, the light at an angle that belongs to the end of summer rather than its middle. People with dogs, people with children, cyclists navigating the paths with the mild aggression of cyclists everywhere. We walked along the main path, Mara on one side, Iris and I on the other, and Mara began.
+The park in late August is its own small season — the trees still full but carrying the first knowledge of what's coming, the light arriving at the angle that belongs to summer's last chapter. Dogs, children, cyclists negotiating the paths with the mild universal aggression of cyclists. We took the main path, Mara on one side, Iris and I on the other, and Mara began.
 
-She was careful with her language. She said: your medical results — the imaging from the OLVG — had been flagged through the European Health Data Space for specialist review. She said: Arcturus had a monitoring arrangement with several nodes of that network, looking for anomalies of a particular kind, for research purposes. She said: what Iris's scans had shown was, in their understanding, the most significant finding of that kind they had encountered.
+She was careful with her language. Your medical results, she said — the imaging from the OLVG — had been flagged through the European Health Data Space for specialist review. Arcturus maintained monitoring arrangements with several nodes of that network, watching for anomalies of a particular class, for research purposes. What Iris's scans showed was, in their understanding, the most significant finding of its kind they had ever encountered.
 
-She said this the way you say something important while watching very carefully how it lands.
+She said this the way you say an important thing while watching very closely how it lands.
 
 "What kind of anomaly?" Iris said.
 
-"Skeletal," Mara said. "The density and uniformity of your bone structure is unlike anything in any population study we are aware of. We have been looking, for several years, at variations in skeletal composition that appear to correlate with unusual physiological resilience — faster healing, higher structural tolerance, certain neurological patterns." A pause, measured. "Your profile matches what we have been theorising about. More closely than anything we have seen."
+"Skeletal," Mara said. "The density and uniformity of your bone structure resembles nothing in any population study we know of. We have spent years studying variations in skeletal composition that correlate with unusual physiological resilience — accelerated healing, higher structural tolerance, certain neurological patterns." A calibrated pause. "Your profile matches what we have been theorising. More closely than anything we have seen."
 
 "Theorising for what purpose?" I said.
 
-She looked at me — the same rapid assessment as before, recalibrating slightly. "Medical applications," she said. "If we can understand the genetic basis for this kind of skeletal formation, the implications for bone disease, trauma recovery, degenerative conditions — the applications are significant. We are not a small operation. We have the resources to investigate this properly."
+She looked at me — the same rapid audit as at the steps, adjusted by one notch. "Medical applications. If the genetic basis for this kind of skeletal formation can be understood, the implications for bone disease, trauma recovery, degenerative conditions are significant. We are not a small operation. We have the resources to investigate properly."
 
-The path curved around a pond. A family of coots was doing its chaotic thing near the bank. A man on a bench was reading a newspaper, which felt slightly out of time. Behind us, at a distance that was not quite casual, I was aware of the black Mercedes G-Class that had been moving at walking pace along the park road since we entered.
+The path curved around a pond. A family of coots conducted its chaos near the bank. A man on a bench read an actual newspaper, like a message from a slower century. And behind us, at a distance calculated to be almost casual, a black Mercedes G-Class kept walking pace along the park road, and had done since we entered.
 
 ---
 
 "What would you be proposing?" Iris said.
 
-"A series of investigations," Mara said. "Private, thorough, conducted by our own specialists. Non-invasive to begin with — further imaging, some tissue sampling, a full genetic panel. We would cover all costs. You would have full access to your own results. And we would compensate you for your time — generously."
+"A series of investigations. Private, thorough, conducted by our own specialists. Non-invasive to begin — further imaging, some tissue sampling, a full genetic panel. All costs covered. Full access to your own results. And generous compensation for your time."
 
-She named a figure. It was generous.
+She named the figure. It was generous the way a moat is wide.
 
-Iris was quiet for a moment. "And what would Arcturus do with what you found?"
+Iris was quiet a moment. "And what would Arcturus do with what it found?"
 
-"Research," Mara said. "Published, in time, through appropriate channels. With your consent at every stage."
+"Research. Published in time, through appropriate channels. With your consent at every stage."
 
 "And if we declined to continue at any point?"
 
-"Then we would stop." She said it simply, without hesitation, which was either true or very well practised. "We are not interested in anyone who isn't willing. That's not how good research works."
+"Then we would stop." No hesitation — either true, or worn smooth by rehearsal. "We are not interested in the unwilling. That's not how good research works."
 
-She said this last part with a slight shift in register — something almost personal in it, a fraction of warmth where the rest had been precise. I noticed it and wasn't sure what to do with it.
+She let a fraction of warmth into that last part, the first unprofessional inch she had shown, and I noticed it without knowing what to file it under. Warmth deployed at the exact moment warmth is useful is not quite warmth. But it is not quite not, either. That was the trouble with the whole conversation.
 
 ---
 
-We had reached the far end of the main path. The pond was behind us now, the rose garden to the left, the late afternoon light coming through the trees in the particular way it does when summer has made its decision to leave.
+We had reached the far end of the main path — the pond behind us, the rose garden to the left, the light coming through the trees at its end-of-summer angle, gilding everything mildly, promising nothing.
 
 "We'll think about it," Iris said.
 
-Mara nodded. She had expected this — I could see that she had expected exactly this. "Of course," she said. "Take whatever time you need. My number is on the card."
+Mara nodded. She had expected exactly this; you could see the expectation being met like an item on a list. "Of course. Take whatever time you need. My number is on the card."
 
-She looked at Iris with a quality that was harder to read than the rest of her — not cold, not warm, something more like recognition. As if she were looking at something she had been told to find and was now confirming its existence.
+Then she looked at Iris a moment longer, with something harder to read than everything preceding it — not cold, not warm. Closer to recognition. The look of someone confirming the existence of a thing she had been told to find.
 
-"I hope you'll consider it seriously," she said. "What we're looking at — what you carry — it isn't a condition. It isn't something wrong with you. It's something that could be of enormous benefit to a great many people." A brief pause. "That seems worth understanding."
+"I hope you'll consider it seriously," she said. "What we're looking at — what you carry — isn't a condition. It isn't something wrong with you. It is something that could benefit a very great number of people. That seems worth understanding."
 
-Iris held her gaze. "We'll be in touch," she said.
+Iris held her gaze. "We'll be in touch."
 
-Mara gave a small, complete nod. She took out her phone, said something brief into it, and within thirty seconds the black Mercedes had appeared at the nearest park entrance. She walked toward it without hurrying, without looking back. The door opened from the inside. She got in. The car moved away into the Amsterdam traffic, unhurried, and was gone.
+Mara gave a small, complete nod, took out her phone, said something brief into it, and within thirty seconds the black Mercedes stood at the nearest gate. She walked to it without hurry and without looking back. The door opened from the inside. The car took her into the Amsterdam traffic, unhurried, and was gone.
 
 ---
 
-We stood on the path for a moment.
+We stood on the path.
 
 "Well," I said.
 
 "Yes," said Iris.
 
-A cyclist went past, bell ringing at a dog that had wandered into the lane. The dog ignored it with the complete confidence of a creature that has decided bells are not relevant to its situation.
+A cyclist rang furiously at a dog that had drifted into the lane. The dog ignored the bell with the total serenity of a creature that has reviewed the relevance of bells and closed the file.
 
 We walked back the way we had come.

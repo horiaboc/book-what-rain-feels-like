@@ -2,19 +2,19 @@
 
 ---
 
-There was a café on the Czaar Peterstraat that opened early, which was what we needed — somewhere to sit with coffee that wasn't a hospital corridor, somewhere the city could remind us it was still going on. We found it on the way from the OLVG, Iris walking carefully, her head requiring that we take it slowly. She had the particular careful quality of someone navigating a body that has recently demonstrated it can surprise them.
+There was a café on the Czaar Peterstraat that opened early, which was what we needed — somewhere to sit with coffee that wasn't a hospital corridor, somewhere the city could demonstrate that it was still going about its business. We found it on the walk from the OLVG, Iris moving carefully, her head setting the pace. She had the guarded quality of someone navigating a body that has recently shown it can produce surprises.
 
-We sat at a window table. Outside: a canal, a bridge, the particular low Amsterdam light of a morning in late August. A man on a bicycle passed with a crate of bread strapped behind him. The city, indifferent and faithful, doing what it always did.
+We took a window table. Outside: a canal, a bridge, the low Amsterdam light of a morning in late August. A man cycled past with a crate of bread strapped behind him. The city, indifferent and faithful, doing what it has always done — which that morning felt less like indifference and more like a promise.
 
-Iris wrapped her hands around her coffee. I wrapped mine around mine. We sat for a while without speaking, which felt right.
+Iris wrapped her hands around her coffee. I wrapped mine around mine. We sat for a while without speaking, and the not-speaking held us up.
 
 ---
 
 I had been sitting with it all night.
 
-Maes's words had stayed in the order she had given them: the bone density, the uniformity, the cortex connectivity, the grazes closing faster than expected. I had run them over and over the way you run a sentence you don't quite understand, hoping repetition will unlock it. It hadn't. What I had arrived at, by morning, was simpler and harder than any explanation: I did not know what was wrong with Iris, or whether wrong was even the right word for it, and the not-knowing was sitting in me like something I had no good place to put.
+Maes's words had stayed in the order she gave them: the bone density, the uniformity, the cortex connectivity, the grazes closing faster than they should. I had run the sequence over and over the way you run a sentence you can't parse, hoping repetition will shake the grammar loose. It hadn't. What I had arrived at by morning was simpler and harder than any theory: I did not know what was wrong with Iris — or whether *wrong* was even the right word — and the not-knowing sat in me like a stone I had no pocket for.
 
-I was worried about her. That was the whole of it. Not curious, not analytical — worried, in the plain specific way of being afraid for someone you love. The findings weren't a puzzle to solve. They were her body, which was the body of the person I had fallen asleep beside for the past several months, and something in it was different from what either of us had understood, and I didn't yet know what that meant for her.
+I was worried about her. That was the whole of it. Not curious. Not analytical. Worried, in the flat, specific way of being afraid for someone you love. The findings were not a puzzle; they were her body — the body of the person I had fallen asleep beside for months — and something in it was other than what either of us had understood, and I did not yet know what that meant for her.
 
 "You haven't slept," Iris said.
 
@@ -28,39 +28,39 @@ She looked at me. "Jonas."
 
 "I'm fine," I said. "I wanted to be there."
 
-She was quiet for a moment. Then: "Say what you're thinking."
+She was quiet a moment. Then: "Say what you're thinking."
 
-I looked at the canal. The man with the bread had long gone. A heron was doing its patient thing on the far bank, waiting for something it seemed confident would arrive.
+I looked at the canal. The bread man was long gone. On the far bank a heron did its patient work, waiting for something it appeared entirely confident would arrive.
 
-"I'm thinking," I said, "that I'm frightened. That what Maes described is not nothing, and the genetic variation explanation might be true and might not be, and I don't know which, and I don't know what it means for you if it isn't." I paused. "That's what I've been sitting with."
+"I'm thinking," I said, "that I'm frightened. That what Maes described is not nothing. That the genetic explanation might be true and might not be, and I don't know which, and I don't know what it means for you if it isn't." I paused. "That's what I've been sitting with."
 
-She held that for a moment. Then she said: "There are other things too. Before the hospital."
+She held it for a moment, the way she holds things — turning it once, checking the weight. Then she said: "There are other things too. Before the hospital."
 
 I looked at her.
 
-"The street yesterday — the square that wasn't there. That wasn't the first time. There have been other things. A building near the Leidseplein. A canal turning that keeps going wrong. A place in my memory where a canal has a wooden bridge and the actual street is a dead end." She looked at her hands. "I've been explaining them away. I don't think they are ordinary forgetting."
+"The street yesterday — the square that wasn't there. That wasn't the first one. There have been others. A building near the Leidseplein. A canal turning that keeps being wrong. A place in my memory where a canal has a wooden bridge, and the actual street is a dead end." She looked at her hands. "I've been explaining them away. I don't think they're ordinary forgetting."
 
 "How many?"
 
-"Enough that it's a pattern."
+"Enough to be a pattern."
 
-I sat with this. The café was filling up around us, a quiet weekday morning, people with coffee and laptops and the mild self-sufficiency of Amsterdam. Outside the window, ordinary life, doing what it does.
+I sat with that. Around us the café filled by quiet degrees — laptops, coffee, the mild self-sufficiency of an Amsterdam weekday. Beyond the glass, ordinary life went on conducting itself as though nothing anywhere had changed. That is the thing about ordinary life. It has no idea.
 
 "Are you frightened?" I said.
 
-She thought about it the way she always does — actually thinking, not producing the expected answer. "Something between curious and — something is wrong," she said. "Both at once."
+She considered it the way she considers everything — actually considering, not reaching for the expected answer. "Something between curious and — *something is wrong*," she said. "Both at once. They take turns."
 
 ---
 
-"I'm not going anywhere," I said. "I want to be clear about that."
+"I'm not going anywhere," I said. "I want that on the record."
 
 She looked at me.
 
-"Whatever this turns out to be. Genetic condition, something no one's seen before, something that has no category yet — I'm here. I'm not going to become afraid of you, or confused about what I feel. I know what I feel." I paused. "You matter too much to me. That part is not up for revision."
+"Whatever this turns out to be. A genetic condition, something no one has seen before, something without a category — I'm here. I'm not going to become afraid of you, and I'm not going to become confused about what I feel. I know what I feel." I paused. "You matter too much to me. That part is not up for revision."
 
-She was quiet. Her eyes were doing something they do sometimes — not filling exactly, more like becoming very clear, very present, as if she is taking something in and holding it carefully.
+She went quiet. Her eyes did the thing they sometimes do — not filling, exactly; clarifying. Becoming very present, as if to take a thing in carefully and set it somewhere protected.
 
-"You should know that," I said. "Before anything else. You should just know that."
+"You should know that," I said. "Before anything else. You should simply know it."
 
 She nodded. Small, complete.
 
@@ -72,17 +72,17 @@ She nodded. Small, complete.
 
 "You're leaving it open."
 
-"Empirically, I cannot rule it out." I looked at her. "And if that's what it is, I'd be glad to see the planet. I assume the public transport is better organised."
+"Empirically, I cannot rule it out." I looked at her. "And if that's what it is, I'd be glad to see the planet. I assume the public transport runs on time."
 
-She laughed — the real one, the one that surprises her. It came out into the café and went somewhere, and she put her hand over her mouth briefly afterward as if she hadn't expected it, and her eyes were bright.
+She laughed — the real one, the one that surprises her on its way out. It escaped into the café and went about its business, and she put her hand briefly over her mouth as if to check where it had come from, and her eyes were bright.
 
-When it passed, she looked at the window for a moment. Then: "We should go back to my places," she said. "The ones I remember. See what holds and what doesn't."
+When it had passed, she looked at the window a moment. Then: "We should go back to my places," she said. "The ones I remember. See what holds and what doesn't."
 
-"Yes," I said. "I was thinking the same thing."
+"Yes," I said. "I was thinking the same."
 
 "We'd need to stay longer."
 
-"I booked the flat for another week this morning," I said. "On my phone. In the hospital lift, while you were being discharged."
+"I extended the flat another week this morning," I said. "On my phone. In the hospital lift, while you were being discharged."
 
 She looked at me.
 
@@ -90,14 +90,14 @@ She looked at me.
 
 ---
 
-We went back to the flat and she slept — properly, the sleep of someone who had spent a night in a hospital bed being monitored at intervals and needed the real thing. I sat at the kitchen table with the canal outside and worked out what we would do. The referrals would come through in a day or two — orthopaedics and neurology both, Maes had said. I looked up the Amsterdam UMC on my phone: a large teaching hospital, the right kind of place for findings that had no ready category. I made a list of what we knew, what the doctors had said, what questions we hadn't thought to ask yet. It was a short list in some ways and a very long one in others.
+We went back to the flat and she slept — properly, the sleep of someone who has spent a night being monitored at intervals and needs the genuine article. I sat at the kitchen table with the canal outside and worked out what we would do. The referrals would arrive within a day or two — orthopaedics and neurology, Maes had said. I looked up the Amsterdam UMC: a large teaching hospital, the right kind of place for findings without a category. I made a list of what we knew, what the doctors had said, what we had not yet thought to ask. It was a short list in some ways. In others it was the longest list I have ever made.
 
-When she woke in the late afternoon the light was going golden through the window. She came out of the bedroom and found me at the table, and she stood in the doorway for a moment, slightly uncertain the way you are when you wake from deep sleep in an unfamiliar context, and then she looked at me and the uncertainty settled.
+When she woke in the late afternoon, the light had gone golden through the window. She came out of the bedroom and stood in the doorway a moment, uncertain the way you are when deep sleep releases you into an unfamiliar room — and then she found me at the table, and the uncertainty settled.
 
 "Tea?" I said.
 
 "Please," she said.
 
-She sat at the table while I made it. We sat at the window over the canal — the late light on the water, the city outside going about its business — and I handed her the cup and she held it with both hands and we were quiet in the way of two people who have said what needed to be said and don't need to say it again.
+She sat while I made it. Then we sat together at the window over the canal — the late light on the water, the city outside attending to its own affairs — and I handed her the cup, and she held it with both hands, and we were quiet in the way of two people who have said what needed saying and do not need to say it twice.
 
-Whatever came next, this was the order of it: her, first. The mystery after.
+Whatever came next, the order of operations was settled: her, first. The mystery after.
