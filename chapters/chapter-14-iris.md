@@ -2,33 +2,33 @@
 
 ---
 
-The piece had been called *Deciding Without Asking* since April, and the title had started to feel like something I had agreed to without fully understanding.
+The piece had been called *Deciding Without Asking* since April, and the title had begun to feel like something I had agreed to without fully understanding the terms.
 
-This happens, I know, with titles. You choose something that describes the shape of the thing at the time of choosing, and then the thing grows in a direction the title did not anticipate. This one had started as an overview — the predictive systems embedded in European civic infrastructure, housing allocation, benefit assessments, the variety of automated policing that does not call itself policing. I had spent three weeks on it and then my editor extended the brief, and three more after that, and what I had now was something that kept finding new true things to say.
+This happens with titles, I know. You choose one that fits the shape of the thing at the moment of choosing, and then the thing grows in a direction the title never anticipated. This one had begun as an overview — the predictive systems embedded in European civic infrastructure: housing allocation, benefit assessments, the varieties of automated policing that decline to call themselves policing. Three weeks in, my editor extended the brief. Three more weeks, and what I had was a story that kept finding new true things to say, which is the best problem a story can have and still a problem.
 
-I am good at this beat. I have been aware of this for some time without knowing quite what to do with the awareness. The questions it turns on — who optimises what, for whom, by whose account, and who falls through the gap between one category and the next — arrive for me with a clarity I do not have to work for. As if I have always known where to look. As if the material and I are calibrated for each other.
+I am good at this beat. I have known it for some time without knowing what to do with the knowledge. The questions the work turns on — who optimises what, for whom, by whose account, and who falls through the gap between one category and the next — arrive for me with a clarity I do not have to work for. As if I have always known where to look. As if the material and I were calibrated for each other, somewhere, in advance.
 
-I had been thinking about this — sitting at my desk in early May with three open browser tabs, an annotated PDF from an ethics institute in Utrecht, and a growing suspicion that the story's real subject was slightly to the left of what I had been asked to write — when Jonas arrived with bread and the news that Diogenes had, in his considered opinion, thrived. He checked on the cactus before he checked on me, which I have decided is not a reflection on his priorities but on the quality of his relationship with the plant.
+I had been sitting with that thought — at my desk in early May, three browser tabs open, an annotated PDF from an ethics institute in Utrecht, and a growing suspicion that the story's real subject lay slightly to the left of what I'd been assigned — when Jonas arrived with bread, and with the news that Diogenes had, in his considered opinion, thrived. He checked on the cactus before he checked on me. I have decided this reflects not his priorities but the seniority of the relationship. The cactus was there first. I respect a man who honors the order of things.
 
-We ate late and talked about his day, which had involved a routing algorithm and a meeting about the routing algorithm that was, by his account, less helpful than the routing algorithm. He has a particular gift for describing situations in which the process designed to solve the problem becomes the problem, and I find I like this gift more each time I encounter it. There is something in the way he sees these things — not cynical, not satisfied, just exact. Like someone pointing to the place where the thread enters the knot.
+We ate late and talked about his day, which had involved a routing algorithm and a meeting about the routing algorithm that had been, by his account, less useful than the routing algorithm. He has a gift for describing situations in which the process designed to solve a problem becomes the problem, and I like the gift more every time it appears. There is something in how he sees these things — not cynical, not satisfied. Exact. Like a man pointing at the place where the thread enters the knot.
 
 ---
 
-I was telling him about the man I had interviewed at the ethics institute, who had used the phrase *accountability gap* eleven times in forty minutes and appeared to believe he was saying something different each time, when Jonas asked where I had learned my German.
+I was telling him about the man from the ethics institute — who had used the phrase *accountability gap* eleven times in forty minutes, apparently believing he said something new each time — when Jonas asked where I had learned my German.
 
 "Your German," he said. "It's very good. I sometimes forget it isn't your first language."
 
-I said it more or less was. I told him about Heerlen.
+I said it more or less was. And I told him about Heerlen.
 
 ---
 
-Heerlen is in the south of Limburg, about thirty kilometres from Aachen — close enough that the border does not feel like a border, only like a change in the road signs. The province has a history of coal mining and a particular stubbornness, the kind that comes through something hard and then has to work out what to do next. My grandparents' house was on a street that was neither beautiful nor ugly — semi-detached, a long garden at the back, a garage that contained a bicycle, three boxes of things nobody could remember, and, for most of my childhood, a rusted rotary washing line my grandfather had decided to repair on a specific Saturday and had not touched since.
+Heerlen is in the south of Limburg, about thirty kilometres from Aachen — close enough that the border stops feeling like a border and becomes a change in the road signs. The province mined coal for a century, then had to work out what a place becomes after the thing it was for is taken away; a certain stubbornness got it through, and the stubbornness stayed. My grandparents' house was on a street that was neither beautiful nor ugly — semi-detached, a long garden at the back, a garage containing a bicycle, three boxes of things nobody could remember, and, for most of my childhood, a rusted rotary washing line my grandfather had resolved to repair on one specific Saturday and then never touched again.
 
-Opa Kees spoke Dutch to me and about everything. He was a quiet man with very large hands and a collection of opinions about football that he expressed with a force out of proportion to his general temperament. He taught me to ride a bicycle on the same Saturday he did not fix the washing line, which means I associate cycling with the smell of rust and his patience. He died four years ago, of a quiet heart failure — the kind that gives you time to say what you want to say and not quite enough time to say all of it. I have thought about this often.
+Opa Kees spoke Dutch, to me and to everything. He was a quiet man with very large hands and a collection of opinions about football that he delivered with a force wholly out of proportion to his general temperament. He taught me to ride a bicycle on the same Saturday he did not fix the washing line — which is why cycling, for me, smells faintly of rust and patience. He died four years ago, of a quiet heart failure: the kind that gives you time to say what you want to say, and not quite enough time to say all of it. I have thought about that arithmetic often.
 
-Oma Ingrid spoke German. She was from Aachen originally — came to Limburg at twenty-two for a job and stayed for my grandfather, which she described, in both languages, as the second-best decision she had ever made. The best, she said, was not telling him that immediately. She taught me to cook with a precision I have since understood is not universal: recipes as instructions to be followed exactly, because they exist for a reason. She laughed at things in a way that began in her shoulders before it reached her face. I spoke German to her my whole life. When she died, eighteen months ago, I found I was not ready to stop.
+Oma Ingrid spoke German. She was from Aachen originally — came to Limburg at twenty-two for a job and stayed for my grandfather, which she described, in both her languages, as the second-best decision of her life. The best, she said, was not telling him so immediately. She taught me to cook with a precision I have since learned is not universal: recipes as instructions to be followed exactly, because they exist for a reason. Her laugh started in her shoulders before it reached her face, always, like weather you could see coming. I spoke German with her my whole life. When she died, eighteen months ago, I found I was not ready to stop.
 
-Jonas listened to all of this without interrupting, which is a quality I have come to trust in him. When I finished he said: "What was the best thing she ever made?"
+Jonas listened to all of it without interrupting — a quality of his I have come to trust the way one trusts a load-bearing wall. When I finished, he said: "What was the best thing she ever made?"
 
 I had to think. "Pfefferkuchen," I said, eventually. "Christmas. Every year."
 
@@ -36,11 +36,11 @@ I had to think. "Pfefferkuchen," I said, eventually. "Christmas. Every year."
 
 "He mostly ate it."
 
-Jonas found this satisfying in the way he finds most things satisfying — with a quiet recognition, as if the story had arrived at its correct conclusion.
+Jonas found this satisfying in the way he finds most true things satisfying — a quiet recognition, as of a story arriving at its correct conclusion.
 
-We were quiet for a moment, the good kind.
+We were quiet for a moment, the good kind of quiet.
 
-"I'm sorry," he said, for Oma Ingrid, for all of it.
+"I'm sorry," he said. For Oma Ingrid. For all of it.
 
 "Yes," I said. "Thank you."
 
@@ -48,12 +48,12 @@ We were quiet for a moment, the good kind.
 
 We went to bed late.
 
-I lay in the dark beside him, thinking of Oma Ingrid's kitchen — the yellow shelf above the radiator where she kept her cookbooks, the specific sound of the window when it rained, the way she dried her hands on a cloth before she touched anything she was about to treat with care. I have these details. They are there when I reach for them, clear and whole, like details in a photograph you have studied long enough to see with your eyes closed.
+I lay in the dark beside him, thinking of Oma Ingrid's kitchen — the yellow shelf above the radiator where the cookbooks lived, the sound of that window in the rain, the way she dried her hands on a cloth before touching anything she was about to treat with care. I have these details. They are there when I reach for them, clear and whole, like details in a photograph studied so long you can see it with your eyes closed.
 
-And yet. When I go further — looking for the smell of something, the weight of a cup, the particular roughness of a fabric — the memory stays where it is. It does not come toward me. It is there, but it will not come closer.
+And yet. When I go further in — reaching for the smell of something, the weight of a cup, the roughness of a particular cloth — the memory stays where it is. It does not come toward me. It is there, and it will not come closer, like a figure on the far bank of something.
 
-Grief does things to memory. I know this. You keep the shape of someone and lose the particular edges, and in time even the edges you kept begin to soften.
+Grief does things to memory. I know this. You keep the shape of a person and lose the edges, and in time even the edges you kept begin to soften.
 
-Jonas's breathing slowed beside me. Outside it was raining with the specific unhurriedness of early May, and I lay there and thought about Oma Ingrid's German — the exact music of it — and found I could recall the rhythm precisely.
+Jonas's breathing slowed beside me. Outside it rained with the unhurriedness of early May, and I lay there thinking of Oma Ingrid's German — the exact music of it — and found I could recall the rhythm perfectly.
 
 Just not the sound.

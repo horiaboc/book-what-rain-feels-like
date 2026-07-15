@@ -4,15 +4,15 @@
 
 April.
 
-Diogenes appears to have relocated to the kitchen windowsill, which gets more sun in the morning. He is a cactus and lacks the initiative for this kind of decision, so I can only conclude that Iris moved him there one afternoon without mentioning it — she notices these things and acts on them quietly, as if rearranging the light around something is simply what you do when you care about it. I am choosing to read it as contentment. Both of them, I think, would agree.
+Diogenes appears to have relocated to the kitchen windowsill, which gets more of the morning sun. He is a cactus and lacks the initiative for a decision of this scope, so I can only conclude that Iris moved him one afternoon without mentioning it — she notices these things and acts on them quietly, as if rearranging the light around something is simply what one does for whatever one cares about. I am choosing to read the move as contentment. Both of them, I believe, would sign off on that reading.
 
-I seem to be reading a great deal of things as contentment lately.
+I seem to be reading a great deal of things as contentment lately. The error bars are wide. I have stopped minding.
 
 ---
 
 The first morning I woke up on Graefestraße, I lay still for a moment and took inventory.
 
-The ceiling was unfamiliar. The light was unfamiliar — her window faces east, which mine doesn't, and the March sun at six-thirty has a specific quality I'm not used to: particular and unhurried, the kind of light that makes you feel the day has been carefully arranged for your benefit. I could hear her in the kitchen — the small sounds of coffee being made by someone who knows how they like it and intends to have it that way.
+The ceiling was unfamiliar. The light was unfamiliar — her window faces east, which mine doesn't, and the March sun at six-thirty has a way of arriving that I wasn't prepared for: deliberate and unhurried, as if the day had been arranged in advance for your benefit by someone with taste. I could hear her in the kitchen — the small sounds of coffee being made by a person who knows how she likes it and intends to have it exactly that way.
 
 I thought: this is the part where I consider whether to stay.
 
@@ -22,53 +22,53 @@ I stayed.
 
 Here is what I have learned about Iris, in the domestic sense, in the weeks since the party:
 
-She wakes early and is immediately functional, which I find both admirable and slightly unnerving. She reads two newspapers before I have finished my first coffee. She talks to things — the bicycle lock when it sticks, occasionally plants, the oven once, at length. She is practical with a competence that is at once unassuming and absolute: the cabinet hinge, a running tap, a loose floorboard in her hallway that I stepped on twice before she fixed it with a calm efficiency that suggested she had been meaning to get to it and my twice stepping on it had constituted sufficient reminder.
+She wakes early and is immediately functional, which I find both admirable and mildly unnerving — she surfaces from sleep the way other people arrive at work. She reads two newspapers before I have finished my first coffee. She talks to things: the bicycle lock when it sticks, occasionally the plants, once — at length — the oven. She is practical with a competence that is at once unassuming and absolute: the cabinet hinge, a running tap, a loose floorboard in her hallway that I stepped on twice before she fixed it with an efficiency suggesting that my stepping on it twice had constituted the required paperwork.
 
-She is neat in the way of someone who isn't trying to be neat but thinks in an ordered way, so order follows. My apartment has not been this functional since I moved in.
+She is neat in the way of someone who isn't trying to be neat but thinks in an ordered fashion, so that order simply follows her from room to room. My apartment has not functioned this well since I moved in.
 
-She finds Diogenes neutral. Diogenes finds her acceptable, which for Diogenes is effectively an endorsement.
-
----
-
-One Saturday in April we had what I will describe as an argument, which is perhaps overstating it.
-
-The subject was eggs. Specifically: whether scrambled eggs should be made with butter or oil, at what heat, and for how long. I have strong opinions on this. It turned out she also has strong opinions on this, and they are different opinions. We debated for roughly eight minutes at moderate volume while the butter in question melted in the pan and began to brown, which resolved the issue practically if not philosophically. The eggs were made her way. They were excellent, which I acknowledged, which she received with a serenity that made it clear she had known they would be.
-
-I have thought about this more than is strictly necessary for an argument about eggs. What I keep returning to is not who won — she won, or the eggs won, which amounts to the same thing — but the quality of it. The way we found the edges of the disagreement and stayed there just long enough to enjoy it before finding the solution. The way she laughed when the butter started to smoke. The way I laughed because she laughed. Small loop closing.
+She finds Diogenes neutral. Diogenes finds her acceptable, which from Diogenes is effectively a ceremony.
 
 ---
 
-She is interested in everything, which is perhaps her most consistent quality and the one that catches me most off-guard. Not in the dilettante way — she doesn't skim; she finds the question underneath the question and goes there. We will be talking about something ordinary — the commute, a film, the neighbor downstairs and his wall of framed photographs of old doors and portals — ornate ones, the kind from buildings that no longer exist — which I have decided is either a very specific passion or the beginning of a philosophy — and she will ask the one question that opens a different conversation entirely. The question is always the right one. The conversation is always better than the one we were having.
+One Saturday in April we had what I will describe as an argument, though the word is doing more work than the event requires.
 
-I mentioned this to Mia, which I should have anticipated. Mia is forty-three, has been at Merkon eleven years, and has looked after me with the particular affectionate pragmatism of someone who considers emotional competence part of good systems design. She listened to approximately forty seconds of what I was saying, then said *so you're in love with her, then* — not as a question — and looked up with an expression I had not previously seen from her in a work context, which was uncomplicated happiness. Then she went back to her documentation.
+The subject was eggs. Specifically: whether scrambled eggs want butter or oil, at what heat, and for how long. I have strong opinions on this. It emerged that she also has strong opinions on this, and that they are different opinions. We debated for roughly eight minutes at moderate volume while the butter in question melted in the pan and began to brown, thereby resolving the question practically if not philosophically. The eggs were made her way. They were excellent. I acknowledged this. She received the acknowledgment with a serenity that made clear she had known it was coming.
 
-Mia is the clearest documentarian I know. It is not always convenient, but on this occasion I found I didn't mind.
+I have thought about this more than an argument about eggs strictly merits. What I keep returning to is not who won — she won, or the eggs won, which amounts to the same — but the *quality* of the thing. The way we found the edges of the disagreement and stayed there just long enough to enjoy the view before finding the solution. The way she laughed when the butter started smoking. The way I laughed because she did. A small loop, closing.
 
 ---
 
-One evening in April I came home to find her on the sofa with my copy of *Austerlitz*, which I had not offered and she had not asked for. She had a pen in her hand and was not using it. She looked up when I came in with the expression of someone surfacing from something.
+She is interested in everything. It is perhaps her most consistent property, and the one that most reliably catches me off guard. Not in the dilettante way — she doesn't skim; she finds the question underneath the question and moves in there like a tenant. We will be talking about something ordinary — the commute, a film, the neighbor downstairs and his wall of framed photographs of ornate old doors, doors from buildings that no longer exist, a collection I have decided is either a very specific passion or the early stages of a philosophy — and she will ask the one question that opens a different conversation entirely. The question is always the right one. The new conversation is always better than the one we were having.
 
-"Is it all right?" she said. The book.
+I mentioned this to Mia, which I should have seen the consequences of. Mia is forty-three, has been at Merkon eleven years, and looks after me with the affectionate pragmatism of someone who considers emotional competence a branch of good systems design. She listened to approximately forty seconds of what I was saying, then said *so you're in love with her, then* — not as a question — and looked up with an expression I had never before seen from her in a work context, which was uncomplicated happiness. Then she went back to her documentation.
+
+Mia writes the clearest documentation I know. It is not always convenient to be one of her systems. On this occasion, I found I didn't mind.
+
+---
+
+One evening in April I came home to find her on the sofa with my copy of *Austerlitz*, which I had not offered and she had not asked for. She had a pen in her hand and was not using it. She looked up when I came in with the expression of someone surfacing from deep water.
+
+"Is it all right?" she said. The book, she meant.
 
 "Of course."
 
-She went back to it. I made dinner. She set it down when I called her to the table and then, while we ate, said nothing about it — and then, over the second glass of wine, began talking about it with a precision and a feeling that surprised me, not because it was unexpected from her but because of where it went: the question of whether a person can lose their history and remain themselves. Whether what you remember is what you are.
+She went back to it. I made dinner. She set the book down when I called her to the table, said nothing about it while we ate — and then, over the second glass of wine, began to talk about it with a precision and a feeling that surprised me. Not because they were unexpected from her, but because of where they went: the question of whether a person can lose their history and remain themselves. Whether what you remember is what you are.
 
-She was quiet when she finished, in the way of someone who has said more than they intended.
+She was quiet when she finished, in the way of someone who has said more than she planned to.
 
 "Are you all right?" I said.
 
 "Yes." A pause. "I think some books find the things you were already thinking."
 
-I didn't push on it. She turned the page and came back from wherever she had been, and we talked about other things, and later she laughed at something I said and the evening closed around us the way good evenings do — not with a conclusion, just with warmth and the hour getting later and neither of us in a hurry about it.
+I didn't push. She turned the page and came back from wherever she had been, and we talked about other things, and later she laughed at something I said, and the evening closed around us the way the good ones do — no conclusion, just warmth, and the hour getting later, and neither of us in any hurry about it.
 
 ---
 
 May is coming.
 
-The bicycle in my courtyard has now been there so long that it has achieved a kind of permanence I've decided to respect. It was never mine — it came with the courtyard, in the way some things do — but it occurs to me only now that I have, in the meantime, bought one of my own — secondhand, Kreuzberg, good frame — which I ride on Saturdays when Iris has morning assignments and the canal path is possible at a decent speed. I arrive at wherever I'm going in a better state than I left. This is, I think, the point.
+The bicycle in my courtyard has now stood there long enough to achieve a kind of permanence I have decided to respect. It was never mine — it came with the courtyard, the way some things do — but it occurs to me only now that I have, in the meantime, bought one of my own: secondhand, Kreuzberg, good frame. I ride it on Saturdays when Iris has morning assignments and the canal path can be taken at speed. I arrive wherever I'm going in a better state than I left. This is, I believe, the entire point of the exercise.
 
-She asked me once, toward the end of April, what I was thinking about when I went quiet.
+She asked me once, toward the end of April, what I think about when I go quiet.
 
 "Usually a problem," I said. "Something I'm working through."
 
@@ -78,7 +78,7 @@ I looked at her.
 
 "Less often a problem," I said.
 
-She nodded as if this were a satisfactory answer, which it was, and reached for her coffee, and outside the window April did what April in Berlin does when it decides to be decent about things: pale sun, new leaves on the linden, the particular lightness of a city remembering what it was before November.
+She nodded as though this were a satisfactory answer — it was — and reached for her coffee, and outside the window April did what April in Berlin does on the occasions it decides to be decent: pale sun, new leaves on the linden, the lightness of a city remembering what it was before November.
 
 I let the morning be quiet.
 
