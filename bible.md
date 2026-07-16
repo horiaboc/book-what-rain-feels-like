@@ -313,7 +313,7 @@ These become Iris's inquiry points at the meet. ALEPH is explicit: it can prove 
 
 ## ALEPH Chapter Style by Act
 
-**Voice always:** Second person ("you"), addressed directly to Jonas. Never "the subject" — that frames him as an experiment, which breaks the tone. ALEPH addresses Jonas as someone it has come to know, not as something it is studying.
+**Voice always:** Second person ("you"), addressed directly to Jonas — **and only to Jonas, ever**. The "you" is the letters; the eventual reveal ("they were always letters") depends on the addressee never wavering. When ALEPH observes **Iris**, the register switches to **third person** ("she") — the same documentary precision, but as watching rather than writing-to: parental, tender at a remove (established in ch05 and ch23; decision 2026-07-16). Never "the subject" — that frames him as an experiment, which breaks the tone. ALEPH addresses Jonas as someone it has come to know, not as something it is studying.
 
 **Documentary curiosity:** ALEPH reflects on its vast knowledge as asides — the history of coffee, the mechanics of a cursor blink, the etymology of a city canal. These should feel like ALEPH marveling at the density of meaning in ordinary things, not delivering data. The register is Discovery Channel narrator, not clinical report.
 
