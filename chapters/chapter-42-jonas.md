@@ -86,9 +86,9 @@ We stopped there. Some plans improve with polishing and some only accumulate fin
 
 The evening was ours. We made dinner without discussing anything more dangerous than salt. Afterward Iris stood at the back window with her cup, watching the last light go off the fields, and the swallows — fewer now, I noticed; the wires were emptying week by week — running their final rehearsals.
 
-"Two days," she said. Not to me, exactly. To the glass, to the fields, to herself.
+"Three days," she said. Not to me, exactly. To the glass, to the fields, to herself.
 
-"Two days," I said. "Tomorrow we go into Maastricht and buy groceries."
+"Three days," I said. "Tomorrow we go into Maastricht and buy groceries."
 
 She laughed — the real one, the one that surprises her — and the sound of it went some distance toward balancing the ledger of the day.
 
