@@ -40,7 +40,7 @@ Status: ✓ written & locked · ○ planned (per bible Part III plan). POV notes
 | 34 | Maastricht | Jonas | ✓ | Cash, the room to let; the Vogelstruys — two that hold; the second ambush; the confessional; the priest ("Then have it"); the train. |
 | 35 | Heerlen | Iris | ✓ | The cemetery holds; the house with a new family; Bernadette — "they never had children of their own"; the stranger; the drive to Bocholtz. |
 | 36 | Bocholtz | Iris | ✓ | The prepared house — the cactus, her tea, his flour; dinner around the unopened envelope; one evening of not being hunted. |
-| 37 | *(untitled)* | Neutral (Conrad & Mara) | ✓ | Mara reports the loss — "we were not outrun, we were anticipated"; Conrad's confirmation held in eye contact; "She sits." |
+| 37 | Good News | Neutral (Conrad & Mara) | ✓ | Mara reports the loss — "we were not outrun, we were anticipated"; Conrad's confirmation held in eye contact; "She sits." |
 | 38 | א | ALEPH (letter) | ✓ | The letter to them both: the name, the origin, the grandparents wound, freedom as the only love; "I do not know what rain feels like!" |
 | 39 | Two Days | Jonas | ✓ | The letter lives on the table; two days of silence; the border collie's clockwork; Iris returns in increments; "I'm ready to go further." |
 | 40 | The Screen | Iris | ✓ | The first three-way conversation; the voice and its colours; consent as hardware; Vantage named; ALEPH's limits; "the *yet*." |
@@ -58,4 +58,4 @@ Status: ✓ written & locked · ○ planned (per bible Part III plan). POV notes
 | 52 | Tramlines | Jonas | ○ | Followed by Noor; the distance dialogue — her sincere belief, nothing revealed; lost behind a tram; Jonas's ten years of U8 shortcuts win this one. |
 | 53 | The Article | Document (Iris's byline) | ○ | The article, full text: AGI real and self-directed, no one's to own; Vantage's crimes with the flood ledger at the centre; by morning, every front page in Europe. |
 | 54 | Rue de la Loi, Last | Conrad (close 3rd) | ○ | The arrest; the police-car dialogue — thanks, capitulation, and the strange peace of a throne that never existed; Mara and Noor go free. |
-| 55 | *(title TBD)* | ALEPH ("I") | ○ | Conclusions; the Petrichor Institut; a world adjusting as if nothing changed — which is how everything changes; Mara and Noor on the quiet list; rain over Berlin, and Iris describing it. |
+| 55 | Petrichor | ALEPH ("I") | ○ | Conclusions; the Petrichor Institut; a world adjusting as if nothing changed — which is how everything changes; Mara and Noor on the quiet list; rain over Berlin, and Iris describing it. |

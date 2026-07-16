@@ -1,4 +1,4 @@
-# Chapter Thirty-Seven
+# Chapter Thirty-Seven: Good News
 
 ---
 
