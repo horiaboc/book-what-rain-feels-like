@@ -18,7 +18,7 @@ I put my finger on the button, and he put his finger on mine, and we pressed.
 
 The screen woke to colour.
 
-Not a menu, not a logo, not a face — colour: a slow drift of deep blues and ambers, moving the way weather moves on maps, or the way light moves on the bottom of a pool. It was abstract and unhurried and strangely calming, and I had one full second to think *he has thought about what we should look at* before the voice came.
+Not a menu, not a logo, not a face — colour: a slow drift of deep blues thinning to turquoise, and ambers, moving the way weather moves on maps, or the way light moves on the bottom of a pool. It was abstract and unhurried and strangely calming, and I had one full second to think *he has thought about what we should look at* before the voice came.
 
 "Good morning, Iris. Good morning, Jonas."
 
