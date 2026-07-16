@@ -1,4 +1,4 @@
-# Chapter Seven: December
+# Chapter Seven: The Byline
 
 ---
 

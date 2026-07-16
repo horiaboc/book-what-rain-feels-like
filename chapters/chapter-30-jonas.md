@@ -74,4 +74,4 @@ We stood on the path.
 
 A cyclist rang furiously at a dog that had drifted into the lane. The dog ignored the bell with the total serenity of a creature that has reviewed the relevance of bells and closed the file.
 
-We walked back the way we had come.
+We walked back the way we had come, past the pond and the roses and the man with his newspaper, and the park went on being an ordinary park in every direction. That was the thing about Mara Seyn's offer. It had sounded ordinary too.

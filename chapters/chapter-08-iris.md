@@ -1,4 +1,4 @@
-# Chapter Eight: January
+# Chapter Eight: The Journalist
 
 ---
 

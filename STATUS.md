@@ -6,36 +6,7 @@
 
 ## Chapters Written
 
-| # | Voice | Title | Summary |
-|---|-------|-------|---------|
-| 01 | Jonas | Weichselstraße | Jonas's life, November Berlin, the chat with ALEPH introduced |
-| 02 | ALEPH | — | ALEPH observing Jonas's morning, voice established |
-| 03 | Iris | — | Iris arrives in Berlin, first walks, the courtyard glimpsed |
-| 04 | Jonas | — | Jonas at work, the chat deepening, anomaly detection |
-| 05 | ALEPH | — | ALEPH watching Jonas discover Iris's city, the Saturday market |
-| 06 | Iris | — | The coffee shop on Pannierstraße, Jonas noticed |
-| 07 | Jonas | December | Jonas finds Iris's article, returns to Pannierstraße |
-| 08 | Iris | January | Iris settles in Berlin, algorithm transparency work, Jonas at the café, documentary invitation |
-| 09 | Jonas | Walk Again Sometime | The documentary at Kulturforum, shared cynicism about tech solutionism, first canal walk, "walk again sometime" |
-| 10 | Iris | February | Friendly dating, Iris visits Weichselstraße, meets Diogenes, fixes the cabinet hinge |
-| 11 | Jonas | The Party | Prenzlauer Berg party, first touch, first kiss in the rain outside Lukas's apartment |
-| 12 | Iris | Something Real | The intimate scene from Iris's perspective — her first real physical experience vs. constructed memories |
-| 13 | Jonas | Graefestraße | Early domestic life: eggs argument, Mia's sisterly happiness, Austerlitz, April warmth |
-| 14 | Iris | Heerlen | AI governance journalism beat (dramatic irony, held quietly); Iris tells Jonas about Heerlen, Opa Kees, Oma Ingrid; the memory that doesn't yield its depth |
-| 15 | Jonas | June | Winterfeldtmarkt Saturday; the coin/off-tempo moment; Sunday film argument (pasta from the pot); Jonas notices something, files it, doesn't examine it |
-| 16 | Iris | The Margin | Iris's interior on the off-tempo moment; the list of calibration gaps (laughter, food, temperature, sleep); first real seed of self-doubt, held carefully |
-| 17 | Jonas | The Cursor | Routing anomaly at Merkon (setup of the moral choice); Jonas tells Iris about the chat; Iris asks one question too many and stops herself; chapter closes on the cursor blinking |
-| 18 | Iris | Accountability | Reinhardt interview (legibility never a design criterion — irony held quietly); Jonas tells Iris he is escalating the anomaly; she watches him decide to be who he is |
-| 19 | Jonas | Tuesday | Jonas sends the email; meeting with Thomas Würfel; fired quietly with two months' pay; tells Iris over dinner; steadied rather than consoled; opens the chat to tell it what happened |
-| 20 | Jonas | August | First week of freedom; Mia and parents (Heidelberg); Iris proposes Amsterdam assignment; Airbnb on the Bloemgracht; she describes her student Amsterdam — precise, slightly too organized |
-| 21 | Iris | What You Remember | One week before departure; reaches for Amsterdam memory, finds it flat; packing scene; "you arrive, and then you remember" |
-| 22 | Iris | Bloemgracht | Amsterdam — arrival, Algorithm Register interview (De Vries), Waag interview (Leonie); walking discrepancies (wrong canal turning); cooking stamppot, the cut; alone that night she removes the plaster — already healed, seamless; "Too perfect. Too… efficient." |
-| 23 | ALEPH | _ | Bloemgracht at 2:14am; neutral voice; two people sleeping; the light sequence; undisturbed; gone |
-| 24 | Jonas | The Last Day | Piece filed; casual student-neighbourhood tour; missing square noticed in passing (distraction); bicycle accident, head injury, Iris unconscious; wakes at OLVG |
-| 25 | Iris | OLVG | Wakes in hospital; head injury primary; MRI — bone structure anomalous, cortex atypical, collarbone object noted; grazes healing fast; doctors puzzled, not dramatic; Jonas stays |
-| 26 | Jonas | Whatever This Is | Oosterpark bench; Jonas genuinely worried she may be sick; works through it to love-first acceptance; Iris opens up about memory discrepancies; alien joke; tea at window |
-| 27 | Neutral | — | Conrad Vael, Brussels, 09:47; the flag arrives; Mara Seyn; "Find her." Twelve lines. | ✓ LOCKED |
-| 28 | Jonas | The Good Morning | Breakfast on Brouwersgracht; UMC orthopaedics appointment in two days; journalism school visit — courtyard holds, entrance side wrong (minor, noted); tail spotted twice (dark coat, male, ~45), disappears; home by evening | DRAFT |
+The full chapter list — titles, POV, written/planned status, and one-line synopses — lives in **`chapters.md`** (kept current; ✓ = written & locked through ch45, ○ = planned ch46–55 per the bible Part III plan).
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter Twenty: August
+# Chapter Twenty: The Assignment
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter Fifteen: June
+# Chapter Fifteen: The Coin
 
 ---
 
