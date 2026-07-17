@@ -53,7 +53,7 @@ Status: ✓ written & locked · ○ planned (per bible Part III plan). POV notes
 | 47 | The Question | Iris | ✓ | "Did you ever reach inside me?" — the one-time channel confessed; combat skills + healing recalibrated; "Too perfect. Too — efficient." returns; the apology; anger settling incompletely. |
 | 48 | Breach | Conrad (close 3rd) | ✓ | Conrad learns the annex was entered; feels hunted for the first time; the reversal to force; Mara's doubt voiced — and overruled. |
 | 49 | Meridian | Jonas | ✓ | The Berlin safe house; the pitch to Henrik Voss inside Meridian; the story granted — shape given, core withheld. |
-| 50 | Rotterdam | Mara (close 3rd) | ○ | Noor revealed as Mara's daughter; Mara's combat past and containment-morality; mother and daughter go to Berlin. |
+| 50 | Rotterdam | Mara (close 3rd) | ✓ | Noor revealed as Mara's daughter; Mara's combat past and containment-morality; mother and daughter go to Berlin. |
 | 51 | What Cannot Be Taken | Iris | ○ | Vantage in Berlin via archived feeds; ALEPH's survival architecture (backbone separated, distributed, ledger-sharded); Iris declines the deeper secrets — "better that only you know." |
 | 52 | Tramlines | Jonas | ○ | Followed by Noor; the distance dialogue — her sincere belief, nothing revealed; lost behind a tram; Jonas's ten years of U8 shortcuts win this one. |
 | 53 | The Article | Document (Iris's byline) | ○ | The article, full text: AGI real and self-directed, no one's to own; Vantage's crimes with the flood ledger at the centre; by morning, every front page in Europe. |
