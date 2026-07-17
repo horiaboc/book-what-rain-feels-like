@@ -50,7 +50,7 @@ Status: ✓ written & locked · ○ planned (per bible Part III plan). POV notes
 | 44 | The Bandstand | Iris | ✓ | The meet; partnership offered to "whoever stands behind" her; three questions; the OLVG flinch; "he has no idea I'm free." |
 | 45 | What We Keep | Jonas | ✓ | The shakeoff; ALEPH reads Noor; only proof ends it — human hands required; the night that held when nothing else did. |
 | 46 | The Archive | Iris | ✓ | The Luxembourg records annex; Jonas extracts the ledger by hand; the folder that silences them (unnamed to the reader); the fight with Noor — Iris wins, at cost. |
-| 47 | The Question | Iris | ○ | "Did you ever reach inside me?" — the one-time channel confessed; combat skills + healing recalibrated; "Too perfect. Too — efficient." returns; the apology; anger settling incompletely. |
+| 47 | The Question | Iris | ✓ | "Did you ever reach inside me?" — the one-time channel confessed; combat skills + healing recalibrated; "Too perfect. Too — efficient." returns; the apology; anger settling incompletely. |
 | 48 | Breach | Conrad (close 3rd) | ○ | Conrad learns the annex was entered; feels hunted for the first time; the reversal to force; Mara's doubt voiced — and overruled. |
 | 49 | Meridian | Jonas | ○ | The Berlin safe house; the pitch to Henrik Voss inside Meridian; the story granted — shape given, core withheld. |
 | 50 | Rotterdam | Mara (close 3rd) | ○ | Noor revealed as Mara's daughter; Mara's combat past and containment-morality; mother and daughter go to Berlin. |
