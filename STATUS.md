@@ -6,15 +6,13 @@
 
 ## Chapters Written
 
-The full chapter list — titles, POV, written/planned status, and one-line synopses — lives in **`chapters.md`** (kept current; ✓ = written & locked through ch45, ○ = planned ch46–55 per the bible Part III plan).
+The full chapter list — titles, POV, status, and one-line synopses — lives in **`chapters.md`**. **All 55 chapters are written and locked. The first draft is complete (2026-07-18).**
 
 ---
 
 ## Story Position
 
-**End of chapter 27.** Conrad Vael has flagged Iris. Mara Seyn has her orders. The hunt begins. Ch28 onward is being reworked: Vantage's pursuit reframed as military/genetic research interest (DNA anomaly angle), with no technology hints until the grandparents arc, where the story begins its shift toward the AI revelation.
-
-**Voice rotation going forward:** Jonas / Iris alternating, with flexibility for one voice to carry two consecutive chapters if the moment requires it. ALEPH's named voice returns well past chapter 40.
+**COMPLETE FIRST DRAFT — ch01 through ch55, all locked.** The book ends with ch53 "The Article" (the document chapter), ch54 "Rue de la Loi, Last" (Conrad's arrest and capitulation), and ch55 "Petrichor" (ALEPH's first "I", the faint rain ending, the title-drop as the final sentence, signed א). The ending was deliberately made minimal at the user's direction: Iris steps into the rain, smiles, begins to describe — and the record stops.
 
 ---
 
@@ -145,12 +143,13 @@ Iris writes an article — describing the shift from AI to AGI as a public recko
 
 ## Immediate Next Action
 
-Ch24–37 in place and locked. Ch35 "Heerlen" and ch36 "Bocholtz" closed out the Heerlen arc / Part II (cemetery → grandparents' house → neighbour Bernadette's "they never had children of their own" — the grandparents revelation → Arcturus spotted twice → mysterious ALEPH-connected stranger extracts them → safe house in Bocholtz). Envelope from the stranger still unopened. Ch37 (neutral, Vantage/Brussels) mirrors ch27: Mara reports losing them; Conrad reframes the failure as confirmation of what stands behind Iris — his knowledge of what she is confirmed, his motive still sealed for the Part III dialogue.
+**The first draft is complete — all 55 chapters written and locked (ch46–55 written 2026-07-17/18).** The cover is approved and its lossless master lives in `cover/cover.png` (1024×1536; needs ~2x upscale before print).
 
-Ch38 "א" (ALEPH) — the reveal chapter — is written and locked: ALEPH's letter to Iris and Jonas, first extended contact. Name revealed, grandparents wound named, the title line ("I do not know what rain feels like") lands here. Held back deliberately for a later ALEPH/Iris scene: the collarbone/implant, the single ch23 update, and the reserved "too efficient" line — that scene is where Iris asks whether ALEPH ever influenced her.
+Candidate next steps, in no committed order:
+1. **Full read-through / revision pass** of ch38–55 in sequence (the Part III sprint) for rhythm, tic-check, and continuity against the earlier Fable restyle.
+2. **Rebuild the EPUB** — now meaningful: the complete book, with the cover embedded.
+3. Front matter: title page, possibly the א as the interior section-break ornament (idea logged 2026-07-16).
+4. Cover typography pass (title upper third, warm off-white humanist serif, straight rain line as cursor under the last word).
+5. Second-book seed (bible-only): the AGI press conference is the opening of any sequel.
 
-Ch39 "Two Days" and ch40 "The Screen" written and locked. Ch40: first three-way conversation — ALEPH's voice and colour-screen introduced, consent-as-architecture, Vantage named to Jonas and Iris, ALEPH's limits confessed (cannot see inside Vantage), Iris's origin predates Vantage ("a bridge is not a soldier"), and the unsaid conclusion: someone must get close to Conrad.
-
-The complete approved Part III plan (ch40–55) lives in bible.md. Next: **ch41 "The Quiet Room"** (Conrad, close third) — the secure room, Conrad's operator-delusion logic, the pivot to peaceful contact.
-
-*Last updated: 2026-07-15*
+*Last updated: 2026-07-18*

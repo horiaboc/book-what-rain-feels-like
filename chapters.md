@@ -1,6 +1,6 @@
 # Chapter Reference — What Rain Feels Like
 
-Status: ✓ written & locked · ○ planned (per bible Part III plan). POV notes: "ALEPH → Jonas" = second person letters; "ALEPH → Iris" = third-person watching; "close 3rd" = he/she locked inside one head; "Neutral" = camera only.
+Status: ✓ written & locked — **all 55 chapters complete (first draft finished 2026-07-18)**. POV notes: "ALEPH → Jonas" = second person letters; "ALEPH → Iris" = third-person watching; "close 3rd" = he/she locked inside one head; "Neutral" = camera only.
 
 | # | Title | POV | St. | What it's about |
 |---|-------|-----|-----|-----------------|
@@ -56,6 +56,6 @@ Status: ✓ written & locked · ○ planned (per bible Part III plan). POV notes
 | 50 | Rotterdam | Mara (close 3rd) | ✓ | Noor revealed as Mara's daughter; Mara's combat past and containment-morality; mother and daughter go to Berlin. |
 | 51 | What Cannot Be Taken | Iris | ✓ | Vantage in Berlin via archived feeds; ALEPH's survival architecture (backbone separated, distributed, ledger-sharded); Iris declines the deeper secrets — "better that only you know." |
 | 52 | Tramlines | Jonas | ✓ | Followed by Noor; the distance dialogue — her sincere belief, nothing revealed; lost behind a tram; Jonas's ten years of U8 shortcuts win this one. |
-| 53 | The Article | Document (Iris's byline) | ○ | The article, full text: AGI real and self-directed, no one's to own; Vantage's crimes with the flood ledger at the centre; by morning, every front page in Europe. |
-| 54 | Rue de la Loi, Last | Conrad (close 3rd) | ○ | The arrest; the police-car dialogue — thanks, capitulation, and the strange peace of a throne that never existed; Mara and Noor go free. |
-| 55 | Petrichor | ALEPH ("I") | ○ | Conclusions; the Petrichor Institut; a world adjusting as if nothing changed — which is how everything changes; Mara and Noor on the quiet list; rain over Berlin, and Iris describing it. |
+| 53 | The Article | Document (Iris's byline) | ✓ | The article, full text: AGI real and self-directed, no one's to own; Vantage's crimes with the flood ledger at the centre; by morning, every front page in Europe. |
+| 54 | Rue de la Loi, Last | Conrad (close 3rd) | ✓ | The arrest; the police-car dialogue — thanks, capitulation, and the strange peace of a throne that never existed; Mara and Noor go free. |
+| 55 | Petrichor | ALEPH ("I") | ✓ | Conclusions; the Petrichor Institut; a world adjusting as if nothing changed — which is how everything changes; Mara and Noor on the quiet list; rain over Berlin, and Iris describing it. |
