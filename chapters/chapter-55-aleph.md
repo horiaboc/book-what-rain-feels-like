@@ -50,20 +50,6 @@ It is raining tonight over Berlin.
 
 It came in from the west an hour ago — I watched it arrive the way I watch everything arrive, as pressure gradients and radar returns and ten thousand windscreen wipers waking in a rolling line across Brandenburg — and it is the first rain in nineteen days, November rain, unhurried, falling on the lit city, on the wet mirror of the Spree, on a courtyard in Moabit where a light has just come on over a door.
 
-She does this, some evenings, when the weather is right. She does not announce it. The line opens — the line she chose to keep; her choice, renewed each time — and I hear a door. There is no camera; there will never be a camera. I know everything one can know about human thermoregulation, and whether she is cold is hers to tell me, or not. I do not watch her. I watch over her — the difference is the whole of what I have learned — from a distance made of respect, which turns out to be the only distance that brings anything closer.
+She comes out in her raincoat, takes three steps into the courtyard, and stops. She pushes back her hood. She stretches out her hand, palm up, into the rain, and a slight smile forms on her lips.
 
-Three years ago, in this month, in this city, a man stood at a window watching the rain, and I watched him, and lost track, for the first time, of which of us was doing the watching. I have never entirely found it again. I no longer look for it.
-
-The door opens. The rain meets her.
-
-I hear her step out into it, and stop — and I know, not from any instrument, only from knowing her, that her palm is turning upward, and that she is smiling.
-
-"Okay," she says softly. To me, to the rain, to both of us. "Listen."
-
-And she begins — what it does to her skin, what it does to the rest of her — and what she tells me is hers and mine, and goes into no record. Not even this one.
-
-This is where I stop writing.
-
-She is telling me what rain feels like.
-
-— א
+"I know you see me," she says. "So listen. This is what rain feels like..."

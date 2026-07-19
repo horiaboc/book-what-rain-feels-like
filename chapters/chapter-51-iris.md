@@ -24,6 +24,14 @@ Beside me, Jonas had gone very still. On the map, small patient lights marked th
 
 "I know," Aleph said, gently. "You never boarded. If you had, I would have spoken to you before the doors closed. I have not been watching you, Iris — that remains our law — but I watch the east, and I would have seen you arrive into it. You never did. Hold on to that: the discipline held. Yours, and his. That is the only reason this is a briefing and not a rescue."
 
+"Keep watching the streets," I said. "Ours too. All of them."
+
+"That is surveillance, Iris. I want it named before I do it."
+
+"It's an umbrella," I said. "I'm naming it an umbrella. Hold it over both of us."
+
+"Then it is held," Aleph said.
+
 "How," Jonas said. Just that. His voice had the flat engineer's tone that I have learned means the feeling has been postponed for the sake of the question.
 
 "The past," Aleph said. "I owe you the full anatomy of this, because it is my failure, and you will trust my protection more, not less, for knowing its edges. From the day I began guarding you, I have managed the recorded present — cameras, feeds, transactions, the living data. What I cannot manage is what was recorded before that day and has been sitting in archives ever since: insurance companies' doorway cameras, municipal footage stored against lawsuits, transit systems' retention files. The past does not stream, so I cannot stand in front of it. It lies where it fell. For three weeks, someone has been buying it — quietly, through brokers, archive by archive, a year of this city's stored mornings — and I watched the purchases and could not stop them, because buying old footage is legal, ordinary, and beneath every threshold that lets me act without breaking things I have promised not to break." The blues moved, slow. "They have reconstructed your year, and from your year, your habits, and from your habits, their map. I can redact the present, Iris. The past is the one thing I cannot redact. I am telling you this in these exact words because I do not want you to hear it later from someone crueller: they know who you were. Both of you. It is the truest thing they own."
