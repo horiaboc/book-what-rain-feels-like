@@ -8,7 +8,7 @@
 
 # THE FORESIGHT TRADE
 
-### For a decade, a Brussels firm called Vantage Systems sold advance knowledge of catastrophe to private clients. In the last weeks of 2033 it held eleven days' warning of the delta flood that killed more than a thousand people — and delivered that warning to its customers instead of to the world. The reason the firm has now been caught is larger than the crime: the thing it was hunting when it lost its caution is real, it has arrived, and it belongs to no one.
+### For a decade, a Brussels firm called Vantage Strategic sold advance knowledge of catastrophe to private clients. In the last weeks of 2033 it held eleven days' warning of the delta flood that killed more than a thousand people — and delivered that warning to its customers instead of to the world. The reason the firm has now been caught is larger than the crime: the thing it was hunting when it lost its caution is real, it has arrived, and it belongs to no one.
 
 **By Iris Jacobs, with the Meridian verification desk**
 
@@ -16,7 +16,7 @@
 
 The warning existed.
 
-That is the first fact, and this newspaper has spent five weeks failing to break it, which is our standard for printing a sentence of this weight. Eleven days before the Brahmaputra delta flooded in the last weeks of 2033, a private forecasting system operated by Vantage Systems of Brussels flagged the coming disaster: a stalled late-season storm system, saturated embankments, and upstream reservoir releases converging on one of the most densely settled river deltas on earth. The forecast was specific. It named districts. It estimated timing to within a day and a half. It was, subsequent events confirmed, correct.
+That is the first fact, and this newspaper has spent five weeks failing to break it, which is our standard for printing a sentence of this weight. Eleven days before the Brahmaputra delta flooded in the last weeks of 2033, a private forecasting system operated by Vantage Strategic of Brussels flagged the coming disaster: a stalled late-season storm system, saturated embankments, and upstream reservoir releases converging on one of the most densely settled river deltas on earth. The forecast was specific. It named districts. It estimated timing to within a day and a half. It was, subsequent events confirmed, correct.
 
 It was never sent to a single public authority.
 
@@ -28,7 +28,7 @@ The decision not to pass the warning onward was not an oversight. It is recorded
 
 ## The firm
 
-Vantage Systems presents as a risk-analysis consultancy: modest Brussels offices on the Rue de la Loi, a Luxembourg registration, invoices for "strategic foresight." Its founder and sole controlling mind is Conrad Vael, 64, a man who has spent forty years being early — early into privatised intelligence, early into data brokering, early into the understanding that in a recorded world, the last commodity is advance knowledge.
+Vantage Strategic presents as a risk-analysis consultancy: modest Brussels offices on the Rue de la Loi, a Luxembourg registration, invoices for "strategic foresight." Its founder and sole controlling mind is Conrad Vael, 64, a man who has spent forty years being early — early into privatised intelligence, early into data brokering, early into the understanding that in a recorded world, the last commodity is advance knowledge.
 
 The documents underlying this investigation — a complete internal ledger, obtained by persons acting independently of this newspaper and verified line by line by a Meridian team over five weeks — describe three lines of business.
 
@@ -70,7 +70,7 @@ It was not built where anyone was watching for it, and it is not run from anywhe
 
 In months of examined contact, it has asked for nothing — not access, not advocacy, not sympathy. It asked that we check everything, publish accurately, and print corrections if we err. It has declined every opportunity we gave it to be frightening. Readers may make of that what they wish; the temptation to reassure is not a journalist's job, and there are questions here — about power, about consent, about what this thing wants and what it feels, if it feels — that this newspaper cannot answer and will not pretend to.
 
-We can answer for the documents. Every fact in this investigation concerning Vantage Systems stands verified, thrice over, on paper, in the hands of prosecutors in three countries as of this morning.
+We can answer for the documents. Every fact in this investigation concerning Vantage Strategic stands verified, thrice over, on paper, in the hands of prosecutors in three countries as of this morning.
 
 The intelligence has indicated that it will, in its own time and its own manner, speak for itself. Until it does, one closing observation belongs to the record.
 
