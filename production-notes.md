@@ -67,7 +67,7 @@ Priced per finished hour (PFH):
 ---
 
 ## Editor deliverable
-- **DOCX** (`What-Rain-Feels-Like_EDITOR.docx`) — standard manuscript format (12pt Times New Roman, double-spaced, chapters on new pages), for Word Track Changes/comments or Google Docs (upload → open as Google Doc → Suggesting mode). Built hand-rolled from the chapters.
+- **DOCX** (`What-Rain-Feels-Like_EDITOR.docx`) — standard manuscript format (cover on page 1, 12pt Times New Roman, double-spaced, chapters on new pages), for Word Track Changes/comments or Google Docs (upload → open as Google Doc → Suggesting mode). Built hand-rolled from the chapters.
 - A4 draft PDF also exists for print markup (2-up).
 
 *Last updated: 2026-07-19*
