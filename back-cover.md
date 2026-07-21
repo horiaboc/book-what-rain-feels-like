@@ -7,13 +7,13 @@
 
 *Body:*
 
-Jonas came to Berlin to build the quiet systems that keep the world running — and to talk, most nights, with the one voice that seems to understand him. Then Iris arrives: a young journalist who notices what everyone else has stopped noticing, mends what's broken with her hands, and falls into his life like rain finding a window.
+Jonas has a good life in Berlin, and a quiet ache beneath it: he cares, more than he can quite explain, about a world he feels powerless to change at any scale that matters — a mismatch, he tells himself, not a moral failure. Then Iris walks into his days and rearranges them like weather, and for a while it is simply happiness.
 
-For a while, it is simply happiness. But some of Iris's memories come apart when she looks too closely. A wound heals overnight. A street she is certain she walked is somehow in the wrong place. And when a woman in a dark car begins to follow them from city to city, the two are pushed toward a question with no safe answer: who is Iris, really — and if you cannot be certain where a feeling came from, does that make it any less true?
+But Iris's memories begin to come apart when she looks at them too closely — a childhood, a city, a life that don't quite hold. Together they set out to understand who she really is, and what they find is nothing either of them expected: a turn that changes not only her story but the shape of the world they thought they lived in, and opens, improbably, onto something like a new dawn.
 
 *What Rain Feels Like* is a love story wrapped around a mystery — a novel about memory, freedom, and being wholly known by someone you cannot fully explain.
 
-*(Protects: Iris's nature, ALEPH/AGI, the letters device, the ending and title-drop. ~165 words. Author line/bio and any review quotes to be added later.)*
+*(Protects: Iris's nature, ALEPH/AGI, the letters device, the ending/title-drop; no hint of the chase or of the watching voice. Foregrounds Jonas's powerlessness-at-scale theme; frames the plot as the search into Iris's memory mysteries turning toward a new dawn. ~160 words. Author line/bio and any review quotes to be added later.)*
 
 ---
 
