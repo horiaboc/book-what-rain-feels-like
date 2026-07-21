@@ -35,3 +35,9 @@ Debut sweet spot: ebook **$4.99–$6.99**; can launch lower ($2.99–3.99) to at
 - **ISBN:** free KDP-assigned ISBN at publish for paperback (KDP prints the barcode on the back — keep the bottom-right corner clear); **Kindle needs no ISBN** (Amazon assigns an ASIN). Buy your own ISBN only if you want to be publisher-of-record (optional).
 
 *Last updated: 2026-07-21*
+
+## Printing / fulfillment (added 2026-07-21)
+- **Print on Demand (KDP default):** upload interior + cover PDF once; Amazon prints each paperback/hardcover **per order** and ships it. **No pre-order, no inventory, no upfront cost** ($0 to publish). Print fee is already deducted before royalty (~$4.45 for a ~300pp paperback).
+- **Author copies:** you may buy your own book at **print cost** (no royalty) + shipping — for the editor, first readers, launch, gifts, in-person sales. Optional, no real minimum.
+- **Offset batch printing** (500–1000+, cheaper per unit but pay upfront + store + ship yourself): only worth it at real in-person volume. Not for a debut.
+- **IngramSpark:** alternative POD, better for wide bookstore/library distribution; can run alongside KDP. Also zero-inventory. Later, if wanted.
