@@ -71,3 +71,6 @@ Priced per finished hour (PFH):
 - A4 draft PDF also exists for print markup (2-up).
 
 *Last updated: 2026-07-19*
+
+## Author name (decided)
+Publish as the mononym **`_horia`** — stylized with a leading underscore, echoing the book's cursor motif (ch23 `_`). Underscore is a **cover/art treatment**; retail metadata registers as **Horia** (searchable); legal name only on the copyright page. Stays `_horia` across all languages/marketplaces. See `back-cover.md`, `book-matter/`.
